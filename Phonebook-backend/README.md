@@ -6,6 +6,6 @@ https://phonebook-backend-fullstackope.herokuapp.com/api/persons/
 
 https://phonebook-backend-fullstackope.herokuapp.com/
 
-#3.21 Deploying the database backend to production
+3.21 Deploying the database backend to production
 
 https://phonebook-backend-fullstackope.herokuapp.com/
