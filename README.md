@@ -99,6 +99,8 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 5.17.-5.22. End to end -testing
 - https://fullstackopen.com/en/part5/end_to_end_testing#exercises-5-17-5-22
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
+## 5 ECTS Course Complete Certificate
+![5 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347)
 # Part 6 State management with Redux
 - Exercises 6.1.-6.2. Flux-architecture and Redux
 - https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-1-6-2
