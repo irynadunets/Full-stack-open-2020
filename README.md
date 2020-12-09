@@ -83,4 +83,19 @@ Other topics include debugging applications, configuration, managing runtime env
 -Exercises 4.15.-4.22. Token authentication
 - https://fullstackopen.com/en/part4/token_authentication#exercises-4-15-4-22
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part4/part4/Exercises-4.15.-4.22
-
+# Part 5 Testing React apps
+- Exercises 5.1.-5.4. Login in frontend
+- https://fullstackopen.com/en/part5/login_in_frontend#exercises-5-1-5-4
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
+- Exercises 5.5.-5.10. props.children and proptypes
+- https://fullstackopen.com/en/part5/props_children_and_proptypes#exercises-5-5-5-10
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
+-Exercises 5.11.-5.12. props.children and proptypes
+- https://fullstackopen.com/en/part5/props_children_and_proptypes#exercises-5-11-5-12
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
+-Exercises 5.13.-5.16. Testing React apps
+- https://fullstackopen.com/en/part5/testing_react_apps#exercises-5-13-5-16
+- solution:  https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
+-Exercises 5.17.-5.22. End to end -testing
+- https://fullstackopen.com/en/part5/end_to_end_testing#exercises-5-17-5-22
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
