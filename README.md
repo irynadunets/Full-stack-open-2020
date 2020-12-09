@@ -120,3 +120,13 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 6.19.-6.21. connect
 - https://fullstackopen.com/en/part6/connect#exercises-6-19-6-21
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/redux-anecdotes-6.19-6.21
+# Part 7 React router, custom hooks, styling app with CSS and webpack
+- Exercises 7.1.-7.3. React-router
+- https://fullstackopen.com/en/part7/react_router#exercises-7-1-7-3
+- solution: 
+- Exercises 7.4.-7.8. Custom hooks
+- https://fullstackopen.com/en/part7/custom_hooks#exercises-7-4-7-8
+- solution: 
+- Exercises 7.9.-7.21. Exercises: extending the bloglist
+- https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#exercises-7-9-7-21
+- solution:
