@@ -99,3 +99,22 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 5.17.-5.22. End to end -testing
 - https://fullstackopen.com/en/part5/end_to_end_testing#exercises-5-17-5-22
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part5/part5
+# Part 6 State management with Redux
+- Exercises 6.1.-6.2. Flux-architecture and Redux
+- https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-1-6-2
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/unicafe-redux-6.1-6.2
+- Exercises 6.3.-6.8. Flux-architecture and Redux
+- https://fullstackopen.com/en/part6/flux_architecture_and_redux#exercises-6-3-6-8
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/redux-anecdotes-master-6.3-6-18
+- Exercises 6.9.-6.12. Many reducers
+- https://fullstackopen.com/en/part6/many_reducers#exercises-6-9-6-12
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/redux-anecdotes-master-6.3-6-18
+- Exercises 6.13.-6.14. Communicating with server in a redux application
+- https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#exercises-6-15-6-18
+- solution:  https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/redux-anecdotes-master-6.3-6-18
+- Exercises 6.15.-6.18. Communicating with server in a redux application
+- https://fullstackopen.com/en/part6/communicating_with_server_in_a_redux_application#exercises-6-15-6-18
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/redux-anecdotes-master-6.3-6-18
+- Exercises 6.19.-6.21. connect
+- https://fullstackopen.com/en/part6/connect#exercises-6-19-6-21
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part6/part6/redux-anecdotes-6.19-6.21
