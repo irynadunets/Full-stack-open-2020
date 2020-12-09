@@ -26,3 +26,44 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 1.6.-1.14. A more complex state, debugging React apps
 - https://fullstackopen.com/en/part1/a_more_complex_state_debugging_react_apps#exercises-1-6-1-14
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part1
+# Part 2 Communicating with server
+-Exercises 2.1.-2.5. Rendering a collection, modules
+- https://fullstackopen.com/en/part2/rendering_a_collection_modules#exercises-2-1-2-5
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
+-Exercises 2.6.-2.10. Forms
+- https://fullstackopen.com/en/part2/forms#exercises-2-6-2-10
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
+-Exercises 2.11.-2.14. Getting data from server
+- https://fullstackopen.com/en/part2/getting_data_from_server#exercises-2-11-2-14
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
+-Exercises 2.15.-2.18. Altering data in server
+- https://fullstackopen.com/en/part2/altering_data_in_server#exercises-2-15-2-18
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
+-Exercises 2.19.-2.20. Adding styles to React app
+- https://fullstackopen.com/en/part2/adding_styles_to_react_app#exercises-2-19-2-20
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
+# Part 3 Programming a server with NodeJS and Express
+-Exercises 3.1.-3.6. Node.js and Express
+- https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-1-3-6
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercises 3.7.-3.8. Node.js and Express
+- https://fullstackopen.com/en/part3/node_js_and_express#exercises-3-7-3-8
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercises 3.9.-3.11. Deploying app to internet
+- https://fullstackopen.com/en/part3/deploying_app_to_internet#exercises-3-9-3-11
+- solution: solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercise 3.12. Saving data to MongoDB
+- https://fullstackopen.com/en/part3/saving_data_to_mongo_db#exercise-3-12
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercises 3.13.-3.14. Saving data to MongoDB
+- https://fullstackopen.com/en/part3/saving_data_to_mongo_db#exercises-3-13-3-14
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercises 3.15.-3.18. Saving data to MongoDB
+- https://fullstackopen.com/en/part3/saving_data_to_mongo_db#exercises-3-15-3-18
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercises 3.19.-3.21. Validation and ESLint
+- https://fullstackopen.com/en/part3/validation_and_es_lint#exercises-3-19-3-21
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+-Exercise 3.22. Validation and ESLint
+- https://fullstackopen.com/en/part3/validation_and_es_lint#exercise-3-22
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
