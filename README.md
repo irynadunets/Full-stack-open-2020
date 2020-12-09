@@ -30,7 +30,7 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 2.1.-2.5. Rendering a collection, modules
 - https://fullstackopen.com/en/part2/rendering_a_collection_modules#exercises-2-1-2-5
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
--Exercises 2.6.-2.10. Forms
+- Exercises 2.6.-2.10. Forms
 - https://fullstackopen.com/en/part2/forms#exercises-2-6-2-10
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/part2
 - Exercises 2.11.-2.14. Getting data from server
@@ -67,3 +67,20 @@ Other topics include debugging applications, configuration, managing runtime env
 -Exercise 3.22. Validation and ESLint
 - https://fullstackopen.com/en/part3/validation_and_es_lint#exercise-3-22
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/main/Phonebook-backend
+# Part 4 Testing Express servers, user administration
+- Exercises 4.1.-4.2. Structure of backend application, introduction to testing
+- https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#exercises-4-1-4-2
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part4/part4/Exercises-4.1.-4.14
+- Exercises 4.3.-4.7. Structure of backend application, introduction to testing
+- https://fullstackopen.com/en/part4/structure_of_backend_application_introduction_to_testing#exercises-4-3-4-7
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part4/part4/Exercises-4.1.-4.14
+-Exercises 4.8.-4.12. Testing the backend
+- https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-8-4-12
+- solution: solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part4/part4/Exercises-4.1.-4.14
+-Exercises 4.13.-4.14. Testing the backend
+- https://fullstackopen.com/en/part4/testing_the_backend#exercises-4-13-4-14
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part4/part4/Exercises-4.1.-4.14
+-Exercises 4.15.-4.22. Token authentication
+- https://fullstackopen.com/en/part4/token_authentication#exercises-4-15-4-22
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part4/part4/Exercises-4.15.-4.22
+
