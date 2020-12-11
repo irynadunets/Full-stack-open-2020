@@ -123,10 +123,11 @@ Other topics include debugging applications, configuration, managing runtime env
 # Part 7 React router, custom hooks, styling app with CSS and webpack
 - Exercises 7.1.-7.3. React-router
 - https://fullstackopen.com/en/part7/react_router#exercises-7-1-7-3
-- solution: 
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part7/part7/ultimate-hooks-master
 - Exercises 7.4.-7.8. Custom hooks
 - https://fullstackopen.com/en/part7/custom_hooks#exercises-7-4-7-8
-- solution: 
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part7/part7/routed-anecdotes-7.4-7.6
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part7/part7/country-hook-7.7
 - Exercises 7.9.-7.21. Exercises: extending the bloglist
 - https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#exercises-7-9-7-21
-- solution:
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part7/part7/Exercises7.9.-7.21.
