@@ -3709,3 +3709,225 @@ Error: listen EADDRINUSE: address already in use :::3003
 [11/22/2020, 9:25:41 PM] info: {}
 [11/22/2020, 9:25:42 PM] info: GET 200 /api/blogs {} body {} size 863 - 286.986 ms
 
+[12/9/2020, 4:20:41 PM] info: {}
+[12/9/2020, 4:20:41 PM] info: GET 200 /api/blogs {} body {} size 740 - 499.994 ms
+
+[12/9/2020, 4:20:41 PM] info: {}
+[12/9/2020, 4:20:41 PM] info: GET 404 /favicon.ico {} body {} size 28 - 3.634 ms
+
+[12/9/2020, 4:21:53 PM] info: {}
+[12/9/2020, 4:21:53 PM] info: GET 200 /api/users {} body {} size 128 - 158.956 ms
+
+[12/9/2020, 4:22:47 PM] info: {}
+[12/9/2020, 4:22:48 PM] info: GET 304 /api/blogs {} body {} size - - 193.683 ms
+
+[12/9/2020, 4:36:03 PM] info: {}
+[12/9/2020, 4:36:03 PM] info: GET 304 /api/users {} body {} size - - 144.297 ms
+
+[12/9/2020, 4:36:29 PM] info: {}
+[12/9/2020, 4:36:29 PM] info: GET 304 /api/blogs {} body {} size - - 160.929 ms
+
+[12/9/2020, 4:54:36 PM] info: {}
+[12/9/2020, 4:54:36 PM] info: POST 401 /api/blogs {} body {"date":"209-08-05","type":"OccupationalHealthcare","specialist":"MD House","employerName":"HyPD","diagnosisCodes":["Z57.1","Z74.3","M51.2"],"description":"Patient mistakenly found himself in a nuclear plant waste site without protection gear. Very minor radiation poisoning. ","sickLeave":{"startDate":"2019-08-05","endDate":"2019-08-28"}} size 25 - 48.679 ms
+
+[12/9/2020, 4:54:56 PM] info: {}
+[12/9/2020, 4:54:57 PM] info: GET 200 /api/blogs {} body {} size 740 - 1270.981 ms
+
+[12/9/2020, 4:55:36 PM] info: {}
+[12/9/2020, 4:55:36 PM] info: POST 401 /api/blogs {} body {"likes":5,"title":"Welcome","author":"Olana","url":"http/..","id":"5fbc01273191f24aba5faadf"} size 25 - 5.041 ms
+
+[12/9/2020, 4:55:58 PM] info: {}
+[12/9/2020, 4:55:58 PM] info: POST 401 /api/blogs {} body {"likes":15,"title":"wWelcome","author":"wOlana","url":"whttp/..","id":"5fbc01273191f24aba5faadf"} size 25 - 3.800 ms
+
+[12/9/2020, 4:56:27 PM] info: {}
+[12/9/2020, 4:56:27 PM] info: POST 401 /api/blogs {} body {"likes":15,"title":"wWelcome","author":"wOlana","url":"whttp/..","id":"5fbc01273191f24aba5faadf"} size 25 - 4.577 ms
+
+[12/9/2020, 4:56:52 PM] info: {}
+[12/9/2020, 4:56:52 PM] info: POST 401 /api/blogs {} body {"likes":15,"title":"wWelcome","author":"wOlana","url":"whttp/..","id":"5fbc01273191f24aba5faadf"} size 25 - 3.352 ms
+
+[12/9/2020, 4:56:53 PM] info: {}
+[12/9/2020, 4:56:53 PM] info: POST 401 /api/blogs {} body {"likes":15,"title":"wWelcome","author":"wOlana","url":"whttp/..","id":"5fbc01273191f24aba5faadf"} size 25 - 2.644 ms
+
+[12/9/2020, 4:57:45 PM] info: {}
+[12/9/2020, 4:57:45 PM] info: POST 401 /api/blogs {} body {"likes":5,"title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 2.441 ms
+
+[12/9/2020, 4:57:47 PM] info: {}
+[12/9/2020, 4:57:47 PM] info: POST 401 /api/blogs {} body {"likes":5,"title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 3.944 ms
+
+[12/9/2020, 4:59:43 PM] info: {}
+[12/9/2020, 5:01:13 PM] info: {}
+[12/9/2020, 5:01:13 PM] info: POST 400 /api/blogs {} body {} size 138 - 4.932 ms
+
+[12/9/2020, 5:01:19 PM] info: {}
+[12/9/2020, 5:01:20 PM] info: GET 200 /api/blogs {} body {} size 740 - 1275.800 ms
+
+[12/9/2020, 5:01:39 PM] info: {}
+[12/9/2020, 5:01:39 PM] info: POST 401 /api/blogs {} body {"likes":5,"title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 2.822 ms
+
+[12/9/2020, 5:01:43 PM] info: POST - /api/users {} body {"likes":5,"title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size - - - ms
+
+[12/9/2020, 5:01:55 PM] info: {}
+[12/9/2020, 5:01:55 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 3.114 ms
+
+[12/9/2020, 5:02:16 PM] info: {}
+[12/9/2020, 5:02:16 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 3.111 ms
+
+[12/9/2020, 5:02:27 PM] info: {}
+[12/9/2020, 5:02:27 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 2.648 ms
+
+[12/9/2020, 5:02:43 PM] info: {}
+[12/9/2020, 5:02:43 PM] info: GET 304 /api/users {} body {} size - - 153.023 ms
+
+[12/9/2020, 5:03:59 PM] info: {}
+[12/9/2020, 5:03:59 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 2.614 ms
+
+[12/9/2020, 5:04:18 PM] info: {}
+[12/9/2020, 5:04:18 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 3.116 ms
+
+[12/9/2020, 5:25:30 PM] info: {}
+[12/9/2020, 5:25:30 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 3.303 ms
+
+[12/9/2020, 5:27:14 PM] info: {}
+[12/9/2020, 5:27:14 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/..","user":"5fbc013f3191f24aba5faae0"} size 25 - 3.163 ms
+
+[12/9/2020, 5:27:25 PM] info: {}
+[12/9/2020, 5:27:25 PM] info: POST 401 /api/blogs {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/.."} size 25 - 2.868 ms
+
+[12/9/2020, 5:27:36 PM] info: {}
+[12/9/2020, 5:27:36 PM] info: GET 200 /api/blogs/ {} body {} size 740 - 172.720 ms
+
+[12/9/2020, 5:28:09 PM] info: {}
+[12/9/2020, 5:28:09 PM] info: GET 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {} size 94 - 181.090 ms
+
+[12/9/2020, 5:28:19 PM] info: {}
+[12/9/2020, 5:28:19 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/.."} size 94 - 170.231 ms
+
+[12/9/2020, 5:28:37 PM] info: {}
+[12/9/2020, 5:28:37 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/.."} size 94 - 231.585 ms
+
+[12/9/2020, 5:28:39 PM] info: {}
+[12/9/2020, 5:28:40 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":"5","title":"Welcome","author":"Olana","url":"http/.."} size 94 - 200.939 ms
+
+[12/9/2020, 5:28:49 PM] info: {}
+[12/9/2020, 5:28:49 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":"5","title":"Welcome","author":"tttlana","url":"http/.."} size 96 - 254.282 ms
+
+[12/9/2020, 5:29:21 PM] info: {}
+[12/9/2020, 5:29:21 PM] info: POST 404 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 28 - 2.718 ms
+
+[12/9/2020, 5:29:29 PM] info: {}
+[12/9/2020, 5:29:29 PM] info: POST 401 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 2.618 ms
+
+[12/9/2020, 5:29:31 PM] info: {}
+[12/9/2020, 5:29:31 PM] info: POST 401 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","id":"5fbbe44f099cd1345236e1a8"} size 25 - 3.754 ms
+
+[12/9/2020, 5:29:41 PM] info: {}
+[12/9/2020, 5:29:41 PM] info: POST 401 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbbe44f099cd1345236e1a8"} size 25 - 2.311 ms
+
+[12/9/2020, 5:29:48 PM] info: {}
+[12/9/2020, 5:29:48 PM] info: POST 401 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/.."} size 25 - 3.096 ms
+
+[12/9/2020, 5:30:42 PM] info: {}
+[12/9/2020, 5:30:43 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/.."} size 96 - 1004.274 ms
+
+[12/9/2020, 5:31:49 PM] info: {}
+[12/9/2020, 5:31:50 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 215.538 ms
+
+[12/9/2020, 5:31:58 PM] info: {}
+[12/9/2020, 5:31:59 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 1022.448 ms
+
+[12/9/2020, 5:32:13 PM] info: {}
+[12/9/2020, 5:32:13 PM] info: GET 200 /api/blogs {} body {} size 742 - 160.978 ms
+
+[12/9/2020, 5:32:14 PM] info: {}
+[12/9/2020, 5:32:14 PM] info: GET 304 /api/blogs {} body {} size - - 153.391 ms
+
+[12/9/2020, 5:33:56 PM] info: {}
+[12/9/2020, 5:33:56 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 177.227 ms
+
+[12/9/2020, 5:33:57 PM] info: {}
+[12/9/2020, 5:33:57 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 156.844 ms
+
+[12/9/2020, 5:34:00 PM] info: {}
+[12/9/2020, 5:34:00 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 152.663 ms
+
+[12/9/2020, 5:34:01 PM] info: {}
+[12/9/2020, 5:34:02 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 151.632 ms
+
+[12/9/2020, 5:34:12 PM] info: {}
+[12/9/2020, 5:34:13 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 96 - 349.783 ms
+
+[12/9/2020, 5:34:18 PM] info: {}
+[12/9/2020, 5:34:18 PM] info: GET 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {} size 96 - 158.649 ms
+
+[12/9/2020, 5:34:25 PM] info: {}
+[12/9/2020, 5:34:25 PM] info: GET 200 /api/blogs/ {} body {} size 742 - 168.460 ms
+
+[12/9/2020, 5:56:40 PM] info: {}
+[12/9/2020, 5:56:40 PM] info: GET 304 /api/users {} body {} size - - 194.847 ms
+
+[12/9/2020, 5:56:42 PM] info: {}
+[12/9/2020, 5:56:43 PM] info: GET 304 /api/blogs {} body {} size - - 161.694 ms
+
+[12/9/2020, 5:56:53 PM] info: {}
+[12/9/2020, 5:56:53 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 26.249 ms
+
+[12/9/2020, 5:56:59 PM] info: {}
+[12/9/2020, 5:56:59 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 5.774 ms
+
+[12/9/2020, 6:01:56 PM] info: {}
+[12/9/2020, 6:01:57 PM] info: GET 304 /api/users {} body {} size - - 184.730 ms
+
+[12/9/2020, 6:01:57 PM] info: {}
+[12/9/2020, 6:01:58 PM] info: GET 304 /api/users {} body {} size - - 166.624 ms
+
+[12/9/2020, 6:02:02 PM] info: {}
+[12/9/2020, 6:02:02 PM] info: GET 200 /api/blogs {} body {} size 936 - 172.195 ms
+
+[12/9/2020, 6:02:04 PM] info: {}
+[12/9/2020, 6:02:04 PM] info: GET 200 /api/blogs {} body {} size 936 - 156.863 ms
+
+[12/9/2020, 6:02:25 PM] info: {}
+[12/9/2020, 6:02:25 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 5.658 ms
+
+[12/9/2020, 6:27:03 PM] info: {}
+[12/9/2020, 6:27:03 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 6.914 ms
+
+[12/9/2020, 6:27:15 PM] info: {}
+[12/9/2020, 6:27:15 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 4.201 ms
+
+[12/9/2020, 6:27:29 PM] info: {}
+[12/9/2020, 6:27:29 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 5.583 ms
+
+[12/9/2020, 6:27:34 PM] info: {}
+[12/9/2020, 6:27:34 PM] info: GET 200 /api/blogs/ {} body {} size 1324 - 173.709 ms
+
+[12/9/2020, 6:28:56 PM] info: {}
+[12/9/2020, 6:28:56 PM] info: GET 200 /api/blogs/ {} body {} size 1324 - 167.994 ms
+
+[12/9/2020, 6:29:04 PM] info: {}
+[12/9/2020, 6:29:04 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 5.255 ms
+
+[12/9/2020, 6:29:10 PM] info: {}
+[12/9/2020, 6:29:10 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 6.040 ms
+
+[12/9/2020, 6:31:07 PM] info: {}
+[12/9/2020, 6:31:07 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 5.912 ms
+
+[12/9/2020, 6:31:15 PM] info: {}
+[12/9/2020, 6:31:15 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 5.064 ms
+
+[12/9/2020, 6:33:26 PM] info: {}
+[12/9/2020, 6:33:26 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 4.175 ms
+
+[12/9/2020, 6:33:29 PM] info: {}
+[12/9/2020, 6:33:29 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 4.459 ms
+
+[12/9/2020, 6:33:40 PM] info: {}
+[12/9/2020, 6:33:40 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 3.971 ms
+
+[12/9/2020, 6:34:30 PM] info: {}
+[12/9/2020, 6:34:30 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","user":"5fbc01273191f24aba5faadf"} size 148 - 4.453 ms
+
+[12/9/2020, 6:34:49 PM] info: {}
+[12/9/2020, 6:34:49 PM] info: POST 500 /api/blogs/ {} body {"likes":5,"title":"Welcome","author":"tttlana","url":"http/..","id":"5fbc01273191f24aba5faadf"} size 148 - 7.885 ms
+

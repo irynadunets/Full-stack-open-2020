@@ -1,0 +1,3573 @@
+[11/19/2020, 5:16:31 PM] error: uncaughtException: config is not defined
+ReferenceError: config is not defined
+    at Server.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:59:41)
+    at Object.onceWrapper (events.js:420:28)
+    at Server.emit (events.js:314:20)
+    at emitListeningNT (net.js:1351:10)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+[11/19/2020, 5:18:56 PM] error: uncaughtException: config is not defined
+ReferenceError: config is not defined
+    at Server.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:59:41)
+    at Object.onceWrapper (events.js:420:28)
+    at Server.emit (events.js:314:20)
+    at emitListeningNT (net.js:1351:10)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+[11/19/2020, 5:20:22 PM] error: uncaughtException: config is not defined
+ReferenceError: config is not defined
+    at Server.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:59:41)
+    at Object.onceWrapper (events.js:420:28)
+    at Server.emit (events.js:314:20)
+    at emitListeningNT (net.js:1351:10)
+    at processTicksAndRejections (internal/process/task_queues.js:83:21)
+[11/19/2020, 5:49:43 PM] error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/controllers/blogs.js:4:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:11:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 6:01:00 PM] error: uncaughtException: app.listen is not a function
+TypeError: app.listen is not a function
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:39:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 6:08:36 PM] error: uncaughtException: app.listen is not a function
+TypeError: app.listen is not a function
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:39:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 6:20:32 PM] error: uncaughtException: mongoose is not defined
+ReferenceError: mongoose is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:17:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 6:20:56 PM] error: uncaughtException: mongoose is not defined
+ReferenceError: mongoose is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:17:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 6:23:06 PM] error: uncaughtException: mongoose is not defined
+ReferenceError: mongoose is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:25:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:33:58 PM] error: uncaughtException: Router.use() requires a middleware function
+TypeError: Router.use() requires a middleware function
+    at Function.use (/home/iryna/Desktop/Full-stack-open-2020/part4/node_modules/express/lib/router/index.js:451:11)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:34:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:48:31 PM] error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:48:56 PM] error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:50:14 PM] error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:50:27 PM] error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:51:08 PM] error: uncaughtException: app is not defined
+ReferenceError: app is not defined
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/app.js:13:1)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part4/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/19/2020, 7:54:18 PM] info: {}
+[11/19/2020, 7:54:18 PM] info: GET 404 /api/blogs {} body {} size 28 - 29.093 ms
+
+[11/19/2020, 7:55:03 PM] info: {}
+[11/19/2020, 7:55:03 PM] info: GET 404 / {} body {} size 28 - 5.936 ms
+
+[11/19/2020, 7:55:41 PM] info: {}
+[11/19/2020, 7:55:42 PM] info: GET 200 /api/blogs {} body {} size 221 - 206.841 ms
+
+[11/20/2020, 8:34:06 PM] info: {}
+[11/20/2020, 8:45:31 PM] info: {}
+[11/20/2020, 8:47:03 PM] info: {}
+[11/20/2020, 9:27:36 PM] info: {}
+[11/20/2020, 9:28:45 PM] info: {}
+[11/21/2020, 2:25:04 PM] info: {}
+[11/21/2020, 2:25:09 PM] info: GET 200 /api/blogs {} body {} size 2 - 4861.735 ms
+
+[11/21/2020, 3:18:27 PM] info: {}
+[11/21/2020, 3:18:27 PM] info: GET 304 /api/blogs {} body {} size - - 182.178 ms
+
+[11/21/2020, 3:18:27 PM] info: {}
+[11/21/2020, 3:18:27 PM] info: GET 404 /favicon.ico {} body {} size 28 - 3.101 ms
+
+[11/21/2020, 3:22:23 PM] info: {}
+[11/21/2020, 3:22:25 PM] info: GET 200 /api/blogs {} body {} size 2 - 1431.111 ms
+
+[11/21/2020, 3:22:25 PM] info: {}
+[11/21/2020, 3:22:25 PM] info: GET 200 /api/blogs {} body {} size 2 - 134.473 ms
+
+[11/21/2020, 3:22:25 PM] info: {}
+[11/21/2020, 3:22:25 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 14.194 ms
+
+[11/21/2020, 3:25:06 PM] info: {}
+[11/21/2020, 3:25:11 PM] info: {}
+[11/21/2020, 3:25:13 PM] info: GET 200 /api/blogs {} body {} size 2 - 6359.434 ms
+
+[11/21/2020, 3:25:13 PM] info: GET 200 /api/blogs {} body {} size 2 - 1488.333 ms
+
+[11/21/2020, 3:25:13 PM] info: {}
+[11/21/2020, 3:25:13 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 13.677 ms
+
+[11/21/2020, 3:26:09 PM] info: {}
+[11/21/2020, 3:28:09 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/21/2020, 3:31:28 PM] info: {}
+[11/21/2020, 3:31:33 PM] info: {}
+[11/21/2020, 3:31:35 PM] info: GET 200 /api/blogs {} body {} size 2 - 6878.618 ms
+
+[11/21/2020, 3:31:35 PM] info: GET 200 /api/blogs {} body {} size 2 - 2063.115 ms
+
+[11/21/2020, 3:31:35 PM] info: {}
+[11/21/2020, 3:31:35 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 13.814 ms
+
+[11/21/2020, 4:05:00 PM] info: {}
+[11/21/2020, 4:05:05 PM] info: {}
+[11/21/2020, 4:05:08 PM] info: GET 200 /api/blogs {} body {} size 2 - 7396.095 ms
+
+[11/21/2020, 4:05:08 PM] info: GET 200 /api/blogs {} body {} size 2 - 2558.694 ms
+
+[11/21/2020, 4:05:08 PM] info: {}
+[11/21/2020, 4:05:08 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 14.292 ms
+
+[11/21/2020, 4:57:25 PM] info: {}
+[11/21/2020, 4:57:30 PM] info: {}
+[11/21/2020, 4:57:35 PM] info: {}
+[11/21/2020, 4:57:35 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 23.341 ms
+
+[11/21/2020, 4:59:25 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/21/2020, 4:59:30 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/21/2020, 5:08:44 PM] info: {}
+[11/21/2020, 5:08:49 PM] info: GET 200 /api/blogs {} body {} size 2 - 5739.779 ms
+
+[11/21/2020, 5:08:50 PM] info: {}
+[11/21/2020, 5:08:50 PM] info: GET 200 /api/blogs {} body {} size 424 - 274.993 ms
+
+[11/21/2020, 5:08:51 PM] info: {}
+[11/21/2020, 5:08:51 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 18.382 ms
+
+[11/21/2020, 5:09:58 PM] info: {}
+[11/21/2020, 5:10:00 PM] info: GET 200 /api/blogs {} body {} size 2 - 2012.927 ms
+
+[11/21/2020, 5:10:01 PM] info: {}
+[11/21/2020, 5:10:01 PM] info: GET 200 /api/blogs {} body {} size 850 - 132.188 ms
+
+[11/21/2020, 5:10:01 PM] info: {}
+[11/21/2020, 5:10:02 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 22.272 ms
+
+[11/21/2020, 5:17:49 PM] info: {}
+[11/21/2020, 5:17:51 PM] info: GET 200 /api/blogs {} body {} size 2 - 2146.794 ms
+
+[11/21/2020, 5:17:51 PM] info: {}
+[11/21/2020, 5:17:52 PM] info: GET 200 /api/blogs {} body {} size 424 - 137.241 ms
+
+[11/21/2020, 5:17:52 PM] info: {}
+[11/21/2020, 5:17:52 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 26.029 ms
+
+[11/21/2020, 5:56:37 PM] info: {}
+[11/21/2020, 5:56:38 PM] info: GET 200 /api/blogs {} body {} size 2 - 885.496 ms
+
+[11/21/2020, 5:56:39 PM] info: {}
+[11/21/2020, 5:56:39 PM] info: GET 200 /api/blogs {} body {} size 850 - 162.910 ms
+
+[11/21/2020, 5:56:39 PM] info: {}
+[11/21/2020, 5:56:39 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 16.324 ms
+
+[11/21/2020, 5:59:01 PM] info: {}
+[11/21/2020, 5:59:01 PM] info: GET 200 /api/blogs {} body {} size 850 - 164.251 ms
+
+[11/21/2020, 5:59:02 PM] info: {}
+[11/21/2020, 5:59:02 PM] info: GET 200 /api/blogs {} body {} size 850 - 132.239 ms
+
+[11/21/2020, 5:59:03 PM] info: {}
+[11/21/2020, 5:59:03 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 16.498 ms
+
+[11/21/2020, 6:04:19 PM] info: {}
+[11/21/2020, 6:04:23 PM] info: GET 200 /api/blogs {} body {} size 2 - 3412.873 ms
+
+[11/21/2020, 6:04:23 PM] info: {}
+[11/21/2020, 6:04:24 PM] info: GET 200 /api/blogs {} body {} size 850 - 137.820 ms
+
+[11/21/2020, 6:04:24 PM] info: {}
+[11/21/2020, 6:04:24 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 13.864 ms
+
+[11/21/2020, 6:05:17 PM] info: {}
+[11/21/2020, 6:05:18 PM] info: GET 200 /api/blogs {} body {} size 850 - 158.132 ms
+
+[11/21/2020, 6:05:18 PM] info: {}
+[11/21/2020, 6:05:18 PM] info: GET 200 /api/blogs {} body {} size 850 - 132.263 ms
+
+[11/21/2020, 6:05:19 PM] info: {}
+[11/21/2020, 6:05:19 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 18.667 ms
+
+[11/21/2020, 6:06:24 PM] info: {}
+[11/21/2020, 6:06:25 PM] info: GET 200 /api/blogs {} body {} size 2 - 921.183 ms
+
+[11/21/2020, 6:06:25 PM] info: {}
+[11/21/2020, 6:06:26 PM] info: GET 200 /api/blogs {} body {} size 850 - 129.254 ms
+
+[11/21/2020, 6:06:26 PM] info: {}
+[11/21/2020, 6:06:26 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 21.953 ms
+
+[11/21/2020, 6:07:49 PM] info: {}
+[11/21/2020, 6:07:51 PM] info: GET 200 /api/blogs {} body {} size 2 - 1502.174 ms
+
+[11/21/2020, 6:07:51 PM] info: {}
+[11/21/2020, 6:07:52 PM] info: GET 200 /api/blogs {} body {} size 850 - 138.319 ms
+
+[11/21/2020, 6:07:52 PM] info: {}
+[11/21/2020, 6:07:52 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 14.990 ms
+
+[11/21/2020, 6:09:04 PM] info: {}
+[11/21/2020, 6:09:10 PM] info: GET 200 /api/blogs {} body {} size 2 - 6062.778 ms
+
+[11/21/2020, 6:09:10 PM] info: {}
+[11/21/2020, 6:09:10 PM] info: GET 200 /api/blogs {} body {} size 424 - 161.164 ms
+
+[11/21/2020, 6:09:11 PM] info: {}
+[11/21/2020, 6:09:11 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 18.076 ms
+
+[11/21/2020, 6:13:14 PM] info: {}
+[11/21/2020, 6:13:17 PM] info: GET 200 /api/blogs {} body {} size 2 - 3492.775 ms
+
+[11/21/2020, 6:13:18 PM] info: {}
+[11/21/2020, 6:13:18 PM] info: GET 200 /api/blogs {} body {} size 850 - 124.801 ms
+
+[11/21/2020, 6:13:19 PM] info: {}
+[11/21/2020, 6:13:19 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 15.559 ms
+
+[11/21/2020, 6:14:21 PM] info: {}
+[11/21/2020, 6:14:24 PM] info: GET 200 /api/blogs {} body {} size 2 - 2626.939 ms
+
+[11/21/2020, 6:14:24 PM] info: {}
+[11/21/2020, 6:14:24 PM] info: GET 200 /api/blogs {} body {} size 850 - 137.207 ms
+
+[11/21/2020, 6:14:25 PM] info: {}
+[11/21/2020, 6:14:25 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 16.165 ms
+
+[11/21/2020, 6:15:40 PM] info: {}
+[11/21/2020, 6:15:44 PM] info: GET 200 /api/blogs {} body {} size 2 - 3665.301 ms
+
+[11/21/2020, 6:15:45 PM] info: {}
+[11/21/2020, 6:15:45 PM] info: GET 200 /api/blogs {} body {} size 850 - 139.493 ms
+
+[11/21/2020, 6:15:46 PM] info: {}
+[11/21/2020, 6:15:46 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 24.125 ms
+
+[11/21/2020, 6:17:19 PM] info: {}
+[11/21/2020, 6:17:20 PM] info: GET 200 /api/blogs {} body {} size 2 - 370.038 ms
+
+[11/21/2020, 6:17:20 PM] info: {}
+[11/21/2020, 6:17:20 PM] info: GET 200 /api/blogs {} body {} size 850 - 148.758 ms
+
+[11/21/2020, 6:17:21 PM] info: {}
+[11/21/2020, 6:17:21 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 18.615 ms
+
+[11/21/2020, 6:19:21 PM] info: {}
+[11/21/2020, 6:19:28 PM] info: GET 200 /api/blogs {} body {} size 2 - 6845.828 ms
+
+[11/21/2020, 6:19:28 PM] info: {}
+[11/21/2020, 6:19:28 PM] info: GET 200 /api/blogs {} body {} size 424 - 141.017 ms
+
+[11/21/2020, 6:19:29 PM] info: {}
+[11/21/2020, 6:19:29 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 14.256 ms
+
+[11/21/2020, 6:21:13 PM] info: {}
+[11/21/2020, 6:21:18 PM] info: GET 200 /api/blogs {} body {} size 2 - 4590.162 ms
+
+[11/21/2020, 6:21:19 PM] info: {}
+[11/21/2020, 6:21:19 PM] info: GET 200 /api/blogs {} body {} size 850 - 140.150 ms
+
+[11/21/2020, 6:21:20 PM] info: {}
+[11/21/2020, 6:21:20 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 17.643 ms
+
+[11/21/2020, 6:22:20 PM] info: {}
+[11/21/2020, 6:22:21 PM] info: GET 200 /api/blogs {} body {} size 850 - 170.801 ms
+
+[11/21/2020, 6:22:57 PM] info: {}
+[11/21/2020, 6:22:58 PM] info: GET 200 /api/blogs {} body {} size 2 - 1000.555 ms
+
+[11/21/2020, 6:22:59 PM] info: {}
+[11/21/2020, 6:22:59 PM] info: GET 200 /api/blogs {} body {} size 850 - 136.813 ms
+
+[11/21/2020, 6:23:00 PM] info: {}
+[11/21/2020, 6:23:00 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 18.113 ms
+
+[11/21/2020, 6:24:10 PM] info: {}
+[11/21/2020, 6:24:11 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/21/2020, 6:24:12 PM] info: {}
+[11/21/2020, 6:24:13 PM] info: GET 200 /api/blogs {} body {} size 221 - 614.550 ms
+
+[11/21/2020, 6:24:13 PM] info: {}
+[11/21/2020, 6:24:13 PM] info: GET 404 /favicon.ico {} body {} size 28 - 4.476 ms
+
+[11/21/2020, 6:25:10 PM] info: {}
+[11/21/2020, 6:25:10 PM] info: GET 200 /api/blogs {} body {} size 211 - 228.821 ms
+
+[11/21/2020, 6:25:11 PM] info: {}
+[11/21/2020, 6:25:11 PM] info: GET 200 /api/blogs {} body {} size 850 - 130.432 ms
+
+[11/21/2020, 6:25:12 PM] info: {}
+[11/21/2020, 6:25:12 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 15.979 ms
+
+[11/21/2020, 6:26:07 PM] info: {}
+[11/21/2020, 6:26:07 PM] info: GET 200 /api/blogs {} body {} size 850 - 166.979 ms
+
+[11/21/2020, 6:26:08 PM] info: {}
+[11/21/2020, 6:26:08 PM] info: GET 200 /api/blogs {} body {} size 850 - 131.813 ms
+
+[11/21/2020, 6:26:09 PM] info: {}
+[11/21/2020, 6:26:09 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 23.356 ms
+
+[11/21/2020, 6:40:06 PM] info: {}
+[11/21/2020, 6:40:06 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.159 ms
+
+[11/21/2020, 6:40:07 PM] info: {}
+[11/21/2020, 6:40:07 PM] info: GET 200 /api/blogs {} body {} size 850 - 130.756 ms
+
+[11/21/2020, 6:40:08 PM] info: {}
+[11/21/2020, 6:40:08 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 24.939 ms
+
+[11/21/2020, 6:40:08 PM] info: {}
+[11/21/2020, 6:41:10 PM] info: {}
+[11/21/2020, 6:41:11 PM] info: GET 200 /api/blogs {} body {} size 2 - 544.333 ms
+
+[11/21/2020, 6:41:12 PM] info: {}
+[11/21/2020, 6:41:12 PM] info: GET 200 /api/blogs {} body {} size 850 - 155.525 ms
+
+[11/21/2020, 6:41:12 PM] info: {}
+[11/21/2020, 6:41:13 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 22.117 ms
+
+[11/21/2020, 6:41:13 PM] info: {}
+[11/21/2020, 6:41:13 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 144.898 ms
+
+[11/21/2020, 6:41:46 PM] info: {}
+[11/21/2020, 6:41:46 PM] info: GET 200 /api/blogs {} body {} size 850 - 186.477 ms
+
+[11/21/2020, 6:41:47 PM] info: {}
+[11/21/2020, 6:41:47 PM] info: GET 200 /api/blogs {} body {} size 850 - 132.238 ms
+
+[11/21/2020, 6:41:48 PM] info: {}
+[11/21/2020, 6:41:48 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 25.880 ms
+
+[11/21/2020, 6:41:48 PM] info: {}
+[11/21/2020, 6:41:49 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 159.054 ms
+
+[11/21/2020, 6:41:49 PM] info: {}
+[11/21/2020, 6:41:49 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.373 ms
+
+[11/21/2020, 6:42:43 PM] info: {}
+[11/21/2020, 6:42:43 PM] info: GET 200 /api/blogs {} body {} size 850 - 165.853 ms
+
+[11/21/2020, 6:42:44 PM] info: {}
+[11/21/2020, 6:42:44 PM] info: GET 200 /api/blogs {} body {} size 850 - 142.038 ms
+
+[11/21/2020, 6:42:45 PM] info: {}
+[11/21/2020, 6:42:45 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 27.367 ms
+
+[11/21/2020, 6:42:46 PM] info: {}
+[11/21/2020, 6:42:46 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 167.705 ms
+
+[11/21/2020, 6:42:46 PM] info: {}
+[11/21/2020, 6:42:46 PM] info: GET 200 /api/blogs {} body {} size 943 - 133.279 ms
+
+[11/21/2020, 6:43:25 PM] info: {}
+[11/21/2020, 6:43:26 PM] info: GET 200 /api/blogs {} body {} size 2 - 1535.926 ms
+
+[11/21/2020, 6:43:27 PM] info: {}
+[11/21/2020, 6:43:27 PM] info: GET 200 /api/blogs {} body {} size 850 - 130.648 ms
+
+[11/21/2020, 6:43:28 PM] info: {}
+[11/21/2020, 6:43:28 PM] info: GET 400 /api/blogs/id {} body {} size 27 - 21.926 ms
+
+[11/21/2020, 6:43:29 PM] info: {}
+[11/21/2020, 6:43:29 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.888 ms
+
+[11/21/2020, 6:43:29 PM] info: {}
+[11/21/2020, 6:43:29 PM] info: GET 200 /api/blogs {} body {} size 943 - 140.335 ms
+
+[11/21/2020, 6:46:54 PM] info: {}
+[11/21/2020, 6:46:54 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.746 ms
+
+[11/21/2020, 6:46:55 PM] info: {}
+[11/21/2020, 6:46:55 PM] info: GET 400 /api/blogs/:id {} body {} size 27 - 30.876 ms
+
+[11/21/2020, 6:46:56 PM] info: {}
+[11/21/2020, 6:46:56 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 144.754 ms
+
+[11/21/2020, 6:46:56 PM] info: {}
+[11/21/2020, 6:46:56 PM] info: GET 200 /api/blogs {} body {} size 943 - 141.576 ms
+
+[11/21/2020, 6:50:17 PM] info: {}
+[11/21/2020, 6:50:17 PM] info: GET 200 /api/blogs {} body {} size 850 - 166.825 ms
+
+[11/21/2020, 6:50:18 PM] info: {}
+[11/21/2020, 6:50:18 PM] info: GET 400 /api/blogs/1 {} body {} size 27 - 26.564 ms
+
+[11/21/2020, 6:50:18 PM] info: {}
+[11/21/2020, 6:50:19 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 150.809 ms
+
+[11/21/2020, 6:50:19 PM] info: {}
+[11/21/2020, 6:50:19 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.801 ms
+
+[11/21/2020, 6:51:54 PM] info: {}
+[11/21/2020, 6:51:54 PM] info: GET 200 /api/blogs {} body {} size 850 - 165.118 ms
+
+[11/21/2020, 6:51:55 PM] info: {}
+[11/21/2020, 6:51:55 PM] info: GET 500 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 340 - 171.853 ms
+
+[11/21/2020, 6:51:55 PM] info: {}
+[11/21/2020, 6:51:56 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.613 ms
+
+[11/21/2020, 6:51:56 PM] info: {}
+[11/21/2020, 6:51:56 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.750 ms
+
+[11/21/2020, 6:54:03 PM] info: {}
+[11/21/2020, 6:54:03 PM] info: GET 200 /api/blogs {} body {} size 850 - 165.152 ms
+
+[11/21/2020, 6:54:04 PM] info: {}
+[11/21/2020, 6:54:04 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 23.983 ms
+
+[11/21/2020, 6:54:05 PM] info: {}
+[11/21/2020, 6:54:05 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 155.834 ms
+
+[11/21/2020, 6:54:05 PM] info: {}
+[11/21/2020, 6:54:05 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.599 ms
+
+[11/21/2020, 6:55:09 PM] info: {}
+[11/21/2020, 6:55:09 PM] info: GET 200 /api/blogs {} body {} size 850 - 164.949 ms
+
+[11/21/2020, 6:55:10 PM] info: {}
+[11/21/2020, 6:55:10 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 26.025 ms
+
+[11/21/2020, 6:55:10 PM] info: {}
+[11/21/2020, 6:55:10 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 147.396 ms
+
+[11/21/2020, 6:55:10 PM] info: {}
+[11/21/2020, 6:55:11 PM] info: GET 200 /api/blogs {} body {} size 943 - 135.187 ms
+
+[11/21/2020, 6:55:44 PM] info: {}
+[11/21/2020, 6:55:45 PM] info: GET 500 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 340 - 186.014 ms
+
+[11/21/2020, 6:56:00 PM] info: {}
+[11/21/2020, 6:56:00 PM] info: GET 400 /api/blogs/:5fb6852f80be194ddb8f1c10 {} body {} size 27 - 4.736 ms
+
+[11/21/2020, 6:56:59 PM] info: {}
+[11/21/2020, 6:56:59 PM] info: GET 500 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 340 - 151.392 ms
+
+[11/21/2020, 6:57:05 PM] info: {}
+[11/21/2020, 6:57:05 PM] info: GET 200 /api/blogs/ {} body {} size 221 - 157.001 ms
+
+[11/21/2020, 6:59:01 PM] info: {}
+[11/21/2020, 6:59:01 PM] info: GET 200 /api/blogs {} body {} size 850 - 162.436 ms
+
+[11/21/2020, 6:59:01 PM] info: {}
+[11/21/2020, 6:59:02 PM] info: {}
+[11/21/2020, 6:59:02 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.118 ms
+
+[11/21/2020, 6:59:02 PM] info: {}
+[11/21/2020, 6:59:02 PM] info: GET 200 /api/blogs {} body {} size 943 - 131.339 ms
+
+[11/21/2020, 7:01:01 PM] info: GET - /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size - - - ms
+
+[11/21/2020, 7:01:04 PM] info: {}
+[11/21/2020, 7:01:41 PM] info: GET - /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size - - - ms
+
+[11/21/2020, 7:01:41 PM] info: {}
+[11/21/2020, 7:01:41 PM] info: GET 304 /api/blogs/ {} body {} size - - 138.507 ms
+
+[11/21/2020, 7:01:47 PM] info: {}
+[11/21/2020, 7:03:47 PM] info: GET - /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size - - - ms
+
+[11/21/2020, 7:03:47 PM] info: {}
+[11/21/2020, 7:03:57 PM] info: {}
+[11/21/2020, 7:04:13 PM] info: GET - /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size - - - ms
+
+[11/21/2020, 7:04:14 PM] info: {}
+[11/21/2020, 7:05:26 PM] info: {}
+[11/21/2020, 7:05:29 PM] info: GET - /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size - - - ms
+
+[11/21/2020, 7:05:29 PM] info: {}
+[11/21/2020, 7:05:32 PM] info: GET 500 /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size 340 - 2555.779 ms
+
+[11/21/2020, 7:06:04 PM] info: {}
+[11/21/2020, 7:06:04 PM] info: GET 500 /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size 340 - 176.287 ms
+
+[11/21/2020, 7:06:05 PM] info: {}
+[11/21/2020, 7:06:06 PM] info: GET 500 /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size 340 - 134.776 ms
+
+[11/21/2020, 7:06:09 PM] info: {}
+[11/21/2020, 7:06:09 PM] info: GET 304 /api/blogs/ {} body {} size - - 141.057 ms
+
+[11/21/2020, 7:06:41 PM] info: {}
+[11/21/2020, 7:06:41 PM] info: GET 400 /api/blogs/1 {} body {} size 27 - 33.774 ms
+
+[11/21/2020, 7:06:56 PM] info: {}
+[11/21/2020, 7:06:56 PM] info: GET 500 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 340 - 158.765 ms
+
+[11/21/2020, 7:14:20 PM] info: {}
+[11/21/2020, 7:14:20 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.857 ms
+
+[11/21/2020, 7:14:21 PM] info: {}
+[11/21/2020, 7:14:21 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 27.748 ms
+
+[11/21/2020, 7:14:21 PM] info: {}
+[11/21/2020, 7:14:22 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 144.033 ms
+
+[11/21/2020, 7:14:22 PM] info: {}
+[11/21/2020, 7:14:22 PM] info: GET 200 /api/blogs {} body {} size 943 - 131.504 ms
+
+[11/21/2020, 7:14:22 PM] info: {}
+[11/21/2020, 7:16:22 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:18:12 PM] info: {}
+[11/21/2020, 7:18:12 PM] info: GET 200 /api/blogs {} body {} size 850 - 171.076 ms
+
+[11/21/2020, 7:18:13 PM] info: {}
+[11/21/2020, 7:18:13 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 25.595 ms
+
+[11/21/2020, 7:18:14 PM] info: {}
+[11/21/2020, 7:18:14 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 148.315 ms
+
+[11/21/2020, 7:18:14 PM] info: {}
+[11/21/2020, 7:18:14 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.451 ms
+
+[11/21/2020, 7:18:15 PM] info: {}
+[11/21/2020, 7:19:49 PM] info: {}
+[11/21/2020, 7:19:49 PM] info: GET 200 /api/blogs {} body {} size 850 - 168.273 ms
+
+[11/21/2020, 7:19:50 PM] info: {}
+[11/21/2020, 7:19:50 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 22.915 ms
+
+[11/21/2020, 7:19:50 PM] info: {}
+[11/21/2020, 7:19:51 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 155.739 ms
+
+[11/21/2020, 7:19:51 PM] info: {}
+[11/21/2020, 7:19:51 PM] info: GET 200 /api/blogs {} body {} size 943 - 137.226 ms
+
+[11/21/2020, 7:19:51 PM] info: {}
+[11/21/2020, 7:21:07 PM] info: {}
+[11/21/2020, 7:21:07 PM] info: GET 200 /api/blogs {} body {} size 850 - 177.406 ms
+
+[11/21/2020, 7:21:08 PM] info: {}
+[11/21/2020, 7:21:08 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 33.301 ms
+
+[11/21/2020, 7:21:09 PM] info: {}
+[11/21/2020, 7:21:09 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 159.174 ms
+
+[11/21/2020, 7:21:09 PM] info: {}
+[11/21/2020, 7:21:09 PM] info: GET 200 /api/blogs {} body {} size 943 - 155.027 ms
+
+[11/21/2020, 7:21:10 PM] info: {}
+[11/21/2020, 7:23:10 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:25:00 PM] info: {}
+[11/21/2020, 7:25:00 PM] info: GET 200 /api/blogs {} body {} size 637 - 173.781 ms
+
+[11/21/2020, 7:25:01 PM] info: {}
+[11/21/2020, 7:25:01 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 25.842 ms
+
+[11/21/2020, 7:25:02 PM] info: {}
+[11/21/2020, 7:25:02 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 135.740 ms
+
+[11/21/2020, 7:25:02 PM] info: {}
+[11/21/2020, 7:25:02 PM] info: GET 200 /api/blogs {} body {} size 943 - 135.400 ms
+
+[11/21/2020, 7:25:02 PM] info: {}
+[11/21/2020, 7:27:02 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:27:27 PM] info: {}
+[11/21/2020, 7:27:29 PM] info: GET 200 /api/blogs {} body {} size 2 - 2068.688 ms
+
+[11/21/2020, 7:27:30 PM] info: {}
+[11/21/2020, 7:27:30 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 20.859 ms
+
+[11/21/2020, 7:27:31 PM] info: {}
+[11/21/2020, 7:27:31 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.415 ms
+
+[11/21/2020, 7:27:31 PM] info: {}
+[11/21/2020, 7:27:31 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.291 ms
+
+[11/21/2020, 7:27:32 PM] info: {}
+[11/21/2020, 7:28:24 PM] info: {}
+[11/21/2020, 7:28:24 PM] info: GET 200 /api/blogs {} body {} size 850 - 161.915 ms
+
+[11/21/2020, 7:28:25 PM] info: {}
+[11/21/2020, 7:28:25 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 27.780 ms
+
+[11/21/2020, 7:28:25 PM] info: {}
+[11/21/2020, 7:28:25 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.372 ms
+
+[11/21/2020, 7:28:25 PM] info: {}
+[11/21/2020, 7:28:26 PM] info: GET 200 /api/blogs {} body {} size 943 - 130.359 ms
+
+[11/21/2020, 7:28:26 PM] info: {}
+[11/21/2020, 7:30:26 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:31:17 PM] info: {}
+[11/21/2020, 7:31:17 PM] info: GET 200 /api/blogs {} body {} size 850 - 162.750 ms
+
+[11/21/2020, 7:31:18 PM] info: {}
+[11/21/2020, 7:31:18 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 30.961 ms
+
+[11/21/2020, 7:31:18 PM] info: {}
+[11/21/2020, 7:31:19 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 158.543 ms
+
+[11/21/2020, 7:31:19 PM] info: {}
+[11/21/2020, 7:31:19 PM] info: GET 200 /api/blogs {} body {} size 943 - 134.667 ms
+
+[11/21/2020, 7:31:19 PM] info: {}
+[11/21/2020, 7:33:19 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:34:12 PM] info: {}
+[11/21/2020, 7:34:13 PM] info: GET 200 /api/blogs {} body {} size 2 - 1301.520 ms
+
+[11/21/2020, 7:34:14 PM] info: {}
+[11/21/2020, 7:34:14 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 22.282 ms
+
+[11/21/2020, 7:34:14 PM] info: {}
+[11/21/2020, 7:34:15 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 155.902 ms
+
+[11/21/2020, 7:34:15 PM] info: {}
+[11/21/2020, 7:34:15 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.119 ms
+
+[11/21/2020, 7:34:15 PM] info: {}
+[11/21/2020, 7:34:16 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 82 - 186.834 ms
+
+[11/21/2020, 7:34:16 PM] info: {}
+[11/21/2020, 7:34:16 PM] info: GET 200 /api/blogs {} body {} size 933 - 138.102 ms
+
+[11/21/2020, 7:34:16 PM] info: {}
+[11/21/2020, 7:36:16 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:38:57 PM] info: {}
+[11/21/2020, 7:38:58 PM] info: GET 200 /api/blogs {} body {} size 850 - 188.424 ms
+
+[11/21/2020, 7:38:58 PM] info: {}
+[11/21/2020, 7:38:58 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 22.269 ms
+
+[11/21/2020, 7:38:59 PM] info: {}
+[11/21/2020, 7:38:59 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.632 ms
+
+[11/21/2020, 7:38:59 PM] info: {}
+[11/21/2020, 7:38:59 PM] info: GET 200 /api/blogs {} body {} size 943 - 129.382 ms
+
+[11/21/2020, 7:39:00 PM] info: {}
+[11/21/2020, 7:39:00 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 82 - 146.506 ms
+
+[11/21/2020, 7:39:00 PM] info: {}
+[11/21/2020, 7:39:00 PM] info: GET 200 /api/blogs {} body {} size 933 - 131.731 ms
+
+[11/21/2020, 7:39:01 PM] info: {}
+[11/21/2020, 7:39:44 PM] info: {}
+[11/21/2020, 7:39:44 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.525 ms
+
+[11/21/2020, 7:39:44 PM] info: {}
+[11/21/2020, 7:39:44 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 22.284 ms
+
+[11/21/2020, 7:39:45 PM] info: {}
+[11/21/2020, 7:39:45 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 155.485 ms
+
+[11/21/2020, 7:39:45 PM] info: {}
+[11/21/2020, 7:39:45 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.763 ms
+
+[11/21/2020, 7:39:46 PM] info: {}
+[11/21/2020, 7:39:46 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 82 - 148.129 ms
+
+[11/21/2020, 7:39:46 PM] info: {}
+[11/21/2020, 7:39:46 PM] info: GET 200 /api/blogs {} body {} size 933 - 138.485 ms
+
+[11/21/2020, 7:39:47 PM] info: {}
+[11/21/2020, 7:41:47 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:42:24 PM] info: {}
+[11/21/2020, 7:42:25 PM] info: GET 200 /api/blogs {} body {} size 850 - 163.392 ms
+
+[11/21/2020, 7:42:25 PM] info: {}
+[11/21/2020, 7:42:25 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 23.794 ms
+
+[11/21/2020, 7:42:26 PM] info: {}
+[11/21/2020, 7:42:26 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 147.264 ms
+
+[11/21/2020, 7:42:26 PM] info: {}
+[11/21/2020, 7:42:26 PM] info: GET 200 /api/blogs {} body {} size 943 - 143.407 ms
+
+[11/21/2020, 7:42:27 PM] info: {}
+[11/21/2020, 7:42:27 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 137.297 ms
+
+[11/21/2020, 7:42:27 PM] info: {}
+[11/21/2020, 7:42:27 PM] info: GET 200 /api/blogs {} body {} size 943 - 137.875 ms
+
+[11/21/2020, 7:42:28 PM] info: {}
+[11/21/2020, 7:44:10 PM] info: {}
+[11/21/2020, 7:44:10 PM] info: GET 200 /api/blogs {} body {} size 850 - 163.221 ms
+
+[11/21/2020, 7:44:11 PM] info: {}
+[11/21/2020, 7:44:11 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 24.451 ms
+
+[11/21/2020, 7:44:11 PM] info: {}
+[11/21/2020, 7:44:11 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 157.636 ms
+
+[11/21/2020, 7:44:11 PM] info: {}
+[11/21/2020, 7:44:12 PM] info: GET 200 /api/blogs {} body {} size 943 - 141.725 ms
+
+[11/21/2020, 7:44:12 PM] info: {}
+[11/21/2020, 7:44:12 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.527 ms
+
+[11/21/2020, 7:44:12 PM] info: {}
+[11/21/2020, 7:44:13 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.724 ms
+
+[11/21/2020, 7:45:49 PM] info: {}
+[11/21/2020, 7:45:49 PM] info: GET 200 /api/blogs {} body {} size 850 - 168.493 ms
+
+[11/21/2020, 7:45:50 PM] info: {}
+[11/21/2020, 7:45:50 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 29.129 ms
+
+[11/21/2020, 7:45:50 PM] info: {}
+[11/21/2020, 7:45:51 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.665 ms
+
+[11/21/2020, 7:45:51 PM] info: {}
+[11/21/2020, 7:45:51 PM] info: GET 200 /api/blogs {} body {} size 943 - 133.840 ms
+
+[11/21/2020, 7:45:51 PM] info: {}
+[11/21/2020, 7:45:52 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 138.572 ms
+
+[11/21/2020, 7:45:52 PM] info: {}
+[11/21/2020, 7:45:52 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.696 ms
+
+[11/21/2020, 7:47:41 PM] info: {}
+[11/21/2020, 7:47:42 PM] info: GET 200 /api/blogs {} body {} size 850 - 163.082 ms
+
+[11/21/2020, 7:47:42 PM] info: {}
+[11/21/2020, 7:47:42 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 23.139 ms
+
+[11/21/2020, 7:47:43 PM] info: {}
+[11/21/2020, 7:47:43 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.723 ms
+
+[11/21/2020, 7:47:43 PM] info: {}
+[11/21/2020, 7:47:43 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.035 ms
+
+[11/21/2020, 7:47:44 PM] info: {}
+[11/21/2020, 7:47:44 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 138.159 ms
+
+[11/21/2020, 7:47:44 PM] info: {}
+[11/21/2020, 7:47:44 PM] info: GET 200 /api/blogs {} body {} size 943 - 131.180 ms
+
+[11/21/2020, 7:48:41 PM] info: {}
+[11/21/2020, 7:48:41 PM] info: GET 200 /api/blogs {} body {} size 850 - 163.424 ms
+
+[11/21/2020, 7:48:42 PM] info: {}
+[11/21/2020, 7:48:42 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 25.898 ms
+
+[11/21/2020, 7:48:43 PM] info: {}
+[11/21/2020, 7:48:43 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.139 ms
+
+[11/21/2020, 7:48:43 PM] info: {}
+[11/21/2020, 7:48:43 PM] info: GET 200 /api/blogs {} body {} size 943 - 137.637 ms
+
+[11/21/2020, 7:48:44 PM] info: {}
+[11/21/2020, 7:48:44 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 138.683 ms
+
+[11/21/2020, 7:48:44 PM] info: {}
+[11/21/2020, 7:48:44 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.153 ms
+
+[11/21/2020, 7:49:58 PM] info: {}
+[11/21/2020, 7:49:58 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.152 ms
+
+[11/21/2020, 7:49:59 PM] info: {}
+[11/21/2020, 7:49:59 PM] info: GET 400 /api/blogs/:5a422aa71b54a676234d17f6 {} body {} size 27 - 34.030 ms
+
+[11/21/2020, 7:50:00 PM] info: {}
+[11/21/2020, 7:50:00 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.857 ms
+
+[11/21/2020, 7:50:00 PM] info: {}
+[11/21/2020, 7:50:00 PM] info: GET 200 /api/blogs {} body {} size 943 - 137.428 ms
+
+[11/21/2020, 7:50:01 PM] info: {}
+[11/21/2020, 7:50:01 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 137.623 ms
+
+[11/21/2020, 7:50:01 PM] info: {}
+[11/21/2020, 7:50:01 PM] info: GET 200 /api/blogs {} body {} size 943 - 130.833 ms
+
+[11/21/2020, 7:50:01 PM] info: {}
+[11/21/2020, 7:52:02 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 7:58:44 PM] info: {}
+[11/21/2020, 7:58:44 PM] info: GET 200 /api/blogs {} body {} size 850 - 166.417 ms
+
+[11/21/2020, 7:58:45 PM] info: {}
+[11/21/2020, 7:58:45 PM] info: GET 200 /api/blogs {} body {} size 850 - 141.030 ms
+
+[11/21/2020, 7:58:46 PM] info: {}
+[11/21/2020, 7:58:46 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 147.706 ms
+
+[11/21/2020, 7:58:46 PM] info: {}
+[11/21/2020, 7:58:47 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.564 ms
+
+[11/21/2020, 7:58:47 PM] info: {}
+[11/21/2020, 7:58:47 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 146.438 ms
+
+[11/21/2020, 7:58:48 PM] info: {}
+[11/21/2020, 7:58:48 PM] info: GET 200 /api/blogs {} body {} size 943 - 269.255 ms
+
+[11/21/2020, 7:58:49 PM] info: {}
+[11/21/2020, 8:00:06 PM] info: {}
+[11/21/2020, 8:00:06 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.539 ms
+
+[11/21/2020, 8:00:07 PM] info: {}
+[11/21/2020, 8:00:07 PM] info: GET 200 /api/blogs {} body {} size 850 - 141.927 ms
+
+[11/21/2020, 8:00:07 PM] info: {}
+[11/21/2020, 8:00:07 PM] info: GET 404 /api/notes/5a422aa71b54a676234d17f7 {} body {} size 28 - 2.330 ms
+
+[11/21/2020, 8:00:07 PM] info: {}
+[11/21/2020, 8:00:08 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 156.097 ms
+
+[11/21/2020, 8:00:08 PM] info: {}
+[11/21/2020, 8:00:08 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.445 ms
+
+[11/21/2020, 8:00:08 PM] info: {}
+[11/21/2020, 8:00:09 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.397 ms
+
+[11/21/2020, 8:00:09 PM] info: {}
+[11/21/2020, 8:00:09 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.380 ms
+
+[11/21/2020, 8:00:09 PM] info: {}
+[11/21/2020, 8:01:30 PM] info: {}
+[11/21/2020, 8:01:30 PM] info: GET 200 /api/blogs {} body {} size 850 - 162.431 ms
+
+[11/21/2020, 8:01:31 PM] info: {}
+[11/21/2020, 8:01:31 PM] info: GET 200 /api/blogs {} body {} size 850 - 141.632 ms
+
+[11/21/2020, 8:01:31 PM] info: {}
+[11/21/2020, 8:01:31 PM] info: GET 404 /api/notes/5a422aa71b54a676234d17f7 {} body {} size 28 - 1.371 ms
+
+[11/21/2020, 8:01:31 PM] info: {}
+[11/21/2020, 8:01:32 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 151.148 ms
+
+[11/21/2020, 8:01:32 PM] info: {}
+[11/21/2020, 8:01:32 PM] info: GET 200 /api/blogs {} body {} size 943 - 148.318 ms
+
+[11/21/2020, 8:01:32 PM] info: {}
+[11/21/2020, 8:01:33 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 138.019 ms
+
+[11/21/2020, 8:01:33 PM] info: {}
+[11/21/2020, 8:01:33 PM] info: GET 200 /api/blogs {} body {} size 943 - 156.003 ms
+
+[11/21/2020, 8:01:33 PM] info: {}
+[11/21/2020, 8:02:51 PM] info: {}
+[11/21/2020, 8:02:51 PM] info: GET 404 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 28 - 26.740 ms
+
+[11/21/2020, 8:02:53 PM] info: {}
+[11/21/2020, 8:02:53 PM] info: GET 404 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 28 - 1.941 ms
+
+[11/21/2020, 8:03:04 PM] info: {}
+[11/21/2020, 8:03:04 PM] info: GET 404 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 28 - 4.359 ms
+
+[11/21/2020, 8:03:33 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 8:03:48 PM] info: {}
+[11/21/2020, 8:03:48 PM] info: GET 200 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size 43 - 188.110 ms
+
+[11/21/2020, 8:04:17 PM] info: {}
+[11/21/2020, 8:04:17 PM] info: GET 200 /api/blogs {} body {} size 424 - 234.364 ms
+
+[11/21/2020, 8:04:18 PM] info: {}
+[11/21/2020, 8:04:18 PM] info: GET 200 /api/blogs {} body {} size 850 - 132.509 ms
+
+[11/21/2020, 8:04:18 PM] info: {}
+[11/21/2020, 8:04:18 PM] info: GET 404 /api/notes/5a422aa71b54a676234d17f6 {} body {} size 28 - 1.432 ms
+
+[11/21/2020, 8:04:19 PM] info: {}
+[11/21/2020, 8:04:19 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.683 ms
+
+[11/21/2020, 8:04:19 PM] info: {}
+[11/21/2020, 8:04:19 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.132 ms
+
+[11/21/2020, 8:04:20 PM] info: {}
+[11/21/2020, 8:04:20 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.922 ms
+
+[11/21/2020, 8:04:20 PM] info: {}
+[11/21/2020, 8:04:21 PM] info: GET 200 /api/blogs {} body {} size 943 - 150.246 ms
+
+[11/21/2020, 8:04:21 PM] info: {}
+[11/21/2020, 8:06:21 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 8:07:05 PM] info: {}
+[11/21/2020, 8:07:05 PM] info: GET 200 /api/blogs {} body {} size 850 - 162.618 ms
+
+[11/21/2020, 8:07:06 PM] info: {}
+[11/21/2020, 8:07:06 PM] info: GET 200 /api/blogs {} body {} size 850 - 138.757 ms
+
+[11/21/2020, 8:07:06 PM] info: {}
+[11/21/2020, 8:07:06 PM] info: GET 404 /api/notes/5a422aa71b54a676234d17f7 {} body {} size 28 - 1.359 ms
+
+[11/21/2020, 8:07:07 PM] info: {}
+[11/21/2020, 8:07:07 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 154.382 ms
+
+[11/21/2020, 8:07:07 PM] info: {}
+[11/21/2020, 8:07:07 PM] info: GET 200 /api/blogs {} body {} size 943 - 140.480 ms
+
+[11/21/2020, 8:07:08 PM] info: {}
+[11/21/2020, 8:07:08 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 138.660 ms
+
+[11/21/2020, 8:07:08 PM] info: {}
+[11/21/2020, 8:07:08 PM] info: GET 200 /api/blogs {} body {} size 943 - 140.987 ms
+
+[11/21/2020, 8:07:09 PM] info: {}
+[11/21/2020, 8:09:09 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 8:09:55 PM] info: {}
+[11/21/2020, 8:09:55 PM] info: GET 200 /api/blogs {} body {} size 850 - 170.401 ms
+
+[11/21/2020, 8:09:55 PM] info: {}
+[11/21/2020, 8:09:55 PM] info: GET 404 /api/notes/5fb6852f80be194ddb8f1c10 {} body {} size 28 - 3.504 ms
+
+[11/21/2020, 8:09:56 PM] info: {}
+[11/21/2020, 8:09:56 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.805 ms
+
+[11/21/2020, 8:09:56 PM] info: {}
+[11/21/2020, 8:09:56 PM] info: GET 200 /api/blogs {} body {} size 943 - 130.098 ms
+
+[11/21/2020, 8:09:57 PM] info: {}
+[11/21/2020, 8:09:57 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 136.500 ms
+
+[11/21/2020, 8:09:57 PM] info: {}
+[11/21/2020, 8:09:57 PM] info: GET 200 /api/blogs {} body {} size 943 - 131.064 ms
+
+[11/21/2020, 8:09:58 PM] info: {}
+[11/21/2020, 8:11:58 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 8:13:01 PM] info: {}
+[11/21/2020, 8:13:01 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.703 ms
+
+[11/21/2020, 8:13:01 PM] info: {}
+[11/21/2020, 8:13:02 PM] info: GET 404 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size - - 135.349 ms
+
+[11/21/2020, 8:13:02 PM] info: {}
+[11/21/2020, 8:13:02 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 148.686 ms
+
+[11/21/2020, 8:13:02 PM] info: {}
+[11/21/2020, 8:13:03 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.607 ms
+
+[11/21/2020, 8:13:03 PM] info: {}
+[11/21/2020, 8:13:03 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 136.788 ms
+
+[11/21/2020, 8:13:03 PM] info: {}
+[11/21/2020, 8:13:03 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.341 ms
+
+[11/21/2020, 8:13:04 PM] info: {}
+[11/21/2020, 8:13:25 PM] info: {}
+[11/21/2020, 8:13:25 PM] info: GET 304 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size - - 175.896 ms
+
+[11/21/2020, 8:13:26 PM] info: {}
+[11/21/2020, 8:13:26 PM] info: GET 304 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size - - 136.219 ms
+
+[11/21/2020, 8:15:23 PM] info: {}
+[11/21/2020, 8:15:23 PM] info: GET 200 /api/blogs {} body {} size 850 - 164.064 ms
+
+[11/21/2020, 8:15:24 PM] info: {}
+[11/21/2020, 8:15:24 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f6 {} body {} size 212 - 129.614 ms
+
+[11/21/2020, 8:15:24 PM] info: {}
+[11/21/2020, 8:15:25 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 144.651 ms
+
+[11/21/2020, 8:15:25 PM] info: {}
+[11/21/2020, 8:15:25 PM] info: GET 200 /api/blogs {} body {} size 943 - 129.574 ms
+
+[11/21/2020, 8:15:25 PM] info: {}
+[11/21/2020, 8:15:26 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 139.350 ms
+
+[11/21/2020, 8:15:26 PM] info: {}
+[11/21/2020, 8:15:26 PM] info: GET 200 /api/blogs {} body {} size 943 - 124.555 ms
+
+[11/21/2020, 8:15:26 PM] info: {}
+[11/21/2020, 8:17:26 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 8:19:02 PM] info: {}
+[11/21/2020, 8:19:03 PM] info: GET 200 /api/blogs {} body {} size 850 - 193.403 ms
+
+[11/21/2020, 8:19:03 PM] info: {}
+[11/21/2020, 8:19:04 PM] info: {}
+[11/21/2020, 8:19:04 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 147.513 ms
+
+[11/21/2020, 8:19:04 PM] info: {}
+[11/21/2020, 8:19:04 PM] info: GET 200 /api/blogs {} body {} size 943 - 127.351 ms
+
+[11/21/2020, 8:19:05 PM] info: {}
+[11/21/2020, 8:19:05 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 129.246 ms
+
+[11/21/2020, 8:19:05 PM] info: {}
+[11/21/2020, 8:19:05 PM] info: GET 200 /api/blogs {} body {} size 943 - 140.953 ms
+
+[11/21/2020, 8:19:06 PM] info: {}
+[11/21/2020, 8:21:05 PM] info: {}
+[11/21/2020, 8:21:05 PM] info: GET 200 /api/blogs {} body {} size 850 - 153.443 ms
+
+[11/21/2020, 8:21:06 PM] info: {}
+[11/21/2020, 8:21:06 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 142.761 ms
+
+[11/21/2020, 8:21:07 PM] info: {}
+[11/21/2020, 8:21:07 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.738 ms
+
+[11/21/2020, 8:21:07 PM] info: {}
+[11/21/2020, 8:21:07 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.264 ms
+
+[11/21/2020, 8:21:08 PM] info: {}
+[11/21/2020, 8:21:08 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 135.368 ms
+
+[11/21/2020, 8:21:08 PM] info: {}
+[11/21/2020, 8:21:08 PM] info: GET 200 /api/blogs {} body {} size 943 - 133.791 ms
+
+[11/21/2020, 8:21:09 PM] info: {}
+[11/21/2020, 8:23:09 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 9:46:10 PM] info: {}
+[11/21/2020, 9:46:10 PM] info: GET 200 /api/blogs {} body {} size 850 - 163.987 ms
+
+[11/21/2020, 9:46:11 PM] info: {}
+[11/21/2020, 9:46:11 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 135.439 ms
+
+[11/21/2020, 9:46:12 PM] info: {}
+[11/21/2020, 9:46:12 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 143.842 ms
+
+[11/21/2020, 9:46:12 PM] info: {}
+[11/21/2020, 9:46:12 PM] info: GET 200 /api/blogs {} body {} size 943 - 131.621 ms
+
+[11/21/2020, 9:46:13 PM] info: {}
+[11/21/2020, 9:46:13 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 137.058 ms
+
+[11/21/2020, 9:46:13 PM] info: {}
+[11/21/2020, 9:46:13 PM] info: GET 200 /api/blogs {} body {} size 943 - 129.170 ms
+
+[11/21/2020, 9:46:14 PM] info: {}
+[11/21/2020, 9:46:14 PM] info: {}
+[11/21/2020, 9:46:15 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 141.312 ms
+
+[11/21/2020, 9:48:14 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 9:49:02 PM] info: {}
+[11/21/2020, 9:49:02 PM] info: GET 200 /api/blogs {} body {} size 850 - 165.829 ms
+
+[11/21/2020, 9:49:03 PM] info: {}
+[11/21/2020, 9:49:03 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 140.582 ms
+
+[11/21/2020, 9:49:04 PM] info: {}
+[11/21/2020, 9:49:04 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 165.781 ms
+
+[11/21/2020, 9:49:04 PM] info: {}
+[11/21/2020, 9:49:04 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.341 ms
+
+[11/21/2020, 9:49:05 PM] info: {}
+[11/21/2020, 9:49:05 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.535 ms
+
+[11/21/2020, 9:49:05 PM] info: {}
+[11/21/2020, 9:49:05 PM] info: GET 200 /api/blogs {} body {} size 943 - 140.252 ms
+
+[11/21/2020, 9:49:06 PM] info: {}
+[11/21/2020, 9:49:07 PM] info: {}
+[11/21/2020, 9:49:07 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 149.099 ms
+
+[11/21/2020, 9:49:07 PM] info: {}
+[11/21/2020, 9:49:07 PM] info: GET 200 /api/blogs {} body {} size 640 - 134.573 ms
+
+[11/21/2020, 9:50:13 PM] info: {}
+[11/21/2020, 9:50:13 PM] info: GET 200 /api/blogs {} body {} size 850 - 315.672 ms
+
+[11/21/2020, 9:50:14 PM] info: {}
+[11/21/2020, 9:50:14 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 133.171 ms
+
+[11/21/2020, 9:50:15 PM] info: {}
+[11/21/2020, 9:50:15 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 138.003 ms
+
+[11/21/2020, 9:50:15 PM] info: {}
+[11/21/2020, 9:50:15 PM] info: GET 200 /api/blogs {} body {} size 943 - 127.639 ms
+
+[11/21/2020, 9:50:16 PM] info: {}
+[11/21/2020, 9:50:16 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.833 ms
+
+[11/21/2020, 9:50:16 PM] info: {}
+[11/21/2020, 9:50:16 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.015 ms
+
+[11/21/2020, 9:50:17 PM] info: {}
+[11/21/2020, 9:50:18 PM] info: {}
+[11/21/2020, 9:50:18 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 154.767 ms
+
+[11/21/2020, 9:50:18 PM] info: {}
+[11/21/2020, 9:50:18 PM] info: GET 200 /api/blogs {} body {} size 640 - 118.874 ms
+
+[11/21/2020, 9:51:32 PM] info: {}
+[11/21/2020, 9:51:32 PM] info: GET 200 /api/blogs {} body {} size 850 - 154.210 ms
+
+[11/21/2020, 9:51:33 PM] info: {}
+[11/21/2020, 9:51:33 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 134.979 ms
+
+[11/21/2020, 9:51:34 PM] info: {}
+[11/21/2020, 9:51:34 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 156.082 ms
+
+[11/21/2020, 9:51:34 PM] info: {}
+[11/21/2020, 9:51:34 PM] info: GET 200 /api/blogs {} body {} size 943 - 129.877 ms
+
+[11/21/2020, 9:51:35 PM] info: {}
+[11/21/2020, 9:51:35 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 148.216 ms
+
+[11/21/2020, 9:51:35 PM] info: {}
+[11/21/2020, 9:51:35 PM] info: GET 200 /api/blogs {} body {} size 943 - 140.593 ms
+
+[11/21/2020, 9:51:36 PM] info: {}
+[11/21/2020, 9:51:37 PM] info: {}
+[11/21/2020, 9:51:37 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 147.958 ms
+
+[11/21/2020, 9:51:37 PM] info: {}
+[11/21/2020, 9:51:37 PM] info: GET 200 /api/blogs {} body {} size 640 - 125.514 ms
+
+[11/21/2020, 9:53:36 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 10:18:47 PM] info: {}
+[11/21/2020, 10:18:47 PM] info: GET 200 /api/blogs {} body {} size 850 - 170.615 ms
+
+[11/21/2020, 10:18:48 PM] info: {}
+[11/21/2020, 10:18:48 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 148.153 ms
+
+[11/21/2020, 10:18:49 PM] info: {}
+[11/21/2020, 10:18:49 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 147.715 ms
+
+[11/21/2020, 10:18:49 PM] info: {}
+[11/21/2020, 10:18:49 PM] info: GET 200 /api/blogs {} body {} size 943 - 269.973 ms
+
+[11/21/2020, 10:18:50 PM] info: {}
+[11/21/2020, 10:18:51 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 279.120 ms
+
+[11/21/2020, 10:18:51 PM] info: {}
+[11/21/2020, 10:18:51 PM] info: GET 200 /api/blogs {} body {} size 727 - 139.256 ms
+
+[11/21/2020, 10:18:52 PM] info: {}
+[11/21/2020, 10:18:52 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 166.348 ms
+
+[11/21/2020, 10:18:52 PM] info: {}
+[11/21/2020, 10:18:53 PM] info: GET 200 /api/blogs {} body {} size 943 - 338.586 ms
+
+[11/21/2020, 10:18:53 PM] info: {}
+[11/21/2020, 10:18:54 PM] info: {}
+[11/21/2020, 10:18:54 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 135.854 ms
+
+[11/21/2020, 10:18:54 PM] info: {}
+[11/21/2020, 10:18:54 PM] info: GET 200 /api/blogs {} body {} size 640 - 130.446 ms
+
+[11/21/2020, 10:20:53 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 10:23:37 PM] info: {}
+[11/21/2020, 10:23:37 PM] info: GET 200 /api/blogs {} body {} size 850 - 169.988 ms
+
+[11/21/2020, 10:23:38 PM] info: {}
+[11/21/2020, 10:23:38 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 152.243 ms
+
+[11/21/2020, 10:23:38 PM] info: {}
+[11/21/2020, 10:23:39 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 156.415 ms
+
+[11/21/2020, 10:23:39 PM] info: {}
+[11/21/2020, 10:23:39 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.368 ms
+
+[11/21/2020, 10:23:40 PM] info: {}
+[11/21/2020, 10:23:40 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 148.616 ms
+
+[11/21/2020, 10:23:40 PM] info: {}
+[11/21/2020, 10:23:40 PM] info: GET 200 /api/blogs {} body {} size 727 - 144.922 ms
+
+[11/21/2020, 10:23:41 PM] info: {}
+[11/21/2020, 10:23:41 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.181 ms
+
+[11/21/2020, 10:23:41 PM] info: {}
+[11/21/2020, 10:23:41 PM] info: GET 200 /api/blogs {} body {} size 943 - 143.368 ms
+
+[11/21/2020, 10:23:42 PM] info: {}
+[11/21/2020, 10:23:43 PM] info: {}
+[11/21/2020, 10:23:43 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 140.524 ms
+
+[11/21/2020, 10:23:43 PM] info: {}
+[11/21/2020, 10:23:43 PM] info: GET 200 /api/blogs {} body {} size 640 - 134.963 ms
+
+[11/21/2020, 10:25:42 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 10:26:58 PM] info: {}
+[11/21/2020, 10:26:58 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.551 ms
+
+[11/21/2020, 10:26:59 PM] info: {}
+[11/21/2020, 10:26:59 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 135.857 ms
+
+[11/21/2020, 10:27:00 PM] info: {}
+[11/21/2020, 10:27:00 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 144.997 ms
+
+[11/21/2020, 10:27:00 PM] info: {}
+[11/21/2020, 10:27:00 PM] info: GET 200 /api/blogs {} body {} size 943 - 142.055 ms
+
+[11/21/2020, 10:27:01 PM] info: {}
+[11/21/2020, 10:27:01 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 152.156 ms
+
+[11/21/2020, 10:27:01 PM] info: {}
+[11/21/2020, 10:27:01 PM] info: GET 200 /api/blogs {} body {} size 727 - 132.187 ms
+
+[11/21/2020, 10:27:02 PM] info: {}
+[11/21/2020, 10:27:02 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 137.631 ms
+
+[11/21/2020, 10:27:02 PM] info: {}
+[11/21/2020, 10:27:02 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.094 ms
+
+[11/21/2020, 10:27:03 PM] info: {}
+[11/21/2020, 10:27:04 PM] info: {}
+[11/21/2020, 10:27:04 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 138.110 ms
+
+[11/21/2020, 10:27:04 PM] info: {}
+[11/21/2020, 10:27:04 PM] info: GET 200 /api/blogs {} body {} size 640 - 138.304 ms
+
+[11/21/2020, 10:29:03 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 10:31:20 PM] info: {}
+[11/21/2020, 10:31:20 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.430 ms
+
+[11/21/2020, 10:31:21 PM] info: {}
+[11/21/2020, 10:31:21 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 143.165 ms
+
+[11/21/2020, 10:31:22 PM] info: {}
+[11/21/2020, 10:31:22 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 157.530 ms
+
+[11/21/2020, 10:31:22 PM] info: {}
+[11/21/2020, 10:31:22 PM] info: GET 200 /api/blogs {} body {} size 943 - 149.584 ms
+
+[11/21/2020, 10:31:23 PM] info: {}
+[11/21/2020, 10:31:23 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 149.750 ms
+
+[11/21/2020, 10:31:23 PM] info: {}
+[11/21/2020, 10:31:23 PM] info: GET 200 /api/blogs {} body {} size 727 - 135.942 ms
+
+[11/21/2020, 10:31:24 PM] info: {}
+[11/21/2020, 10:31:24 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 146.085 ms
+
+[11/21/2020, 10:31:24 PM] info: {}
+[11/21/2020, 10:31:24 PM] info: GET 200 /api/blogs {} body {} size 943 - 230.165 ms
+
+[11/21/2020, 10:31:25 PM] info: {}
+[11/21/2020, 10:31:26 PM] info: {}
+[11/21/2020, 10:31:26 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 149.484 ms
+
+[11/21/2020, 10:31:26 PM] info: {}
+[11/21/2020, 10:31:26 PM] info: GET 200 /api/blogs {} body {} size 640 - 147.365 ms
+
+[11/21/2020, 10:33:25 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/21/2020, 10:35:05 PM] info: {}
+[11/21/2020, 10:35:05 PM] info: GET 200 /api/blogs {} body {} size 850 - 160.368 ms
+
+[11/21/2020, 10:35:06 PM] info: {}
+[11/21/2020, 10:35:06 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 130.984 ms
+
+[11/21/2020, 10:35:07 PM] info: {}
+[11/21/2020, 10:35:07 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.878 ms
+
+[11/21/2020, 10:35:07 PM] info: {}
+[11/21/2020, 10:35:07 PM] info: GET 200 /api/blogs {} body {} size 943 - 130.817 ms
+
+[11/21/2020, 10:35:08 PM] info: {}
+[11/21/2020, 10:35:08 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 140.029 ms
+
+[11/21/2020, 10:35:08 PM] info: {}
+[11/21/2020, 10:35:08 PM] info: GET 200 /api/blogs {} body {} size 727 - 130.238 ms
+
+[11/21/2020, 10:35:09 PM] info: {}
+[11/21/2020, 10:35:09 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 140.763 ms
+
+[11/21/2020, 10:35:09 PM] info: {}
+[11/21/2020, 10:35:09 PM] info: GET 200 /api/blogs {} body {} size 943 - 134.141 ms
+
+[11/21/2020, 10:35:10 PM] info: {}
+[11/21/2020, 10:35:10 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 128.107 ms
+
+[11/21/2020, 10:35:10 PM] info: {}
+[11/21/2020, 10:35:11 PM] info: GET 200 /api/blogs {} body {} size 640 - 124.543 ms
+
+[11/21/2020, 10:37:42 PM] info: {}
+[11/21/2020, 10:37:42 PM] info: GET 200 /api/blogs {} body {} size 850 - 163.744 ms
+
+[11/21/2020, 10:37:43 PM] info: {}
+[11/21/2020, 10:37:43 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 134.898 ms
+
+[11/21/2020, 10:37:44 PM] info: {}
+[11/21/2020, 10:37:44 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 147.358 ms
+
+[11/21/2020, 10:37:44 PM] info: {}
+[11/21/2020, 10:37:44 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.953 ms
+
+[11/21/2020, 10:37:44 PM] info: {}
+[11/21/2020, 10:37:45 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 137.658 ms
+
+[11/21/2020, 10:37:45 PM] info: {}
+[11/21/2020, 10:37:45 PM] info: GET 200 /api/blogs {} body {} size 727 - 136.875 ms
+
+[11/21/2020, 10:37:45 PM] info: {}
+[11/21/2020, 10:37:46 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 138.359 ms
+
+[11/21/2020, 10:37:46 PM] info: {}
+[11/21/2020, 10:37:46 PM] info: GET 200 /api/blogs {} body {} size 943 - 130.251 ms
+
+[11/21/2020, 10:37:46 PM] info: {}
+[11/21/2020, 10:37:47 PM] info: {}
+[11/21/2020, 10:37:47 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 140.398 ms
+
+[11/21/2020, 10:37:47 PM] info: {}
+[11/21/2020, 10:37:47 PM] info: GET 200 /api/blogs {} body {} size 640 - 136.108 ms
+
+[11/21/2020, 10:39:46 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/22/2020, 12:57:13 PM] info: {}
+[11/22/2020, 12:57:15 PM] info: GET 200 /api/blogs {} body {} size 2 - 2449.100 ms
+
+[11/22/2020, 12:57:16 PM] info: {}
+[11/22/2020, 12:57:16 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 141.958 ms
+
+[11/22/2020, 12:57:17 PM] info: {}
+[11/22/2020, 12:57:17 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 235.908 ms
+
+[11/22/2020, 12:57:17 PM] info: {}
+[11/22/2020, 12:57:17 PM] info: GET 200 /api/blogs {} body {} size 943 - 152.460 ms
+
+[11/22/2020, 12:57:18 PM] info: {}
+[11/22/2020, 12:57:18 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 159.008 ms
+
+[11/22/2020, 12:57:18 PM] info: {}
+[11/22/2020, 12:57:18 PM] info: GET 200 /api/blogs {} body {} size 727 - 156.754 ms
+
+[11/22/2020, 12:57:19 PM] info: {}
+[11/22/2020, 12:57:19 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 146.976 ms
+
+[11/22/2020, 12:57:19 PM] info: {}
+[11/22/2020, 12:57:19 PM] info: GET 200 /api/blogs {} body {} size 943 - 132.168 ms
+
+[11/22/2020, 12:57:20 PM] info: {}
+[11/22/2020, 12:57:21 PM] info: {}
+[11/22/2020, 12:57:21 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 157.807 ms
+
+[11/22/2020, 12:57:21 PM] info: {}
+[11/22/2020, 12:57:22 PM] info: GET 200 /api/blogs {} body {} size 640 - 137.330 ms
+
+[11/22/2020, 12:59:22 PM] info: {}
+[11/22/2020, 12:59:22 PM] info: GET 200 /api/blogs {} body {} size 2 - 262.029 ms
+
+[11/22/2020, 12:59:23 PM] info: {}
+[11/22/2020, 12:59:23 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 151.957 ms
+
+[11/22/2020, 12:59:24 PM] info: {}
+[11/22/2020, 12:59:24 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 163.901 ms
+
+[11/22/2020, 12:59:24 PM] info: {}
+[11/22/2020, 12:59:24 PM] info: GET 200 /api/blogs {} body {} size 943 - 154.702 ms
+
+[11/22/2020, 12:59:25 PM] info: {}
+[11/22/2020, 12:59:25 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 140.770 ms
+
+[11/22/2020, 12:59:25 PM] info: {}
+[11/22/2020, 12:59:25 PM] info: GET 200 /api/blogs {} body {} size 727 - 150.421 ms
+
+[11/22/2020, 12:59:26 PM] info: {}
+[11/22/2020, 12:59:26 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 147.053 ms
+
+[11/22/2020, 12:59:26 PM] info: {}
+[11/22/2020, 12:59:26 PM] info: GET 200 /api/blogs {} body {} size 943 - 129.172 ms
+
+[11/22/2020, 12:59:27 PM] info: {}
+[11/22/2020, 12:59:28 PM] info: {}
+[11/22/2020, 12:59:28 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 178.051 ms
+
+[11/22/2020, 12:59:28 PM] info: {}
+[11/22/2020, 12:59:28 PM] info: GET 200 /api/blogs {} body {} size 640 - 188.397 ms
+
+[11/22/2020, 1:00:52 PM] info: {}
+[11/22/2020, 1:00:52 PM] info: GET 200 /api/blogs {} body {} size 231 - 193.513 ms
+
+[11/22/2020, 1:00:52 PM] info: {}
+[11/22/2020, 1:00:52 PM] info: GET 404 /favicon.ico {} body {} size 28 - 3.373 ms
+
+[11/22/2020, 1:01:27 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/22/2020, 1:02:41 PM] info: {}
+[11/22/2020, 1:02:43 PM] info: GET 200 /api/blogs {} body {} size 2 - 2509.414 ms
+
+[11/22/2020, 1:04:25 PM] info: {}
+[11/22/2020, 1:04:25 PM] info: GET 200 /api/blogs {} body {} size 850 - 167.745 ms
+
+[11/22/2020, 1:04:26 PM] info: {}
+[11/22/2020, 1:04:26 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 142.061 ms
+
+[11/22/2020, 1:04:27 PM] info: {}
+[11/22/2020, 1:04:27 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 180.082 ms
+
+[11/22/2020, 1:04:27 PM] info: {}
+[11/22/2020, 1:04:27 PM] info: GET 200 /api/blogs {} body {} size 943 - 117.902 ms
+
+[11/22/2020, 1:04:28 PM] info: {}
+[11/22/2020, 1:04:28 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 148.878 ms
+
+[11/22/2020, 1:04:28 PM] info: {}
+[11/22/2020, 1:04:28 PM] info: GET 200 /api/blogs {} body {} size 727 - 147.393 ms
+
+[11/22/2020, 1:04:29 PM] info: {}
+[11/22/2020, 1:04:29 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 155.754 ms
+
+[11/22/2020, 1:04:29 PM] info: {}
+[11/22/2020, 1:04:29 PM] info: GET 200 /api/blogs {} body {} size 943 - 138.863 ms
+
+[11/22/2020, 1:04:30 PM] info: {}
+[11/22/2020, 1:04:30 PM] info: {}
+[11/22/2020, 1:04:31 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 150.545 ms
+
+[11/22/2020, 1:04:31 PM] info: {}
+[11/22/2020, 1:04:31 PM] info: GET 200 /api/blogs {} body {} size 640 - 144.635 ms
+
+[11/22/2020, 1:19:25 PM] info: {}
+[11/22/2020, 1:19:35 PM] info: {}
+[11/22/2020, 1:19:45 PM] info: {}
+[11/22/2020, 1:19:55 PM] info: {}
+[11/22/2020, 1:20:05 PM] info: {}
+[11/22/2020, 1:20:15 PM] info: {}
+[11/22/2020, 1:20:20 PM] info: {}
+[11/22/2020, 1:21:25 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/22/2020, 1:21:35 PM] info: GET - /api/blogs/5a422aa71b54a676234d17f8 {} body {} size - - - ms
+
+[11/22/2020, 1:21:45 PM] info: POST - /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size - - - ms
+
+[11/22/2020, 1:21:55 PM] info: PUT - /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size - - - ms
+
+[11/22/2020, 1:22:05 PM] info: POST - /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size - - - ms
+
+[11/22/2020, 1:22:15 PM] info: POST - /api/blogs {} body {"author":"Lolik","likes":8} size - - - ms
+
+[11/22/2020, 1:22:20 PM] info: DELETE - /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - - ms
+
+[11/22/2020, 1:25:46 PM] info: {}
+[11/22/2020, 1:25:46 PM] info: GET 200 /api/blogs {} body {} size 850 - 222.228 ms
+
+[11/22/2020, 1:25:47 PM] info: {}
+[11/22/2020, 1:25:47 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 133.994 ms
+
+[11/22/2020, 1:25:48 PM] info: {}
+[11/22/2020, 1:25:48 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 146.964 ms
+
+[11/22/2020, 1:25:48 PM] info: {}
+[11/22/2020, 1:25:48 PM] info: GET 200 /api/blogs {} body {} size 943 - 139.093 ms
+
+[11/22/2020, 1:25:49 PM] info: {}
+[11/22/2020, 1:25:49 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 148.975 ms
+
+[11/22/2020, 1:25:49 PM] info: {}
+[11/22/2020, 1:25:49 PM] info: GET 200 /api/blogs {} body {} size 727 - 126.285 ms
+
+[11/22/2020, 1:25:50 PM] info: {}
+[11/22/2020, 1:25:50 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 129.449 ms
+
+[11/22/2020, 1:25:50 PM] info: {}
+[11/22/2020, 1:25:50 PM] info: GET 200 /api/blogs {} body {} size 943 - 136.948 ms
+
+[11/22/2020, 1:25:51 PM] info: {}
+[11/22/2020, 1:25:52 PM] info: {}
+[11/22/2020, 1:25:52 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 139.754 ms
+
+[11/22/2020, 1:25:52 PM] info: {}
+[11/22/2020, 1:25:52 PM] info: GET 200 /api/blogs {} body {} size 640 - 135.931 ms
+
+[11/22/2020, 1:27:11 PM] info: {}
+[11/22/2020, 1:27:11 PM] info: GET 200 /api/blogs {} body {} size 850 - 165.523 ms
+
+[11/22/2020, 1:27:12 PM] info: {}
+[11/22/2020, 1:27:12 PM] info: GET 200 /api/blogs/5a422aa71b54a676234d17f8 {} body {} size 212 - 143.110 ms
+
+[11/22/2020, 1:27:13 PM] info: {}
+[11/22/2020, 1:27:13 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/..","likes":8} size 92 - 145.935 ms
+
+[11/22/2020, 1:27:13 PM] info: {}
+[11/22/2020, 1:27:13 PM] info: GET 200 /api/blogs {} body {} size 943 - 137.123 ms
+
+[11/22/2020, 1:27:14 PM] info: {}
+[11/22/2020, 1:27:14 PM] info: PUT 200 /api/blogs/5a422aa71b54a676234d17f9 {} body {"title":"Hi","author":"Bolik","url":"http/..","likes":5} size 89 - 161.630 ms
+
+[11/22/2020, 1:27:14 PM] info: {}
+[11/22/2020, 1:27:14 PM] info: GET 200 /api/blogs {} body {} size 727 - 127.742 ms
+
+[11/22/2020, 1:27:15 PM] info: {}
+[11/22/2020, 1:27:15 PM] info: POST 201 /api/blogs {} body {"title":"Hello","author":"Lolik","url":"http/.."} size 92 - 148.881 ms
+
+[11/22/2020, 1:27:15 PM] info: {}
+[11/22/2020, 1:27:15 PM] info: GET 200 /api/blogs {} body {} size 943 - 171.200 ms
+
+[11/22/2020, 1:27:16 PM] info: {}
+[11/22/2020, 1:27:17 PM] info: {}
+[11/22/2020, 1:27:17 PM] info: DELETE 204 /api/blogs/5a422aa71b54a676234d17f7 {} body {} size - - 149.905 ms
+
+[11/22/2020, 1:27:17 PM] info: {}
+[11/22/2020, 1:27:17 PM] info: GET 200 /api/blogs {} body {} size 640 - 125.581 ms
+
+[11/22/2020, 2:14:13 PM] info: {}
+[11/22/2020, 2:14:13 PM] info: GET 404 /api/users {} body {} size 28 - 27.938 ms
+
+[11/22/2020, 2:14:13 PM] info: {}
+[11/22/2020, 2:14:13 PM] info: GET 404 /favicon.ico {} body {} size 28 - 1.848 ms
+
+[11/22/2020, 2:15:58 PM] info: {}
+[11/22/2020, 2:15:59 PM] info: GET 304 /api/blogs {} body {} size - - 338.790 ms
+
+[11/22/2020, 2:16:04 PM] info: {}
+[11/22/2020, 2:16:04 PM] info: GET 404 /api/users {} body {} size 28 - 1.981 ms
+
+[11/22/2020, 2:16:28 PM] info: {}
+[11/22/2020, 2:16:28 PM] info: GET 404 /api/users {} body {} size 28 - 3.687 ms
+
+[11/22/2020, 2:16:28 PM] info: {}
+[11/22/2020, 2:16:28 PM] info: GET 404 /api/users {} body {} size 28 - 1.825 ms
+
+[11/22/2020, 2:20:18 PM] info: {}
+[11/22/2020, 2:20:18 PM] info: GET 404 /api/users {} body {} size 28 - 2.132 ms
+
+[11/22/2020, 2:20:19 PM] info: {}
+[11/22/2020, 2:20:19 PM] info: GET 404 /api/users {} body {} size 28 - 2.342 ms
+
+[11/22/2020, 2:20:20 PM] info: {}
+[11/22/2020, 2:20:20 PM] info: GET 404 /api/users {} body {} size 28 - 2.756 ms
+
+[11/22/2020, 2:20:21 PM] info: {}
+[11/22/2020, 2:20:21 PM] info: GET 404 /api/users {} body {} size 28 - 3.461 ms
+
+[11/22/2020, 2:20:52 PM] info: {}
+[11/22/2020, 2:20:52 PM] info: GET 404 /api/users {} body {} size 28 - 1.942 ms
+
+[11/22/2020, 2:20:52 PM] info: {}
+[11/22/2020, 2:20:52 PM] info: GET 404 /api/users {} body {} size 28 - 1.469 ms
+
+[11/22/2020, 2:20:57 PM] info: {}
+[11/22/2020, 2:20:57 PM] info: GET 404 /api/users {} body {} size 28 - 2.480 ms
+
+[11/22/2020, 2:20:57 PM] info: {}
+[11/22/2020, 2:20:57 PM] info: GET 404 /api/users {} body {} size 28 - 2.475 ms
+
+[11/22/2020, 2:20:58 PM] info: {}
+[11/22/2020, 2:20:58 PM] info: GET 404 /api/users {} body {} size 28 - 2.416 ms
+
+[11/22/2020, 2:21:31 PM] info: {}
+[11/22/2020, 2:21:31 PM] info: GET 404 /api/users {} body {} size 28 - 2.080 ms
+
+[11/22/2020, 2:21:38 PM] info: {}
+[11/22/2020, 2:21:38 PM] info: GET 304 /api/blogs {} body {} size - - 155.992 ms
+
+[11/22/2020, 2:23:05 PM] info: {}
+[11/22/2020, 2:23:05 PM] info: GET 304 /api/blogs {} body {} size - - 134.445 ms
+
+[11/22/2020, 2:23:11 PM] info: {}
+[11/22/2020, 2:23:11 PM] info: GET 404 /api/users {} body {} size 28 - 3.505 ms
+
+[11/22/2020, 2:25:32 PM] info: {}
+[11/22/2020, 2:25:32 PM] info: GET 404 /api/users {} body {} size 28 - 3.204 ms
+
+[11/22/2020, 2:26:06 PM] info: {}
+[11/22/2020, 2:26:06 PM] info: GET 404 /api/users {} body {} size 28 - 2.158 ms
+
+[11/22/2020, 2:28:03 PM] info: {}
+[11/22/2020, 2:28:03 PM] info: GET 404 /api/users {} body {} size 28 - 2.388 ms
+
+[11/22/2020, 2:33:08 PM] info: {}
+[11/22/2020, 2:33:08 PM] info: GET 404 /api/users {} body {} size 28 - 2.434 ms
+
+[11/22/2020, 2:33:09 PM] info: {}
+[11/22/2020, 2:33:09 PM] info: GET 404 /api/users {} body {} size 28 - 2.105 ms
+
+[11/22/2020, 2:33:18 PM] info: {}
+[11/22/2020, 2:33:18 PM] info: GET 404 /api/users {} body {} size 28 - 2.969 ms
+
+[11/22/2020, 2:33:19 PM] info: {}
+[11/22/2020, 2:33:19 PM] info: GET 404 /api/users {} body {} size 28 - 1.644 ms
+
+[11/22/2020, 2:33:19 PM] info: {}
+[11/22/2020, 2:33:19 PM] info: GET 404 /api/users {} body {} size 28 - 1.989 ms
+
+[11/22/2020, 2:35:05 PM] info: {}
+[11/22/2020, 2:35:05 PM] info: GET 404 /api/users {} body {} size 28 - 2.876 ms
+
+[11/22/2020, 2:35:06 PM] info: {}
+[11/22/2020, 2:35:06 PM] info: GET 404 /api/users {} body {} size 28 - 1.662 ms
+
+[11/22/2020, 2:35:07 PM] info: {}
+[11/22/2020, 2:35:07 PM] info: GET 404 /api/users {} body {} size 28 - 2.066 ms
+
+[11/22/2020, 2:35:13 PM] info: {}
+[11/22/2020, 2:35:13 PM] info: GET 304 /api/blogs {} body {} size - - 148.268 ms
+
+[11/22/2020, 2:35:18 PM] info: {}
+[11/22/2020, 2:35:18 PM] info: GET 404 /api/users {} body {} size 28 - 1.777 ms
+
+[11/22/2020, 2:36:35 PM] info: {}
+[11/22/2020, 2:36:35 PM] info: POST 404 /api/users {} body {"title":"Welcome","author":"Ola","url":"http/..","likes":5} size 28 - 11.927 ms
+
+[11/22/2020, 2:41:56 PM] info: {}
+[11/22/2020, 2:41:56 PM] info: POST 400 /api/users {} body {} size 1137 - 3.583 ms
+
+[11/22/2020, 2:42:57 PM] info: {}
+[11/22/2020, 2:42:57 PM] info: POST 400 /api/users {} body {} size 1141 - 2.134 ms
+
+[11/22/2020, 2:44:09 PM] info: {}
+[11/22/2020, 2:44:09 PM] info: POST 400 /api/users {} body {} size 1142 - 3.088 ms
+
+[11/22/2020, 2:44:32 PM] info: {}
+[11/22/2020, 2:44:32 PM] info: POST 400 /api/users {} body {} size 1142 - 2.610 ms
+
+[11/22/2020, 2:44:48 PM] info: {}
+[11/22/2020, 2:44:48 PM] info: POST 400 /api/users {} body {} size 1142 - 2.066 ms
+
+[11/22/2020, 2:46:11 PM] info: {}
+[11/22/2020, 2:46:11 PM] info: POST 400 /api/users {} body {} size 1138 - 1.734 ms
+
+[11/22/2020, 2:46:35 PM] info: {}
+[11/22/2020, 2:46:35 PM] info: POST 404 /api/users {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 2.015 ms
+
+[11/22/2020, 2:46:39 PM] info: {}
+[11/22/2020, 2:46:39 PM] info: POST 404 /api/users {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 2.346 ms
+
+[11/22/2020, 2:49:34 PM] info: {}
+[11/22/2020, 2:49:34 PM] info: GET 404 /api/users {} body {} size 28 - 1.685 ms
+
+[11/22/2020, 2:49:34 PM] info: {}
+[11/22/2020, 2:49:34 PM] info: GET 404 /api/users {} body {} size 28 - 2.070 ms
+
+[11/22/2020, 2:49:35 PM] info: {}
+[11/22/2020, 2:49:35 PM] info: GET 404 /api/users {} body {} size 28 - 3.069 ms
+
+[11/22/2020, 2:50:13 PM] info: {}
+[11/22/2020, 2:50:13 PM] info: GET 404 /api/users {} body {} size 28 - 1.999 ms
+
+[11/22/2020, 2:50:14 PM] info: {}
+[11/22/2020, 2:50:14 PM] info: GET 404 /api/users {} body {} size 28 - 2.030 ms
+
+[11/22/2020, 3:27:09 PM] info: {}
+[11/22/2020, 3:27:09 PM] info: GET 404 /api/users {} body {} size 28 - 1.910 ms
+
+[11/22/2020, 3:27:09 PM] info: {}
+[11/22/2020, 3:27:09 PM] info: GET 404 /api/users {} body {} size 28 - 2.720 ms
+
+[11/22/2020, 3:27:10 PM] info: {}
+[11/22/2020, 3:27:10 PM] info: GET 404 /api/users {} body {} size 28 - 2.366 ms
+
+[11/22/2020, 3:27:38 PM] info: {}
+[11/22/2020, 3:27:38 PM] info: POST 404 /api/users {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 2.270 ms
+
+[11/22/2020, 3:27:40 PM] info: {}
+[11/22/2020, 3:27:40 PM] info: POST 404 /api/users {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 2.088 ms
+
+[11/22/2020, 3:31:54 PM] info: {}
+[11/22/2020, 3:31:54 PM] info: GET 404 /api/users {} body {} size 28 - 2.899 ms
+
+[11/22/2020, 3:31:55 PM] info: {}
+[11/22/2020, 3:31:55 PM] info: GET 404 /api/users {} body {} size 28 - 2.090 ms
+
+[11/22/2020, 3:31:56 PM] info: {}
+[11/22/2020, 3:31:56 PM] info: GET 404 /api/users {} body {} size 28 - 1.916 ms
+
+[11/22/2020, 3:32:52 PM] info: {}
+[11/22/2020, 3:32:52 PM] info: GET 404 /api/users {} body {} size 28 - 2.116 ms
+
+[11/22/2020, 3:32:53 PM] info: {}
+[11/22/2020, 3:32:53 PM] info: GET 404 /api/users {} body {} size 28 - 2.125 ms
+
+[11/22/2020, 3:32:57 PM] info: {}
+[11/22/2020, 3:32:58 PM] info: GET 304 /api/blogs {} body {} size - - 128.015 ms
+
+[11/22/2020, 3:33:59 PM] info: {}
+[11/22/2020, 3:33:59 PM] info: GET 304 /api/blogs {} body {} size - - 145.871 ms
+
+[11/22/2020, 3:34:03 PM] info: {}
+[11/22/2020, 3:34:03 PM] info: GET 404 /api/users {} body {} size 28 - 2.234 ms
+
+[11/22/2020, 3:34:30 PM] info: {}
+[11/22/2020, 3:34:30 PM] info: POST 404 /api/users {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 1.979 ms
+
+[11/22/2020, 3:34:37 PM] info: {}
+[11/22/2020, 3:34:37 PM] info: POST 404 / {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 2.094 ms
+
+[11/22/2020, 3:34:38 PM] info: {}
+[11/22/2020, 3:34:38 PM] info: POST 404 / {} body {"username":"root","name":"Superuser","password":"salainen"} size 28 - 2.257 ms
+
+[11/22/2020, 3:35:10 PM] info: {}
+[11/22/2020, 3:35:10 PM] info: GET 404 /api/users {} body {} size 28 - 1.414 ms
+
+[11/22/2020, 3:35:20 PM] info: {}
+[11/22/2020, 3:35:20 PM] info: POST 400 /api/users {} body {} size 1142 - 1.761 ms
+
+[11/22/2020, 3:40:06 PM] info: {}
+[11/22/2020, 3:40:06 PM] info: GET 404 / {} body {} size 28 - 2.171 ms
+
+[11/22/2020, 3:40:14 PM] info: {}
+[11/22/2020, 3:40:14 PM] info: GET 404 /api/users {} body {} size 28 - 2.493 ms
+
+[11/22/2020, 3:40:16 PM] info: {}
+[11/22/2020, 3:40:16 PM] info: GET 404 /api/users {} body {} size 28 - 1.885 ms
+
+[11/22/2020, 3:41:39 PM] info: {}
+[11/22/2020, 3:41:39 PM] info: GET 404 /api/users {} body {} size 28 - 1.370 ms
+
+[11/22/2020, 4:12:18 PM] info: {}
+[11/22/2020, 4:12:18 PM] info: GET 404 /api/users {} body {} size 28 - 1.693 ms
+
+[11/22/2020, 4:12:18 PM] info: {}
+[11/22/2020, 4:12:18 PM] info: GET 404 /api/users {} body {} size 28 - 2.197 ms
+
+[11/22/2020, 4:19:42 PM] info: {}
+[11/22/2020, 4:19:42 PM] info: GET 404 /api/users {} body {} size 28 - 2.188 ms
+
+[11/22/2020, 4:19:46 PM] info: {}
+[11/22/2020, 4:19:46 PM] info: GET 404 /api/users {} body {} size 28 - 1.979 ms
+
+[11/22/2020, 4:31:20 PM] info: {}
+[11/22/2020, 4:31:20 PM] info: GET 404 /api/users {} body {} size 28 - 195.722 ms
+
+[11/22/2020, 5:00:41 PM] info: {}
+[11/22/2020, 5:00:43 PM] info: GET 304 /api/blogs {} body {} size - - 2741.308 ms
+
+[11/22/2020, 5:00:55 PM] info: {}
+[11/22/2020, 5:00:55 PM] info: GET 404 /api/users {} body {} size 28 - 2.168 ms
+
+[11/22/2020, 5:10:21 PM] info: {}
+[11/22/2020, 5:10:21 PM] info: GET 304 /api/blogs {} body {} size - - 144.592 ms
+
+[11/22/2020, 5:11:33 PM] info: {}
+[11/22/2020, 5:11:33 PM] info: GET 404 /api/users {} body {} size 28 - 1.541 ms
+
+[11/22/2020, 7:38:08 PM] info: {}
+[11/22/2020, 7:38:08 PM] info: GET 200 /api/blogs {} body {} size 231 - 183.433 ms
+
+[11/22/2020, 7:38:18 PM] info: {}
+[11/22/2020, 7:38:18 PM] info: GET 304 /api/blogs {} body {} size - - 131.263 ms
+
+[11/23/2020, 12:25:36 PM] info: {}
+[11/23/2020, 12:25:36 PM] info: GET 404 /api/persons {} body {} size 28 - 29.868 ms
+
+[11/23/2020, 12:25:36 PM] info: {}
+[11/23/2020, 12:25:36 PM] info: GET 404 /favicon.ico {} body {} size 28 - 2.565 ms
+
+[11/23/2020, 12:25:44 PM] info: {}
+[11/23/2020, 12:25:45 PM] info: GET 200 /api/blogs {} body {} size 231 - 885.228 ms
+
+[11/23/2020, 12:27:21 PM] info: {}
+[11/23/2020, 12:27:21 PM] info: GET 200 /api/blogs {} body {} size 231 - 139.913 ms
+
+[11/23/2020, 12:32:30 PM] info: {}
+[11/23/2020, 12:32:31 PM] info: GET 200 /api/blogs {} body {} size 231 - 133.448 ms
+
+[11/23/2020, 1:17:08 PM] info: {}
+[11/23/2020, 1:17:08 PM] info: GET 200 /api/blogs {} body {} size 231 - 136.780 ms
+
+[11/23/2020, 1:17:23 PM] info: {}
+[11/23/2020, 1:17:23 PM] info: {}
+[11/23/2020, 1:17:23 PM] info: GET 404 /App.js {} body {} size 28 - 4.415 ms
+
+[11/23/2020, 1:17:23 PM] info: GET 404 /src/index.js {} body {} size 28 - 4.695 ms
+
+[11/23/2020, 1:17:23 PM] info: {}
+[11/23/2020, 1:17:23 PM] info: GET 404 /App.js {} body {} size 28 - 2.290 ms
+
+[11/23/2020, 1:17:23 PM] info: {}
+[11/23/2020, 1:17:23 PM] info: GET 404 /src/index.js {} body {} size 28 - 1.199 ms
+
+[11/23/2020, 1:22:36 PM] info: {}
+[11/23/2020, 1:22:36 PM] info: GET 304 /api/blogs {} body {} size - - 138.567 ms
+
+[11/23/2020, 1:22:44 PM] info: {}
+[11/23/2020, 1:22:44 PM] info: {}
+[11/23/2020, 1:22:44 PM] info: GET 404 /App.js {} body {} size 28 - 3.982 ms
+
+[11/23/2020, 1:22:44 PM] info: GET 404 /src/index.js {} body {} size 28 - 4.434 ms
+
+[11/23/2020, 1:22:44 PM] info: {}
+[11/23/2020, 1:22:44 PM] info: {}
+[11/23/2020, 1:22:44 PM] info: GET 404 /App.js {} body {} size 28 - 3.451 ms
+
+[11/23/2020, 1:22:44 PM] info: GET 404 /src/index.js {} body {} size 28 - 2.746 ms
+
+[11/23/2020, 1:25:07 PM] info: {}
+[11/23/2020, 1:25:07 PM] info: GET 200 /api/blogs {} body {} size 231 - 137.963 ms
+
+[11/23/2020, 1:25:11 PM] info: {}
+[11/23/2020, 1:25:11 PM] info: GET 200 /api/blogs {} body {} size 231 - 129.473 ms
+
+[11/23/2020, 1:25:13 PM] info: {}
+[11/23/2020, 1:25:13 PM] info: GET 404 /App.js {} body {} size 28 - 2.132 ms
+
+[11/23/2020, 1:25:13 PM] info: {}
+[11/23/2020, 1:25:13 PM] info: GET 404 /src/index.js {} body {} size 28 - 1.746 ms
+
+[11/23/2020, 1:25:13 PM] info: {}
+[11/23/2020, 1:25:13 PM] info: {}
+[11/23/2020, 1:25:13 PM] info: GET 404 /src/index.js {} body {} size 28 - 2.725 ms
+
+[11/23/2020, 1:25:13 PM] info: GET 404 /App.js {} body {} size 28 - 2.562 ms
+
+[11/23/2020, 1:40:50 PM] info: {}
+[11/23/2020, 1:40:51 PM] info: GET 200 /api/blogs {} body {} size 231 - 1336.176 ms
+
+[11/23/2020, 1:40:59 PM] info: {}
+[11/23/2020, 1:40:59 PM] info: GET 200 /api/blogs {} body {} size 231 - 279.980 ms
+
+[11/23/2020, 1:41:01 PM] info: {}
+[11/23/2020, 1:41:01 PM] info: {}
+[11/23/2020, 1:41:01 PM] info: GET 404 /App.js {} body {} size 28 - 2.874 ms
+
+[11/23/2020, 1:41:01 PM] info: GET 404 /src/index.js {} body {} size 28 - 2.667 ms
+
+[11/23/2020, 1:41:01 PM] info: {}
+[11/23/2020, 1:41:01 PM] info: {}
+[11/23/2020, 1:41:01 PM] info: GET 404 /App.js {} body {} size 28 - 4.085 ms
+
+[11/23/2020, 1:41:01 PM] info: GET 404 /src/index.js {} body {} size 28 - 4.105 ms
+
+[11/23/2020, 1:41:01 PM] info: {}
+[11/23/2020, 1:41:01 PM] info: POST 404 /api/login {} body {"username":"idunets@yahoo.com","password":"fghh"} size 28 - 13.239 ms
+
+[11/23/2020, 1:43:03 PM] info: {}
+[11/23/2020, 1:43:03 PM] info: GET 304 /api/blogs {} body {} size - - 142.678 ms
+
+[11/23/2020, 1:44:00 PM] info: {}
+[11/23/2020, 1:44:00 PM] info: GET 304 /api/blogs {} body {} size - - 175.261 ms
+
+[11/23/2020, 1:44:21 PM] info: {}
+[11/23/2020, 1:44:21 PM] info: GET 304 /api/blogs {} body {} size - - 190.422 ms
+
+[11/23/2020, 1:44:30 PM] info: {}
+[11/23/2020, 1:44:30 PM] info: GET 200 /api/blogs {} body {} size 231 - 145.232 ms
+
+[11/23/2020, 1:44:33 PM] info: {}
+[11/23/2020, 1:44:33 PM] info: POST 404 /api/login {} body {"username":"idunets@yahoo.com","password":"fghh"} size 28 - 14.364 ms
+
+[11/23/2020, 1:44:52 PM] info: {}
+[11/23/2020, 1:44:52 PM] info: GET 404 /api/login {} body {} size 28 - 3.341 ms
+
+[11/23/2020, 1:51:56 PM] info: {}
+[11/23/2020, 1:51:56 PM] info: GET 304 /api/blogs {} body {} size - - 180.178 ms
+
+[11/23/2020, 1:52:03 PM] info: {}
+[11/23/2020, 1:52:03 PM] info: GET 404 /api/login {} body {} size 28 - 1.847 ms
+
+[11/23/2020, 1:53:07 PM] info: {}
+[11/23/2020, 1:53:07 PM] info: GET 404 /api/login {} body {} size 28 - 3.292 ms
+
+[11/23/2020, 1:53:08 PM] info: {}
+[11/23/2020, 1:53:08 PM] info: GET 404 /api/login {} body {} size 28 - 4.107 ms
+
+[11/23/2020, 1:53:08 PM] info: {}
+[11/23/2020, 1:53:08 PM] info: GET 404 /api/login {} body {} size 28 - 3.870 ms
+
+[11/23/2020, 1:55:20 PM] info: {}
+[11/23/2020, 1:55:20 PM] info: GET 404 /api/login {} body {} size 28 - 2.279 ms
+
+[11/23/2020, 1:58:17 PM] info: {}
+[11/23/2020, 1:58:17 PM] info: POST 404 /api/login {} body {"username":"idunets@yahoo.com","password":"fghh"} size 28 - 12.022 ms
+
+[11/23/2020, 3:35:31 PM] error: uncaughtException: listen EADDRINUSE: address already in use :::3001
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (net.js:1317:16)
+    at listenInCluster (net.js:1365:12)
+    at Server.listen (net.js:1451:7)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5/backend/index.js:8:8)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/23/2020, 3:57:32 PM] error: uncaughtException: listen EADDRINUSE: address already in use :::3001
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (net.js:1317:16)
+    at listenInCluster (net.js:1365:12)
+    at Server.listen (net.js:1451:7)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5/backend/index.js:8:8)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/23/2020, 4:05:35 PM] info: {}
+[11/23/2020, 4:05:35 PM] info: GET 200 /api/blogs {} body {} size 231 - 174.039 ms
+
+[11/23/2020, 4:05:44 PM] info: {}
+[11/23/2020, 4:05:44 PM] info: GET 200 /api/blogs {} body {} size 231 - 139.312 ms
+
+[11/23/2020, 4:05:45 PM] info: {}
+[11/23/2020, 4:05:45 PM] info: GET 404 /favicon.ico {} body {} size 28 - 2.350 ms
+
+[11/23/2020, 4:07:40 PM] info: {}
+[11/23/2020, 4:07:40 PM] info: GET 200 /api/blogs {} body {} size 231 - 129.194 ms
+
+[11/23/2020, 4:09:36 PM] info: {}
+[11/23/2020, 4:09:37 PM] info: GET 200 /api/blogs {} body {} size 231 - 566.920 ms
+
+[11/23/2020, 4:09:43 PM] info: {}
+[11/23/2020, 4:09:43 PM] info: GET 200 /api/blogs {} body {} size 231 - 132.651 ms
+
+[11/23/2020, 4:11:31 PM] info: {}
+[11/23/2020, 4:11:32 PM] info: GET 200 /api/blogs {} body {} size 231 - 1050.313 ms
+
+[11/23/2020, 4:11:37 PM] info: {}
+[11/23/2020, 4:11:37 PM] info: GET 200 /api/blogs {} body {} size 231 - 137.212 ms
+
+[11/23/2020, 4:13:03 PM] info: {}
+[11/23/2020, 4:13:04 PM] info: GET 200 /api/blogs {} body {} size 231 - 283.568 ms
+
+[11/23/2020, 4:13:05 PM] info: {}
+[11/23/2020, 4:13:05 PM] info: GET 200 /api/blogs {} body {} size 231 - 233.592 ms
+
+[11/23/2020, 4:14:29 PM] info: {}
+[11/23/2020, 4:14:29 PM] info: GET 200 /api/blogs {} body {} size 231 - 131.461 ms
+
+[11/23/2020, 4:15:36 PM] info: {}
+[11/23/2020, 4:15:36 PM] info: GET 200 /api/blogs {} body {} size 231 - 141.483 ms
+
+[11/23/2020, 4:15:38 PM] info: {}
+[11/23/2020, 4:15:38 PM] info: GET 200 /api/blogs {} body {} size 231 - 144.968 ms
+
+[11/23/2020, 4:16:43 PM] info: {}
+[11/23/2020, 4:16:43 PM] info: GET 200 /api/blogs {} body {} size 231 - 136.895 ms
+
+[11/23/2020, 4:17:54 PM] info: {}
+[11/23/2020, 4:17:54 PM] info: GET 304 /api/blogs {} body {} size - - 139.549 ms
+
+[11/23/2020, 4:17:56 PM] info: {}
+[11/23/2020, 4:17:56 PM] info: GET 304 /api/blogs {} body {} size - - 151.121 ms
+
+[11/23/2020, 4:18:56 PM] info: {}
+[11/23/2020, 4:18:57 PM] info: GET 304 /api/blogs {} body {} size - - 987.936 ms
+
+[11/23/2020, 4:19:08 PM] info: {}
+[11/23/2020, 4:19:08 PM] info: GET 304 /api/blogs {} body {} size - - 147.103 ms
+
+[11/23/2020, 4:25:03 PM] info: {}
+[11/23/2020, 4:25:04 PM] info: GET 304 /api/blogs {} body {} size - - 277.612 ms
+
+[11/23/2020, 4:25:07 PM] info: {}
+[11/23/2020, 4:25:07 PM] info: GET 304 /api/blogs {} body {} size - - 378.003 ms
+
+[11/23/2020, 4:26:53 PM] info: {}
+[11/23/2020, 4:26:53 PM] info: GET 200 /api/blogs {} body {} size 231 - 124.666 ms
+
+[11/23/2020, 4:26:55 PM] info: {}
+[11/23/2020, 4:26:55 PM] info: GET 200 /api/blogs {} body {} size 231 - 144.413 ms
+
+[11/23/2020, 4:28:12 PM] info: {}
+[11/23/2020, 4:28:13 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/23/2020, 4:28:13 PM] info: {}
+[11/23/2020, 4:28:17 PM] info: GET 200 /api/blogs {} body {} size 231 - 3216.234 ms
+
+[11/23/2020, 4:29:19 PM] info: {}
+[11/23/2020, 4:29:19 PM] info: GET 200 /api/blogs {} body {} size 231 - 153.130 ms
+
+[11/23/2020, 4:29:21 PM] info: {}
+[11/23/2020, 4:29:21 PM] info: GET 200 /api/blogs {} body {} size 231 - 151.857 ms
+
+[11/23/2020, 4:33:22 PM] info: {}
+[11/23/2020, 4:33:23 PM] info: GET 200 /api/blogs {} body {} size 231 - 1138.650 ms
+
+[11/23/2020, 4:33:25 PM] info: {}
+[11/23/2020, 4:33:26 PM] info: GET 200 /api/blogs {} body {} size 231 - 159.479 ms
+
+[11/23/2020, 4:34:03 PM] info: {}
+[11/23/2020, 4:34:05 PM] info: GET 200 /api/blogs {} body {} size 231 - 1420.662 ms
+
+[11/23/2020, 4:35:42 PM] info: {}
+[11/23/2020, 4:35:42 PM] info: GET 304 /api/blogs {} body {} size - - 160.143 ms
+
+[11/23/2020, 4:35:44 PM] info: {}
+[11/23/2020, 4:35:44 PM] info: GET 304 /api/blogs {} body {} size - - 157.475 ms
+
+[11/23/2020, 4:36:02 PM] info: {}
+[11/23/2020, 4:36:03 PM] info: GET 304 /api/blogs {} body {} size - - 151.559 ms
+
+[11/23/2020, 4:37:55 PM] info: {}
+[11/23/2020, 4:37:55 PM] info: GET 304 /api/blogs {} body {} size - - 143.305 ms
+
+[11/23/2020, 4:37:57 PM] info: {}
+[11/23/2020, 4:37:57 PM] info: GET 304 /api/blogs {} body {} size - - 147.290 ms
+
+[11/23/2020, 4:39:37 PM] info: {}
+[11/23/2020, 4:39:38 PM] info: GET 200 /api/blogs {} body {} size 231 - 151.650 ms
+
+[11/23/2020, 4:39:40 PM] info: {}
+[11/23/2020, 4:39:40 PM] info: GET 200 /api/blogs {} body {} size 231 - 150.126 ms
+
+[11/23/2020, 4:40:16 PM] info: {}
+[11/23/2020, 4:40:17 PM] info: GET 200 /api/blogs {} body {} size 231 - 148.839 ms
+
+[11/23/2020, 4:40:18 PM] info: {}
+[11/23/2020, 4:40:19 PM] info: GET 200 /api/blogs {} body {} size 231 - 151.778 ms
+
+[11/23/2020, 4:42:45 PM] info: {}
+[11/23/2020, 4:42:46 PM] info: GET 200 /api/blogs {} body {} size 231 - 797.194 ms
+
+[11/23/2020, 4:42:49 PM] info: {}
+[11/23/2020, 4:42:50 PM] info: GET 200 /api/blogs {} body {} size 231 - 149.972 ms
+
+[11/23/2020, 4:48:02 PM] info: {}
+[11/23/2020, 4:48:02 PM] info: GET 200 /api/blogs {} body {} size 231 - 142.402 ms
+
+[11/23/2020, 4:48:05 PM] info: {}
+[11/23/2020, 4:48:05 PM] info: GET 200 /api/blogs {} body {} size 231 - 144.877 ms
+
+[11/23/2020, 4:48:08 PM] info: {}
+[11/23/2020, 4:48:08 PM] info: {}
+[11/23/2020, 4:48:08 PM] info: GET 404 /App.js {} body {} size 28 - 3.211 ms
+
+[11/23/2020, 4:48:08 PM] info: GET 404 /src/index.js {} body {} size 28 - 3.238 ms
+
+[11/23/2020, 4:48:08 PM] info: {}
+[11/23/2020, 4:48:08 PM] info: {}
+[11/23/2020, 4:48:08 PM] info: GET 404 /App.js {} body {} size 28 - 2.325 ms
+
+[11/23/2020, 4:48:08 PM] info: GET 404 /src/index.js {} body {} size 28 - 2.375 ms
+
+[11/23/2020, 4:48:46 PM] info: {}
+[11/23/2020, 4:48:47 PM] info: GET 200 /api/blogs {} body {} size 231 - 909.704 ms
+
+[11/23/2020, 4:48:48 PM] info: {}
+[11/23/2020, 4:48:48 PM] info: GET 200 /api/blogs {} body {} size 231 - 141.490 ms
+
+[11/23/2020, 4:49:38 PM] info: {}
+[11/23/2020, 4:49:39 PM] info: GET 200 /api/blogs {} body {} size 231 - 1103.114 ms
+
+[11/23/2020, 4:49:40 PM] info: {}
+[11/23/2020, 4:49:40 PM] info: GET 200 /api/blogs {} body {} size 231 - 146.258 ms
+
+[11/23/2020, 4:50:15 PM] info: {}
+[11/23/2020, 4:50:15 PM] info: GET 200 /api/blogs {} body {} size 231 - 145.546 ms
+
+[11/23/2020, 4:50:18 PM] info: {}
+[11/23/2020, 4:50:19 PM] info: GET 200 /api/blogs {} body {} size 231 - 497.924 ms
+
+[11/23/2020, 4:50:58 PM] info: {}
+[11/23/2020, 4:50:59 PM] info: GET 200 /api/blogs {} body {} size 231 - 159.791 ms
+
+[11/23/2020, 4:51:00 PM] info: {}
+[11/23/2020, 4:51:00 PM] info: GET 200 /api/blogs {} body {} size 231 - 152.317 ms
+
+[11/23/2020, 4:52:00 PM] info: {}
+[11/23/2020, 4:52:00 PM] info: GET 200 /api/blogs {} body {} size 231 - 149.735 ms
+
+[11/23/2020, 4:52:02 PM] info: {}
+[11/23/2020, 4:52:03 PM] info: GET 200 /api/blogs {} body {} size 231 - 161.035 ms
+
+[11/23/2020, 4:52:56 PM] info: {}
+[11/23/2020, 4:52:56 PM] info: GET 200 /api/blogs {} body {} size 231 - 152.510 ms
+
+[11/23/2020, 5:06:14 PM] info: {}
+[11/23/2020, 5:06:17 PM] info: GET 200 /api/blogs {} body {} size 231 - 3271.260 ms
+
+[11/23/2020, 5:09:42 PM] info: {}
+[11/23/2020, 5:09:42 PM] info: GET 200 /api/blogs {} body {} size 231 - 177.799 ms
+
+[11/23/2020, 5:10:20 PM] info: {}
+[11/23/2020, 5:10:20 PM] info: {}
+[11/23/2020, 5:10:20 PM] info: GET 304 /api/blogs {} body {} size - - 198.721 ms
+
+[11/23/2020, 5:10:20 PM] info: GET 200 /api/blogs {} body {} size 231 - 308.841 ms
+
+[11/23/2020, 5:14:14 PM] info: {}
+[11/23/2020, 5:14:14 PM] info: {}
+[11/23/2020, 5:14:15 PM] info: GET 304 /api/blogs {} body {} size - - 245.050 ms
+
+[11/23/2020, 5:14:15 PM] info: GET 200 /api/blogs {} body {} size 231 - 249.893 ms
+
+[11/23/2020, 5:18:58 PM] info: {}
+[11/23/2020, 5:18:58 PM] info: {}
+[11/23/2020, 5:18:58 PM] info: GET 304 /api/blogs {} body {} size - - 156.081 ms
+
+[11/23/2020, 5:18:59 PM] info: GET 200 /api/blogs {} body {} size 231 - 151.339 ms
+
+[11/23/2020, 5:19:02 PM] info: {}
+[11/23/2020, 5:19:02 PM] info: GET 200 /api/blogs {} body {} size 231 - 150.271 ms
+
+[11/23/2020, 5:25:46 PM] info: {}
+[11/23/2020, 5:25:46 PM] info: {}
+[11/23/2020, 5:25:46 PM] info: GET 304 /api/blogs {} body {} size - - 168.509 ms
+
+[11/23/2020, 5:25:46 PM] info: GET 200 /api/blogs {} body {} size 231 - 150.933 ms
+
+[11/23/2020, 5:25:50 PM] info: {}
+[11/23/2020, 5:25:50 PM] info: GET 200 /api/blogs {} body {} size 231 - 155.298 ms
+
+[11/23/2020, 5:27:35 PM] info: {}
+[11/23/2020, 5:27:35 PM] info: GET 200 /api/blogs {} body {} size 231 - 143.390 ms
+
+[11/23/2020, 5:27:49 PM] info: {}
+[11/23/2020, 5:28:46 PM] info: {}
+[11/23/2020, 5:28:47 PM] info: GET 200 /api/blogs {} body {} size 231 - 842.199 ms
+
+[11/23/2020, 5:29:44 PM] info: {}
+[11/23/2020, 5:29:49 PM] info: POST - /api/blogs {} body {"username":"root","name":"Superuser","password":"salainen"} size - - - ms
+
+[11/23/2020, 5:30:21 PM] info: {}
+[11/23/2020, 5:30:21 PM] info: GET 200 /api/blogs {} body {} size 231 - 149.775 ms
+
+[11/23/2020, 5:30:35 PM] info: {}
+[11/23/2020, 5:30:35 PM] info: PUT 404 /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size 28 - 1.910 ms
+
+[11/23/2020, 5:30:48 PM] info: {}
+[11/23/2020, 5:31:44 PM] info: POST - /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size - - - ms
+
+[11/23/2020, 5:32:48 PM] info: POST - /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size - - - ms
+
+[11/23/2020, 5:47:24 PM] info: {}
+[11/23/2020, 5:47:30 PM] info: GET 200 /api/blogs {} body {} size 231 - 5970.372 ms
+
+[11/23/2020, 5:48:30 PM] info: {}
+[11/23/2020, 5:48:30 PM] info: {}
+[11/23/2020, 5:48:31 PM] info: GET 200 /api/blogs {} body {} size 231 - 802.125 ms
+
+[11/23/2020, 5:48:31 PM] info: GET 200 /api/blogs {} body {} size 231 - 841.653 ms
+
+[11/23/2020, 5:49:41 PM] info: {}
+[11/23/2020, 5:49:41 PM] info: {}
+[11/23/2020, 5:49:42 PM] info: GET 304 /api/blogs {} body {} size - - 636.767 ms
+
+[11/23/2020, 5:49:42 PM] info: GET 200 /api/blogs {} body {} size 231 - 579.527 ms
+
+[11/23/2020, 5:49:43 PM] info: {}
+[11/23/2020, 5:49:43 PM] info: GET 200 /api/blogs {} body {} size 231 - 154.859 ms
+
+[11/23/2020, 5:51:14 PM] info: {}
+[11/23/2020, 5:51:14 PM] info: {}
+[11/23/2020, 5:51:15 PM] info: GET 304 /api/blogs {} body {} size - - 955.566 ms
+
+[11/23/2020, 5:51:15 PM] info: GET 200 /api/blogs {} body {} size 231 - 971.296 ms
+
+[11/23/2020, 5:51:17 PM] info: {}
+[11/23/2020, 5:51:17 PM] info: GET 200 /api/blogs {} body {} size 231 - 146.918 ms
+
+[11/23/2020, 5:53:18 PM] info: {}
+[11/23/2020, 5:53:19 PM] info: {}
+[11/23/2020, 5:53:19 PM] info: GET 304 /api/blogs {} body {} size - - 144.318 ms
+
+[11/23/2020, 5:53:19 PM] info: GET 200 /api/blogs {} body {} size 231 - 134.469 ms
+
+[11/23/2020, 5:53:23 PM] info: {}
+[11/23/2020, 5:53:23 PM] info: GET 200 /api/blogs {} body {} size 231 - 135.429 ms
+
+[11/23/2020, 5:54:26 PM] info: {}
+[11/23/2020, 5:54:26 PM] info: {}
+[11/23/2020, 5:54:26 PM] info: GET 304 /api/blogs {} body {} size - - 136.898 ms
+
+[11/23/2020, 5:54:26 PM] info: GET 200 /api/blogs {} body {} size 231 - 145.513 ms
+
+[11/23/2020, 5:55:46 PM] info: {}
+[11/23/2020, 5:55:46 PM] info: {}
+[11/23/2020, 5:55:47 PM] info: GET 304 /api/blogs {} body {} size - - 1103.890 ms
+
+[11/23/2020, 5:55:47 PM] info: GET 304 /api/blogs {} body {} size - - 974.130 ms
+
+[11/23/2020, 5:55:48 PM] info: {}
+[11/23/2020, 5:55:48 PM] info: GET 304 /api/blogs {} body {} size - - 153.225 ms
+
+[11/23/2020, 5:58:20 PM] info: {}
+[11/23/2020, 5:58:20 PM] info: {}
+[11/23/2020, 5:58:20 PM] info: GET 304 /api/blogs {} body {} size - - 158.966 ms
+
+[11/23/2020, 5:58:20 PM] info: GET 304 /api/blogs {} body {} size - - 152.121 ms
+
+[11/23/2020, 6:13:57 PM] info: {}
+[11/23/2020, 6:13:57 PM] info: {}
+[11/23/2020, 6:13:58 PM] info: GET 200 /api/blogs {} body {} size 231 - 143.006 ms
+
+[11/23/2020, 6:13:58 PM] info: GET 304 /api/blogs {} body {} size - - 135.221 ms
+
+[11/23/2020, 6:14:01 PM] info: {}
+[11/23/2020, 6:14:01 PM] info: {}
+[11/23/2020, 6:14:01 PM] info: GET 304 /api/blogs {} body {} size - - 142.136 ms
+
+[11/23/2020, 6:14:01 PM] info: GET 200 /api/blogs {} body {} size 231 - 142.438 ms
+
+[11/23/2020, 6:14:07 PM] info: {}
+[11/23/2020, 6:14:07 PM] info: GET 200 /api/blogs {} body {} size 231 - 141.491 ms
+
+[11/23/2020, 6:14:57 PM] info: {}
+[11/23/2020, 6:14:57 PM] info: {}
+[11/23/2020, 6:14:58 PM] info: GET 200 /api/blogs {} body {} size 231 - 893.278 ms
+
+[11/23/2020, 6:14:58 PM] info: GET 304 /api/blogs {} body {} size - - 878.312 ms
+
+[11/23/2020, 6:15:05 PM] info: {}
+[11/23/2020, 6:17:06 PM] info: POST - /api/blogs {} body {} size - - - ms
+
+[11/23/2020, 6:17:37 PM] info: {}
+[11/23/2020, 6:17:37 PM] info: {}
+[11/23/2020, 6:17:37 PM] info: GET 200 /api/blogs {} body {} size 231 - 136.394 ms
+
+[11/23/2020, 6:17:37 PM] info: GET 304 /api/blogs {} body {} size - - 131.948 ms
+
+[11/23/2020, 6:17:40 PM] info: {}
+[11/23/2020, 6:17:40 PM] info: GET 200 /api/blogs {} body {} size 231 - 138.640 ms
+
+[11/23/2020, 6:17:49 PM] info: {}
+[11/23/2020, 6:18:02 PM] info: {}
+[11/23/2020, 6:19:49 PM] info: POST - /api/blogs {} body {} size - - - ms
+
+[11/23/2020, 6:20:02 PM] info: POST - /api/blogs {} body {} size - - - ms
+
+[11/23/2020, 6:20:04 PM] info: {}
+[11/23/2020, 6:20:22 PM] info: {}
+[11/23/2020, 6:20:23 PM] info: GET 200 /api/blogs {} body {} size 231 - 153.390 ms
+
+[11/23/2020, 6:20:30 PM] info: {}
+[11/23/2020, 6:22:04 PM] info: POST - /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size - - - ms
+
+[11/23/2020, 6:22:30 PM] info: POST - /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size - - - ms
+
+[11/23/2020, 6:23:55 PM] info: {}
+[11/23/2020, 6:23:55 PM] info: GET 304 /api/blogs {} body {} size - - 192.776 ms
+
+[11/23/2020, 6:25:01 PM] info: {}
+[11/23/2020, 6:25:01 PM] info: POST 404 /api/blogs {} body {} size 28 - 37.906 ms
+
+[11/23/2020, 6:25:17 PM] info: {}
+[11/23/2020, 6:25:18 PM] info: GET 304 /api/blogs {} body {} size - - 164.569 ms
+
+[11/23/2020, 6:25:19 PM] info: {}
+[11/23/2020, 6:25:19 PM] info: GET 304 /api/blogs {} body {} size - - 137.549 ms
+
+[11/23/2020, 6:25:23 PM] info: {}
+[11/23/2020, 6:25:23 PM] info: GET 304 /api/blogs {} body {} size - - 150.186 ms
+
+[11/23/2020, 6:30:26 PM] info: {}
+[11/23/2020, 6:30:27 PM] info: GET 200 /api/blogs {} body {} size 231 - 185.815 ms
+
+[11/23/2020, 6:30:34 PM] info: {}
+[11/23/2020, 6:30:34 PM] info: POST 404 /api/blogs {} body {} size 28 - 10.993 ms
+
+[11/23/2020, 6:32:03 PM] info: {}
+[11/23/2020, 6:32:03 PM] info: POST 404 /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size 28 - 3.278 ms
+
+[11/23/2020, 6:32:05 PM] info: {}
+[11/23/2020, 6:32:05 PM] info: POST 404 /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size 28 - 2.552 ms
+
+[11/23/2020, 6:32:06 PM] info: {}
+[11/23/2020, 6:32:06 PM] info: POST 404 /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size 28 - 4.476 ms
+
+[11/23/2020, 6:32:08 PM] info: {}
+[11/23/2020, 6:32:08 PM] info: POST 404 /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size 28 - 3.295 ms
+
+[11/23/2020, 6:33:03 PM] info: {}
+[11/23/2020, 6:33:03 PM] info: POST 400 /api/blogs {} body {"title":"Welcome","author":"Ola","url":"http/.."} size 113 - 47.399 ms
+
+[11/23/2020, 6:33:19 PM] info: {}
+[11/23/2020, 6:33:21 PM] info: POST 201 /api/blogs {} body {"title":"Welcome","author":"Olana","url":"http/.."} size 94 - 1212.427 ms
+
+[11/23/2020, 6:33:45 PM] info: {}
+[11/23/2020, 6:33:46 PM] info: GET 200 /api/blogs {} body {} size 326 - 165.742 ms
+
+[11/23/2020, 6:34:07 PM] info: {}
+[11/23/2020, 6:34:07 PM] info: POST 400 /api/blogs {} body {} size - - 2.786 ms
+
+[11/23/2020, 6:38:54 PM] info: {}
+[11/23/2020, 6:38:54 PM] info: GET 200 /api/blogs {} body {} size 326 - 137.728 ms
+
+[11/23/2020, 6:38:58 PM] info: {}
+[11/23/2020, 6:38:59 PM] info: GET 200 /api/blogs {} body {} size 326 - 141.296 ms
+
+[11/23/2020, 6:39:05 PM] info: {}
+[11/23/2020, 6:39:05 PM] info: POST 400 /api/blogs {} body {} size - - 2.098 ms
+
+[11/23/2020, 6:40:17 PM] info: {}
+[11/23/2020, 6:40:17 PM] info: GET 200 /api/blogs {} body {} size 326 - 493.354 ms
+
+[11/23/2020, 6:40:28 PM] info: {}
+[11/23/2020, 6:40:28 PM] info: POST 400 /api/blogs {} body {} size - - 2.014 ms
+
+[11/23/2020, 6:41:36 PM] info: {}
+[11/23/2020, 6:41:36 PM] info: GET 200 /api/blogs {} body {} size 326 - 153.508 ms
+
+[11/23/2020, 6:41:45 PM] info: {}
+[11/23/2020, 6:41:45 PM] info: POST 400 /api/blogs {} body {"title":"assd","author":"qwe","url":"qeer"} size 265 - 3.085 ms
+
+[11/23/2020, 6:42:59 PM] info: {}
+[11/23/2020, 6:42:59 PM] info: GET 200 /api/blogs {} body {} size 326 - 148.978 ms
+
+[11/23/2020, 6:43:10 PM] info: {}
+[11/23/2020, 6:43:10 PM] info: POST 400 /api/blogs {} body {"title":"qwe","author":"qqwee","url":"qswer"} size 111 - 3.025 ms
+
+[11/23/2020, 6:45:17 PM] info: {}
+[11/23/2020, 6:45:17 PM] info: GET 200 /api/blogs {} body {} size 326 - 138.028 ms
+
+[11/23/2020, 6:45:33 PM] info: {}
+[11/23/2020, 6:45:33 PM] info: POST 201 /api/blogs {} body {"title":"qwwww","author":"asdfgf","url":"wweerttg"} size 94 - 166.520 ms
+
+[11/23/2020, 6:46:43 PM] info: {}
+[11/23/2020, 6:46:44 PM] info: GET 200 /api/blogs {} body {} size 421 - 990.308 ms
+
+[11/23/2020, 6:59:08 PM] info: {}
+[11/23/2020, 6:59:09 PM] info: GET 200 /api/blogs {} body {} size 421 - 160.733 ms
+
+[11/23/2020, 7:11:58 PM] info: {}
+[11/23/2020, 7:11:58 PM] info: GET 200 /api/blogs {} body {} size 421 - 533.353 ms
+
+[11/23/2020, 7:12:11 PM] info: {}
+[11/23/2020, 7:12:11 PM] info: POST 400 /api/blogs {} body {"title":"qwer","author":"222222","url":"assddff"} size 112 - 2.975 ms
+
+[11/23/2020, 7:12:27 PM] info: {}
+[11/23/2020, 7:12:28 PM] info: POST 201 /api/blogs {} body {"title":"asdfgg","author":"gghhjh","url":"hhhjhjh"} size 94 - 202.502 ms
+
+[11/23/2020, 7:15:35 PM] info: {}
+[11/23/2020, 7:15:35 PM] info: GET 200 /api/blogs {} body {} size 516 - 159.939 ms
+
+[11/23/2020, 7:15:48 PM] info: {}
+[11/23/2020, 7:15:48 PM] info: POST 400 /api/blogs {} body {"title":"sss","author":"ssss","url":"wweerere"} size 191 - 3.446 ms
+
+[11/23/2020, 7:16:00 PM] info: {}
+[11/23/2020, 7:16:01 PM] info: POST 201 /api/blogs {} body {"title":"qeerttyy","author":"rtyhujik","url":"sdfgghhj"} size 99 - 232.778 ms
+
+[11/24/2020, 11:26:40 AM] info: {}
+[11/24/2020, 11:26:40 AM] info: GET 404 / {} body {} size 28 - 27.878 ms
+
+[11/24/2020, 11:26:40 AM] info: {}
+[11/24/2020, 11:26:40 AM] info: GET 404 /favicon.ico {} body {} size 28 - 3.453 ms
+
+[11/24/2020, 11:26:47 AM] info: {}
+[11/24/2020, 11:26:47 AM] info: GET 404 /blogs {} body {} size 28 - 2.076 ms
+
+[11/24/2020, 11:30:54 AM] info: {}
+[11/24/2020, 11:30:54 AM] info: GET 304 /api/blogs {} body {} size - - 191.466 ms
+
+[11/24/2020, 11:30:55 AM] info: {}
+[11/24/2020, 11:30:55 AM] info: GET 404 /favicon.ico {} body {} size 28 - 3.984 ms
+
+[11/24/2020, 11:31:51 AM] info: {}
+[11/24/2020, 11:31:51 AM] info: {}
+[11/24/2020, 11:31:51 AM] info: GET 404 /api/users {} body {} size 28 - 6.171 ms
+
+[11/24/2020, 11:31:52 AM] info: GET 200 /api/blogs {} body {} size 616 - 1329.677 ms
+
+[11/24/2020, 11:35:11 AM] info: {}
+[11/24/2020, 11:35:11 AM] info: GET 304 /api/blogs {} body {} size - - 222.298 ms
+
+[11/24/2020, 11:35:43 AM] info: {}
+[11/24/2020, 11:35:44 AM] info: POST 400 /api/blogs {} body {"title":"www","author":"www","url":"sss"} size 263 - 151.444 ms
+
+[11/24/2020, 11:36:03 AM] info: {}
+[11/24/2020, 11:36:03 AM] info: GET 200 /api/blogs {} body {} size 616 - 161.994 ms
+
+[11/24/2020, 11:36:38 AM] info: {}
+[11/24/2020, 11:36:38 AM] info: POST 400 /api/blogs {} body {"title":"qwert","author":"qwert","url":"qwer"} size 108 - 4.272 ms
+
+[11/24/2020, 11:36:50 AM] info: {}
+[11/24/2020, 11:36:50 AM] info: POST 201 /api/blogs {} body {"title":"12345","author":"12345","url":"12345"} size 90 - 174.225 ms
+
+[11/24/2020, 11:44:43 AM] info: {}
+[11/24/2020, 11:44:43 AM] info: POST 400 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 263 - 42.577 ms
+
+[11/24/2020, 11:45:18 AM] info: {}
+[11/24/2020, 11:45:18 AM] info: POST 201 /api/blogs {} body {"title":"www66","author":"666666","url":"66666"} size 91 - 161.164 ms
+
+[11/24/2020, 11:46:28 AM] info: {}
+[11/24/2020, 11:46:33 AM] info: GET 200 /api/blogs {} body {} size 799 - 4711.460 ms
+
+[11/24/2020, 11:46:38 AM] info: {}
+[11/24/2020, 11:46:38 AM] info: POST 400 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 263 - 27.561 ms
+
+[11/24/2020, 11:50:14 AM] info: {}
+[11/24/2020, 11:50:18 AM] info: GET 200 /api/blogs {} body {} size 799 - 3796.465 ms
+
+[11/24/2020, 11:50:25 AM] info: {}
+[11/24/2020, 11:50:25 AM] info: POST 400 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 263 - 19.796 ms
+
+[11/24/2020, 2:17:17 PM] info: {}
+[11/24/2020, 2:17:17 PM] info: GET 404 /babel/parser/lib/index.js {} body {} size 28 - 243.303 ms
+
+[11/24/2020, 2:22:29 PM] info: {}
+[11/24/2020, 2:22:33 PM] info: {}
+[11/24/2020, 2:22:36 PM] info: GET 200 /api/blogs {} body {} size 799 - 3415.476 ms
+
+[11/24/2020, 2:22:47 PM] info: {}
+[11/24/2020, 2:22:47 PM] info: GET 304 /api/blogs {} body {} size - - 161.553 ms
+
+[11/24/2020, 2:24:21 PM] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/iryna/Desktop/Full-stack-open-2020/part5*/bloglist-backend/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5*/bloglist-backend/app.js:35:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5*/bloglist-backend/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/24/2020, 2:26:07 PM] info: {}
+[11/24/2020, 2:26:08 PM] info: GET 200 /api/blogs {} body {} size 799 - 649.394 ms
+
+[11/24/2020, 2:26:15 PM] info: {}
+[11/24/2020, 2:26:15 PM] info: GET 304 /api/blogs {} body {} size - - 156.433 ms
+
+[11/24/2020, 2:26:30 PM] info: {}
+[11/24/2020, 2:26:30 PM] info: GET 304 /api/blogs {} body {} size - - 306.030 ms
+
+[11/24/2020, 2:28:37 PM] info: {}
+[11/24/2020, 2:28:47 PM] info: {}
+[11/24/2020, 2:28:49 PM] info: GET 200 /api/blogs {} body {} size 799 - 2164.941 ms
+
+[11/24/2020, 2:28:51 PM] info: {}
+[11/24/2020, 2:28:52 PM] info: GET 200 /api/blogs {} body {} size 799 - 163.105 ms
+
+[11/24/2020, 2:29:00 PM] info: {}
+[11/24/2020, 2:29:00 PM] info: POST 400 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 263 - 19.783 ms
+
+[11/24/2020, 2:29:44 PM] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/home/iryna/Desktop/Full-stack-open-2020/part5*/bloglist-backend/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5*/bloglist-backend/app.js:35:5)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Module.require (internal/modules/cjs/loader.js:903:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5*/bloglist-backend/index.js:1:13)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/24/2020, 2:30:53 PM] info: {}
+[11/24/2020, 2:30:56 PM] info: GET 200 /api/blogs {} body {} size 799 - 3833.247 ms
+
+[11/24/2020, 2:31:05 PM] info: {}
+[11/24/2020, 2:31:05 PM] info: POST 400 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 263 - 19.589 ms
+
+[11/24/2020, 2:32:23 PM] info: {}
+[11/24/2020, 2:32:26 PM] info: POST 201 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 84 - 3174.263 ms
+
+[11/24/2020, 2:32:37 PM] info: {}
+[11/24/2020, 2:32:37 PM] info: POST 201 /api/blogs {} body {"title":"www","author":"www","url":"www"} size 84 - 162.267 ms
+
+[11/24/2020, 2:49:44 PM] info: {}
+[11/24/2020, 2:49:53 PM] info: GET 200 /api/blogs {} body {} size 969 - 9208.780 ms
+
+[11/24/2020, 3:02:44 PM] info: {}
+[11/24/2020, 3:02:48 PM] info: GET 304 /api/blogs {} body {} size - - 4011.875 ms
+
+[11/24/2020, 3:05:51 PM] info: {}
+[11/24/2020, 3:05:51 PM] info: GET 304 /api/blogs {} body {} size - - 215.471 ms
+
+[11/24/2020, 3:09:12 PM] info: {}
+[11/24/2020, 3:09:16 PM] info: GET 304 /api/blogs {} body {} size - - 3843.429 ms
+
+[11/24/2020, 3:10:02 PM] info: {}
+[11/24/2020, 3:10:02 PM] info: GET 304 /api/blogs {} body {} size - - 197.049 ms
+
+[11/24/2020, 3:10:41 PM] info: {}
+[11/24/2020, 3:10:48 PM] info: GET 304 /api/blogs {} body {} size - - 7126.629 ms
+
+[11/24/2020, 3:17:33 PM] info: {}
+[11/24/2020, 3:17:35 PM] info: GET 304 /api/blogs {} body {} size - - 1860.508 ms
+
+[11/24/2020, 3:17:47 PM] info: {}
+[11/24/2020, 3:17:47 PM] info: GET 304 /api/blogs {} body {} size - - 158.558 ms
+
+[11/24/2020, 3:31:14 PM] info: {}
+[11/24/2020, 3:31:20 PM] info: GET 304 /api/blogs {} body {} size - - 6653.421 ms
+
+[11/24/2020, 3:45:48 PM] info: {}
+[11/24/2020, 3:45:55 PM] info: GET 304 /api/blogs {} body {} size - - 6229.602 ms
+
+[11/24/2020, 3:45:55 PM] info: {}
+[11/24/2020, 3:45:56 PM] info: GET 304 /api/blogs {} body {} size - - 182.687 ms
+
+[11/24/2020, 3:46:13 PM] info: {}
+[11/24/2020, 3:46:13 PM] info: GET 304 /api/blogs {} body {} size - - 141.884 ms
+
+[11/24/2020, 3:47:10 PM] info: {}
+[11/24/2020, 3:47:14 PM] info: GET 200 /api/blogs {} body {} size 969 - 4268.959 ms
+
+[11/24/2020, 3:47:18 PM] info: {}
+[11/24/2020, 3:47:18 PM] info: GET 200 /api/blogs {} body {} size 969 - 149.932 ms
+
+[11/24/2020, 3:49:03 PM] info: {}
+[11/24/2020, 3:49:06 PM] info: GET 200 /api/blogs {} body {} size 969 - 2685.746 ms
+
+[11/24/2020, 3:51:30 PM] info: {}
+[11/24/2020, 3:51:37 PM] info: GET 200 /api/blogs {} body {} size 969 - 6729.114 ms
+
+[11/24/2020, 3:53:48 PM] info: {}
+[11/24/2020, 3:53:55 PM] info: GET 200 /api/blogs {} body {} size 969 - 6658.495 ms
+
+[11/24/2020, 3:53:59 PM] info: {}
+[11/24/2020, 3:53:59 PM] info: PUT 400 /api/blogs/[object%20Object] {} body {} size 27 - 6.668 ms
+
+[11/24/2020, 3:54:25 PM] info: {}
+[11/24/2020, 3:54:25 PM] info: PUT 400 /api/blogs/[object%20Object] {} body {} size 27 - 2.713 ms
+
+[11/24/2020, 3:55:57 PM] info: {}
+[11/24/2020, 3:56:03 PM] info: GET 200 /api/blogs {} body {} size 969 - 6727.041 ms
+
+[11/24/2020, 3:56:06 PM] info: {}
+[11/24/2020, 3:56:07 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"Olana","url":"http/..","likes":1} size 94 - 191.137 ms
+
+[11/24/2020, 3:56:18 PM] info: {}
+[11/24/2020, 3:56:18 PM] info: PUT 200 /api/blogs/5fbbed7b099cd1345236e1ad {} body {"title":"asdfgg","author":"gghhjh","url":"hhhjhjh","likes":1} size 94 - 147.374 ms
+
+[11/24/2020, 3:56:32 PM] info: {}
+[11/24/2020, 3:56:33 PM] info: PUT 200 /api/blogs/5fbcd62ea901fb2a6a839017 {} body {"title":"www66","author":"666666","url":"66666","likes":1} size 91 - 782.946 ms
+
+[11/24/2020, 3:56:37 PM] info: {}
+[11/24/2020, 3:56:38 PM] info: GET 200 /api/blogs {} body {} size 969 - 163.274 ms
+
+[11/24/2020, 3:56:52 PM] info: {}
+[11/24/2020, 3:56:52 PM] info: PUT 200 /api/blogs/5fb685ce80be194ddb8f1c12 {} body {"title":"Welcome","author":"Ola","url":"http/..","likes":6} size 92 - 798.102 ms
+
+[11/24/2020, 3:56:57 PM] info: {}
+[11/24/2020, 3:56:57 PM] info: GET 200 /api/blogs {} body {} size 969 - 161.301 ms
+
+[11/24/2020, 4:15:25 PM] info: {}
+[11/24/2020, 4:15:31 PM] info: {}
+[11/24/2020, 4:15:35 PM] info: GET 200 /api/blogs {} body {} size 969 - 4314.411 ms
+
+[11/24/2020, 4:15:44 PM] info: {}
+[11/24/2020, 4:15:45 PM] info: GET 200 /api/blogs {} body {} size 969 - 1000.290 ms
+
+[11/24/2020, 4:16:01 PM] info: {}
+[11/24/2020, 4:16:01 PM] info: PUT 200 /api/blogs/5fb685b280be194ddb8f1c11 {} body {"title":"hello","author":"Maria","url":"http/..","likes":4} size 92 - 159.616 ms
+
+[11/24/2020, 4:16:07 PM] info: {}
+[11/24/2020, 4:16:07 PM] info: PUT 200 /api/blogs/5fb685ce80be194ddb8f1c12 {} body {"title":"Welcome","author":"Ola","url":"http/..","likes":7} size 92 - 168.911 ms
+
+[11/24/2020, 4:16:15 PM] info: {}
+[11/24/2020, 4:16:15 PM] info: GET 200 /api/blogs {} body {} size 969 - 153.964 ms
+
+[11/24/2020, 4:16:22 PM] info: {}
+[11/24/2020, 4:16:22 PM] info: PUT 200 /api/blogs/5fb685ce80be194ddb8f1c12 {} body {"title":"Welcome","author":"Ola","url":"http/..","likes":8} size 92 - 174.115 ms
+
+[11/24/2020, 4:16:29 PM] info: {}
+[11/24/2020, 4:16:29 PM] info: PUT 200 /api/blogs/5fb685b280be194ddb8f1c11 {} body {"title":"hello","author":"Maria","url":"http/..","likes":5} size 92 - 148.056 ms
+
+[11/24/2020, 4:16:32 PM] info: {}
+[11/24/2020, 4:16:32 PM] info: PUT 200 /api/blogs/5fbbe72d099cd1345236e1ab {} body {"title":"qwwww","author":"asdfgf","url":"wweerttg","likes":1} size 94 - 154.762 ms
+
+[11/24/2020, 4:16:35 PM] info: {}
+[11/24/2020, 4:16:35 PM] info: PUT 200 /api/blogs/5fbbed7b099cd1345236e1ad {} body {"title":"asdfgg","author":"gghhjh","url":"hhhjhjh","likes":2} size 94 - 154.795 ms
+
+[11/24/2020, 4:16:38 PM] info: {}
+[11/24/2020, 4:16:38 PM] info: PUT 200 /api/blogs/5fbbee50099cd1345236e1af {} body {"title":"qeerttyy","author":"rtyhujik","url":"sdfgghhj","likes":1} size 99 - 143.300 ms
+
+[11/24/2020, 4:16:42 PM] info: {}
+[11/24/2020, 4:16:42 PM] info: PUT 200 /api/blogs/5fbcd43243962726f26e671c {} body {"title":"12345","author":"12345","url":"12345","likes":1} size 90 - 155.799 ms
+
+[11/24/2020, 4:17:34 PM] info: {}
+[11/24/2020, 4:17:43 PM] info: GET 200 /api/blogs {} body {} size 969 - 8842.973 ms
+
+[11/24/2020, 4:17:53 PM] info: {}
+[11/24/2020, 4:17:54 PM] info: PUT 200 /api/blogs/5fb685b280be194ddb8f1c11 {} body {"title":"hello","author":"Maria","url":"http/..","likes":6} size 92 - 196.634 ms
+
+[11/24/2020, 4:18:08 PM] info: {}
+[11/24/2020, 4:18:08 PM] info: PUT 200 /api/blogs/5fb685ce80be194ddb8f1c12 {} body {"title":"Welcome","author":"Ola","url":"http/..","likes":9} size 92 - 155.684 ms
+
+[11/24/2020, 4:18:33 PM] info: {}
+[11/24/2020, 4:18:34 PM] info: PUT 200 /api/blogs/5fbbe72d099cd1345236e1ab {} body {"title":"qwwww","author":"asdfgf","url":"wweerttg","likes":2} size 94 - 634.464 ms
+
+[11/24/2020, 4:20:37 PM] info: {}
+[11/24/2020, 4:20:46 PM] info: GET 200 /api/blogs {} body {} size 969 - 9294.208 ms
+
+[11/24/2020, 4:20:56 PM] info: {}
+[11/24/2020, 4:20:56 PM] info: PUT 200 /api/blogs/5fb685b280be194ddb8f1c11 {} body {"title":"hello","author":"Maria","url":"http/..","likes":7} size 92 - 538.456 ms
+
+[11/24/2020, 4:21:23 PM] info: {}
+[11/24/2020, 4:21:28 PM] info: GET 200 /api/blogs {} body {} size 969 - 5089.558 ms
+
+[11/24/2020, 4:21:40 PM] info: {}
+[11/24/2020, 4:21:42 PM] info: GET 304 /api/blogs {} body {} size - - 1454.272 ms
+
+[11/24/2020, 4:21:43 PM] info: {}
+[11/24/2020, 4:21:43 PM] info: GET 304 /api/blogs {} body {} size - - 154.574 ms
+
+[11/24/2020, 4:21:49 PM] info: {}
+[11/24/2020, 4:21:50 PM] info: PUT 200 /api/blogs/5fb685b280be194ddb8f1c11 {} body {"title":"hello","author":"Maria","url":"http/..","likes":8} size 92 - 1190.722 ms
+
+[11/24/2020, 4:22:08 PM] info: {}
+[11/24/2020, 4:22:08 PM] info: GET 200 /api/blogs {} body {} size 969 - 145.329 ms
+
+[11/24/2020, 4:24:04 PM] info: {}
+[11/24/2020, 4:24:12 PM] info: GET 304 /api/blogs {} body {} size - - 7017.056 ms
+
+[11/24/2020, 4:30:39 PM] info: {}
+[11/24/2020, 4:30:40 PM] info: GET 304 /api/blogs {} body {} size - - 1599.862 ms
+
+[11/24/2020, 4:32:00 PM] info: {}
+[11/24/2020, 4:32:00 PM] info: GET 304 /api/blogs {} body {} size - - 155.851 ms
+
+[11/24/2020, 4:32:12 PM] info: {}
+[11/24/2020, 4:32:18 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/24/2020, 4:32:18 PM] info: {}
+[11/24/2020, 4:32:19 PM] info: GET 200 /api/blogs {} body {} size 969 - 932.936 ms
+
+[11/24/2020, 4:32:23 PM] info: {}
+[11/24/2020, 4:32:23 PM] info: DELETE 204 /api/blogs/5fb685b280be194ddb8f1c11 {} body {} size - - 174.234 ms
+
+[11/24/2020, 4:32:30 PM] info: {}
+[11/24/2020, 4:32:31 PM] info: DELETE 204 /api/blogs/5fb6852f80be194ddb8f1c10 {} body {} size - - 309.574 ms
+
+[11/24/2020, 4:34:37 PM] info: {}
+[11/24/2020, 4:34:38 PM] info: GET 200 /api/blogs {} body {} size 832 - 1589.010 ms
+
+[11/24/2020, 4:34:58 PM] info: {}
+[11/24/2020, 4:34:58 PM] info: DELETE 204 /api/blogs/5fb685ce80be194ddb8f1c12 {} body {} size - - 153.614 ms
+
+[11/24/2020, 4:45:03 PM] info: {}
+[11/24/2020, 4:45:03 PM] info: GET 200 /api/blogs {} body {} size 739 - 544.656 ms
+
+[11/24/2020, 4:45:13 PM] info: {}
+[11/24/2020, 4:45:14 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"Olana","url":"http/..","likes":2} size 94 - 172.942 ms
+
+[11/24/2020, 4:45:23 PM] info: {}
+[11/24/2020, 4:45:23 PM] info: GET 200 /api/blogs {} body {} size 739 - 138.175 ms
+
+[11/24/2020, 4:52:42 PM] info: {}
+[11/24/2020, 4:52:42 PM] info: GET 304 /api/blogs {} body {} size - - 180.794 ms
+
+[11/24/2020, 5:16:09 PM] info: {}
+[11/24/2020, 5:16:09 PM] info: GET 304 /api/blogs {} body {} size - - 196.501 ms
+
+[11/24/2020, 5:16:14 PM] info: {}
+[11/24/2020, 5:16:15 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"Olana","url":"http/..","likes":3} size 94 - 148.789 ms
+
+[11/24/2020, 5:16:18 PM] info: {}
+[11/24/2020, 5:16:18 PM] info: GET 200 /api/blogs {} body {} size 739 - 142.320 ms
+
+[11/24/2020, 5:24:01 PM] info: {}
+[11/24/2020, 5:24:02 PM] info: GET 304 /api/blogs {} body {} size - - 1708.393 ms
+
+[11/24/2020, 5:51:07 PM] info: {}
+[11/24/2020, 5:51:07 PM] info: GET 304 /api/blogs {} body {} size - - 183.265 ms
+
+[11/24/2020, 7:12:12 PM] error: uncaughtException: listen EADDRINUSE: address already in use :::3001
+Error: listen EADDRINUSE: address already in use :::3001
+    at Server.setupListenHandle [as _listen2] (net.js:1317:16)
+    at listenInCluster (net.js:1365:12)
+    at Server.listen (net.js:1451:7)
+    at Object.<anonymous> (/home/iryna/Desktop/Full-stack-open-2020/part5/bloglist-backend/index.js:8:8)
+    at Module._compile (internal/modules/cjs/loader.js:1015:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1035:10)
+    at Module.load (internal/modules/cjs/loader.js:879:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:724:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+    at internal/main/run_main_module.js:17:47
+[11/24/2020, 7:13:12 PM] info: {}
+[11/24/2020, 7:13:12 PM] info: GET 304 /api/blogs {} body {} size - - 184.238 ms
+
+[11/24/2020, 7:13:17 PM] info: {}
+[11/24/2020, 7:13:17 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"Olana","url":"http/..","likes":4} size 94 - 213.215 ms
+
+[11/24/2020, 7:32:49 PM] info: {}
+[11/24/2020, 7:32:49 PM] info: GET 200 /api/blogs {} body {} size 739 - 190.019 ms
+
+[11/24/2020, 9:34:27 PM] info: {}
+[11/24/2020, 9:34:28 PM] info: GET 304 /api/blogs {} body {} size - - 171.575 ms
+
+[11/24/2020, 9:40:27 PM] info: {}
+[11/24/2020, 9:40:27 PM] info: POST 404 /api/testing/reset {} body {} size 28 - 2.930 ms
+
+[11/24/2020, 9:44:03 PM] info: {}
+[11/24/2020, 9:44:03 PM] info: GET 404 / {} body {} size 28 - 2.327 ms
+
+[11/24/2020, 9:44:03 PM] info: {}
+[11/24/2020, 9:44:03 PM] info: GET 404 /favicon.ico {} body {} size 28 - 2.902 ms
+
+[11/24/2020, 9:44:13 PM] info: {}
+[11/24/2020, 9:44:13 PM] info: GET 200 /api/blogs {} body {} size 739 - 143.091 ms
+
+[11/24/2020, 9:47:56 PM] info: {}
+[11/24/2020, 9:47:56 PM] info: POST 400 /api/blogs {} body {} size - - 32.578 ms
+
+[11/24/2020, 9:48:05 PM] info: {}
+[11/24/2020, 9:48:05 PM] info: POST 400 /api/blogs {} body {} size - - 1.589 ms
+
+[11/24/2020, 9:49:37 PM] info: {}
+[11/24/2020, 9:49:37 PM] info: POST 404 /api/testing/reset {} body {} size 28 - 28.327 ms
+
+[11/24/2020, 9:49:43 PM] info: {}
+[11/24/2020, 9:49:43 PM] info: POST 404 /api/testing/reset {} body {} size 28 - 1.926 ms
+
+[11/24/2020, 9:49:58 PM] info: {}
+[11/24/2020, 9:49:58 PM] info: GET 404 /api/testing/reset {} body {} size 28 - 4.414 ms
+
+[11/24/2020, 9:59:01 PM] info: {}
+[11/24/2020, 9:59:01 PM] info: POST 404 /api/testing/reset {} body {} size 28 - 1.934 ms
+
+[11/24/2020, 9:59:17 PM] info: {}
+[11/24/2020, 9:59:17 PM] info: GET 304 /api/blogs {} body {} size - - 174.050 ms
+
+[11/24/2020, 10:01:20 PM] info: {}
+[11/24/2020, 10:01:20 PM] info: POST 201 /api/blogs {} body {"title":"Олексій","author":"www","url":"www"} size 95 - 303.007 ms
+
+[11/24/2020, 10:26:23 PM] info: {}
+[11/24/2020, 10:26:23 PM] info: POST 404 /api/testing/reset {} body {} size 28 - 1.781 ms
+
+[11/24/2020, 10:28:59 PM] info: {}
+[11/24/2020, 10:28:59 PM] info: POST 400 /api/blogs {} body {} size - - 27.840 ms
+
+[11/24/2020, 10:29:21 PM] info: {}
+[11/24/2020, 10:29:21 PM] info: POST 400 /api/blogs {} body {} size - - 1.914 ms
+
+[11/24/2020, 10:30:48 PM] info: {}
+[11/24/2020, 10:30:48 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/24/2020, 10:30:48 PM] info: {}
+[11/24/2020, 10:30:49 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/24/2020, 10:30:49 PM] info: {}
+[11/24/2020, 10:30:49 PM] info: GET 200 /api/blogs {} body {} size 835 - 142.148 ms
+
+[11/24/2020, 10:30:53 PM] info: {}
+[11/24/2020, 10:30:53 PM] info: GET 304 /api/blogs {} body {} size - - 155.961 ms
+
+[11/24/2020, 10:30:57 PM] info: {}
+[11/24/2020, 10:30:57 PM] info: GET 304 /api/blogs {} body {} size - - 131.922 ms
+
+[11/24/2020, 10:31:09 PM] info: {}
+[11/24/2020, 10:31:09 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"Olana","url":"http/..","likes":5} size 94 - 185.513 ms
+
+[11/24/2020, 10:31:17 PM] info: {}
+[11/24/2020, 10:31:17 PM] info: DELETE 204 /api/blogs/5fbbe72d099cd1345236e1ab {} body {} size - - 145.171 ms
+
+[11/24/2020, 10:32:06 PM] info: {}
+[11/24/2020, 10:32:06 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/24/2020, 10:32:06 PM] info: {}
+[11/24/2020, 10:32:06 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[11/24/2020, 10:32:07 PM] info: {}
+[11/24/2020, 10:32:07 PM] info: GET 200 /api/blogs {} body {} size 740 - 133.057 ms
+
+[11/24/2020, 10:32:11 PM] info: {}
+[11/24/2020, 10:32:11 PM] info: GET 304 /api/blogs {} body {} size - - 147.350 ms
+
+[11/24/2020, 10:32:15 PM] info: {}
+[11/24/2020, 10:32:15 PM] info: GET 304 /api/blogs {} body {} size - - 157.468 ms
+
+[12/10/2020, 11:00:07 AM] info: {}
+[12/10/2020, 11:00:07 AM] info: GET 200 /api/blogs {} body {} size 2197 - 212.440 ms
+
+[12/11/2020, 2:29:53 PM] info: {}
+[12/11/2020, 2:29:53 PM] info: GET 304 /api/blogs {} body {} size - - 184.415 ms
+
+[12/11/2020, 3:07:34 PM] info: {}
+[12/11/2020, 3:07:34 PM] info: POST 201 /api/blogs {} body {"title":"Олексій","author":"www","url":"www"} size 95 - 290.772 ms
+
+[12/11/2020, 3:07:43 PM] info: {}
+[12/11/2020, 3:07:44 PM] info: DELETE 204 /api/blogs/5fbbed7b099cd1345236e1ad {} body {} size - - 1488.685 ms
+
+[12/11/2020, 3:10:06 PM] info: {}
+[12/11/2020, 3:10:06 PM] info: GET 200 /api/blogs {} body {} size 2198 - 157.572 ms
+
+[12/11/2020, 3:26:34 PM] info: {}
+[12/11/2020, 3:26:35 PM] info: GET 304 /api/blogs {} body {} size - - 144.363 ms
+
+[12/11/2020, 3:50:20 PM] info: {}
+[12/11/2020, 3:50:20 PM] info: GET 304 /api/blogs {} body {} size - - 143.852 ms
+
+[12/11/2020, 4:04:27 PM] info: {}
+[12/11/2020, 4:04:27 PM] info: GET 304 /api/blogs {} body {} size - - 392.902 ms
+
+[12/11/2020, 4:04:34 PM] info: {}
+[12/11/2020, 4:04:35 PM] info: GET 304 /api/blogs {} body {} size - - 170.873 ms
+
+[12/11/2020, 4:04:36 PM] info: {}
+[12/11/2020, 4:04:36 PM] info: GET 304 /api/blogs {} body {} size - - 152.927 ms
+
+[12/11/2020, 5:16:54 PM] info: {}
+[12/11/2020, 5:16:54 PM] info: GET 304 /api/blogs {} body {} size - - 141.866 ms
+
+[12/11/2020, 5:17:56 PM] info: {}
+[12/11/2020, 5:18:11 PM] info: {}
+[12/11/2020, 5:18:41 PM] info: POST 500 /api/blogs {} body {"title":"i","author":"d","url":"www"} size 2992 - 30013.510 ms
+
+[12/11/2020, 5:19:56 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 5:19:56 PM] info: {}
+[12/11/2020, 5:21:40 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 5:21:40 PM] info: {}
+[12/11/2020, 5:22:07 PM] info: {}
+[12/11/2020, 5:23:40 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 5:24:07 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 5:26:29 PM] info: {}
+[12/11/2020, 5:26:29 PM] info: GET 200 /api/blogs {} body {} size 2198 - 170.616 ms
+
+[12/11/2020, 5:26:39 PM] info: {}
+[12/11/2020, 5:26:40 PM] info: GET 304 /api/blogs {} body {} size - - 180.695 ms
+
+[12/11/2020, 5:36:44 PM] info: {}
+[12/11/2020, 5:36:44 PM] info: GET 304 /api/blogs {} body {} size - - 189.310 ms
+
+[12/11/2020, 5:36:44 PM] info: {}
+[12/11/2020, 5:36:44 PM] info: GET 304 /api/blogs {} body {} size - - 167.768 ms
+
+[12/11/2020, 5:36:48 PM] info: {}
+[12/11/2020, 5:36:48 PM] info: GET 304 /api/blogs {} body {} size - - 182.471 ms
+
+[12/11/2020, 5:39:22 PM] info: {}
+[12/11/2020, 5:39:22 PM] info: GET 304 /api/blogs {} body {} size - - 150.514 ms
+
+[12/11/2020, 5:39:22 PM] info: {}
+[12/11/2020, 5:39:22 PM] info: GET 304 /api/blogs {} body {} size - - 152.340 ms
+
+[12/11/2020, 5:40:00 PM] info: {}
+[12/11/2020, 5:40:01 PM] info: GET 304 /api/blogs {} body {} size - - 1096.314 ms
+
+[12/11/2020, 5:40:01 PM] info: {}
+[12/11/2020, 5:40:01 PM] info: GET 304 /api/blogs {} body {} size - - 146.723 ms
+
+[12/11/2020, 5:40:04 PM] info: {}
+[12/11/2020, 5:40:04 PM] info: GET 304 /api/blogs {} body {} size - - 173.894 ms
+
+[12/11/2020, 5:44:38 PM] info: {}
+[12/11/2020, 5:44:39 PM] info: GET 304 /api/blogs {} body {} size - - 157.204 ms
+
+[12/11/2020, 5:44:39 PM] info: {}
+[12/11/2020, 5:44:39 PM] info: GET 304 /api/blogs {} body {} size - - 163.175 ms
+
+[12/11/2020, 5:45:22 PM] info: {}
+[12/11/2020, 5:45:23 PM] info: GET 304 /api/blogs {} body {} size - - 159.444 ms
+
+[12/11/2020, 5:49:33 PM] info: {}
+[12/11/2020, 5:49:33 PM] info: GET 304 /api/blogs {} body {} size - - 162.983 ms
+
+[12/11/2020, 5:50:47 PM] info: {}
+[12/11/2020, 5:50:47 PM] info: GET 304 /api/blogs {} body {} size - - 179.399 ms
+
+[12/11/2020, 5:53:41 PM] info: {}
+[12/11/2020, 5:53:41 PM] info: GET 304 /api/blogs {} body {} size - - 164.696 ms
+
+[12/11/2020, 5:53:52 PM] info: {}
+[12/11/2020, 5:53:52 PM] info: GET 304 /api/blogs {} body {} size - - 187.592 ms
+
+[12/11/2020, 5:53:55 PM] info: {}
+[12/11/2020, 5:53:55 PM] info: GET 304 /api/blogs {} body {} size - - 180.617 ms
+
+[12/11/2020, 5:54:00 PM] info: {}
+[12/11/2020, 5:54:00 PM] info: GET 304 /api/blogs {} body {} size - - 193.336 ms
+
+[12/11/2020, 5:54:42 PM] info: {}
+[12/11/2020, 5:54:42 PM] info: GET 304 /api/blogs {} body {} size - - 194.387 ms
+
+[12/11/2020, 5:55:01 PM] info: {}
+[12/11/2020, 5:55:01 PM] info: GET 304 /api/blogs {} body {} size - - 172.555 ms
+
+[12/11/2020, 5:55:22 PM] info: {}
+[12/11/2020, 5:55:22 PM] info: GET 304 /api/blogs {} body {} size - - 160.775 ms
+
+[12/11/2020, 5:55:23 PM] info: {}
+[12/11/2020, 5:55:23 PM] info: GET 304 /api/blogs {} body {} size - - 166.644 ms
+
+[12/11/2020, 6:04:54 PM] info: {}
+[12/11/2020, 6:04:55 PM] info: GET 304 /api/blogs {} body {} size - - 162.559 ms
+
+[12/11/2020, 6:10:00 PM] info: {}
+[12/11/2020, 6:10:00 PM] info: GET 304 /api/blogs {} body {} size - - 172.046 ms
+
+[12/11/2020, 6:10:12 PM] info: {}
+[12/11/2020, 6:10:12 PM] info: GET 304 /api/blogs {} body {} size - - 183.942 ms
+
+[12/11/2020, 6:11:36 PM] info: {}
+[12/11/2020, 6:11:36 PM] info: GET 304 /api/blogs {} body {} size - - 177.083 ms
+
+[12/11/2020, 6:11:38 PM] info: {}
+[12/11/2020, 6:11:39 PM] info: GET 304 /api/blogs {} body {} size - - 168.356 ms
+
+[12/11/2020, 6:12:10 PM] info: {}
+[12/11/2020, 6:12:10 PM] info: GET 304 /api/blogs {} body {} size - - 210.826 ms
+
+[12/11/2020, 6:31:47 PM] info: {}
+[12/11/2020, 6:31:47 PM] info: GET 304 /api/blogs {} body {} size - - 177.589 ms
+
+[12/11/2020, 6:31:47 PM] info: {}
+[12/11/2020, 6:31:47 PM] info: GET 304 /api/blogs {} body {} size - - 158.789 ms
+
+[12/11/2020, 6:32:12 PM] info: {}
+[12/11/2020, 6:32:12 PM] info: GET 304 /api/blogs {} body {} size - - 169.950 ms
+
+[12/11/2020, 6:32:16 PM] info: {}
+[12/11/2020, 6:32:16 PM] info: GET 304 /api/blogs {} body {} size - - 160.395 ms
+
+[12/11/2020, 6:32:17 PM] info: {}
+[12/11/2020, 6:32:17 PM] info: GET 304 /api/blogs {} body {} size - - 167.877 ms
+
+[12/11/2020, 6:34:01 PM] info: {}
+[12/11/2020, 6:34:01 PM] info: GET 304 /api/blogs {} body {} size - - 167.253 ms
+
+[12/11/2020, 6:34:01 PM] info: {}
+[12/11/2020, 6:34:02 PM] info: GET 304 /api/blogs {} body {} size - - 183.355 ms
+
+[12/11/2020, 6:34:04 PM] info: {}
+[12/11/2020, 6:34:04 PM] info: GET 304 /api/blogs {} body {} size - - 170.894 ms
+
+[12/11/2020, 6:35:56 PM] info: {}
+[12/11/2020, 6:35:56 PM] info: GET 304 /api/blogs {} body {} size - - 166.106 ms
+
+[12/11/2020, 6:36:05 PM] info: {}
+[12/11/2020, 6:36:05 PM] info: GET 404 / {} body {} size 28 - 1.861 ms
+
+[12/11/2020, 6:36:05 PM] info: {}
+[12/11/2020, 6:36:05 PM] info: GET 404 /favicon.ico {} body {} size 28 - 1.665 ms
+
+[12/11/2020, 6:36:23 PM] info: {}
+[12/11/2020, 6:36:23 PM] info: GET 404 /blogs {} body {} size 28 - 1.713 ms
+
+[12/11/2020, 6:36:25 PM] info: {}
+[12/11/2020, 6:36:25 PM] info: GET 404 /blogs {} body {} size 28 - 2.456 ms
+
+[12/11/2020, 6:37:08 PM] info: {}
+[12/11/2020, 6:37:08 PM] info: GET 200 /api/blogs {} body {} size 2198 - 204.231 ms
+
+[12/11/2020, 6:46:22 PM] info: {}
+[12/11/2020, 6:46:22 PM] info: GET 404 /blogs/babel/parser/lib/index.js {} body {} size 28 - 1.650 ms
+
+[12/11/2020, 6:47:03 PM] info: {}
+[12/11/2020, 6:47:03 PM] info: GET 404 /blogs/babel/parser/lib/index.js {} body {} size 28 - 5.487 ms
+
+[12/11/2020, 6:47:59 PM] info: {}
+[12/11/2020, 6:48:00 PM] info: GET 404 /blogs/babel/parser/lib/index.js {} body {} size 28 - 3.859 ms
+
+[12/11/2020, 6:50:35 PM] info: {}
+[12/11/2020, 6:50:35 PM] info: {}
+[12/11/2020, 6:50:35 PM] info: GET 304 /api/blogs {} body {} size - - 218.857 ms
+
+[12/11/2020, 6:50:35 PM] info: GET 200 /api/blogs {} body {} size 2198 - 367.855 ms
+
+[12/11/2020, 6:52:24 PM] info: {}
+[12/11/2020, 6:52:24 PM] info: GET 404 /blogs/babel/parser/lib/index.js {} body {} size 28 - 4.152 ms
+
+[12/11/2020, 6:52:48 PM] info: {}
+[12/11/2020, 6:52:48 PM] info: GET 304 /api/blogs {} body {} size - - 175.803 ms
+
+[12/11/2020, 6:53:55 PM] info: {}
+[12/11/2020, 6:53:55 PM] info: GET 304 /api/blogs {} body {} size - - 217.660 ms
+
+[12/11/2020, 6:54:01 PM] info: {}
+[12/11/2020, 6:54:02 PM] info: GET 200 /api/blogs {} body {} size 2198 - 212.042 ms
+
+[12/11/2020, 6:57:29 PM] info: {}
+[12/11/2020, 6:57:29 PM] info: GET 304 /api/blogs {} body {} size - - 172.810 ms
+
+[12/11/2020, 6:57:38 PM] info: {}
+[12/11/2020, 6:57:38 PM] info: GET 200 /api/blogs {} body {} size 2198 - 194.324 ms
+
+[12/11/2020, 7:01:45 PM] info: {}
+[12/11/2020, 7:01:49 PM] info: GET 304 /api/blogs {} body {} size - - 3301.605 ms
+
+[12/11/2020, 7:06:53 PM] info: {}
+[12/11/2020, 7:06:53 PM] info: {}
+[12/11/2020, 7:06:53 PM] info: GET 200 /api/blogs {} body {} size 2198 - 203.806 ms
+
+[12/11/2020, 7:06:54 PM] info: GET 200 /api/blogs {} body {} size 2198 - 485.978 ms
+
+[12/11/2020, 7:07:18 PM] info: {}
+[12/11/2020, 7:07:19 PM] info: GET 200 /api/blogs {} body {} size 2198 - 1199.030 ms
+
+[12/11/2020, 7:08:56 PM] info: {}
+[12/11/2020, 7:08:56 PM] info: GET 404 /blogs/babel/parser/lib/index.js {} body {} size 28 - 4.244 ms
+
+[12/11/2020, 7:09:01 PM] info: {}
+[12/11/2020, 7:09:01 PM] info: GET 404 /babel/parser/lib/index.js {} body {} size 28 - 3.469 ms
+
+[12/11/2020, 7:09:37 PM] info: {}
+[12/11/2020, 7:09:37 PM] info: {}
+[12/11/2020, 7:09:37 PM] info: GET 200 /api/blogs {} body {} size 2198 - 190.241 ms
+
+[12/11/2020, 7:09:37 PM] info: GET 200 /api/blogs {} body {} size 2198 - 218.423 ms
+
+[12/11/2020, 7:09:54 PM] info: {}
+[12/11/2020, 7:09:54 PM] info: GET 200 /api/blogs {} body {} size 2198 - 160.348 ms
+
+[12/11/2020, 7:10:36 PM] info: {}
+[12/11/2020, 7:10:36 PM] info: {}
+[12/11/2020, 7:10:36 PM] info: GET 200 /api/blogs {} body {} size 2198 - 176.448 ms
+
+[12/11/2020, 7:10:36 PM] info: GET 200 /api/blogs {} body {} size 2198 - 180.700 ms
+
+[12/11/2020, 7:10:52 PM] info: {}
+[12/11/2020, 7:10:52 PM] info: GET 200 /api/blogs {} body {} size 2198 - 336.114 ms
+
+[12/11/2020, 7:12:10 PM] info: {}
+[12/11/2020, 7:12:10 PM] info: {}
+[12/11/2020, 7:12:10 PM] info: GET 200 /api/blogs {} body {} size 2198 - 499.615 ms
+
+[12/11/2020, 7:12:10 PM] info: GET 200 /api/blogs {} body {} size 2198 - 408.957 ms
+
+[12/11/2020, 7:12:26 PM] info: {}
+[12/11/2020, 7:12:26 PM] info: GET 200 /api/blogs {} body {} size 2198 - 181.539 ms
+
+[12/11/2020, 7:13:17 PM] info: {}
+[12/11/2020, 7:13:17 PM] info: {}
+[12/11/2020, 7:13:17 PM] info: GET 200 /api/blogs {} body {} size 2198 - 190.795 ms
+
+[12/11/2020, 7:13:17 PM] info: GET 200 /api/blogs {} body {} size 2198 - 201.639 ms
+
+[12/11/2020, 7:13:22 PM] info: {}
+[12/11/2020, 7:13:22 PM] info: GET 200 /api/blogs {} body {} size 2198 - 210.124 ms
+
+[12/11/2020, 7:13:40 PM] info: {}
+[12/11/2020, 7:13:40 PM] info: GET 200 /api/blogs {} body {} size 2198 - 208.485 ms
+
+[12/11/2020, 7:14:31 PM] info: {}
+[12/11/2020, 7:14:31 PM] info: GET 200 /api/blogs {} body {} size 2198 - 145.776 ms
+
+[12/11/2020, 7:17:03 PM] info: {}
+[12/11/2020, 7:17:03 PM] info: GET 200 /api/blogs {} body {} size 2198 - 173.501 ms
+
+[12/11/2020, 7:22:22 PM] info: {}
+[12/11/2020, 7:22:22 PM] info: {}
+[12/11/2020, 7:22:22 PM] info: GET 200 /api/blogs {} body {} size 2198 - 211.947 ms
+
+[12/11/2020, 7:22:22 PM] info: GET 200 /api/blogs {} body {} size 2198 - 229.936 ms
+
+[12/11/2020, 7:22:40 PM] info: {}
+[12/11/2020, 7:22:40 PM] info: GET 200 /api/blogs {} body {} size 2198 - 163.951 ms
+
+[12/11/2020, 7:23:42 PM] info: {}
+[12/11/2020, 7:23:42 PM] info: {}
+[12/11/2020, 7:23:42 PM] info: GET 200 /api/blogs {} body {} size 2198 - 787.008 ms
+
+[12/11/2020, 7:23:42 PM] info: GET 200 /api/blogs {} body {} size 2198 - 814.141 ms
+
+[12/11/2020, 7:24:46 PM] info: {}
+[12/11/2020, 7:24:46 PM] info: {}
+[12/11/2020, 7:24:46 PM] info: GET 200 /api/blogs {} body {} size 2198 - 170.442 ms
+
+[12/11/2020, 7:24:46 PM] info: GET 200 /api/blogs {} body {} size 2198 - 380.387 ms
+
+[12/11/2020, 7:25:49 PM] info: {}
+[12/11/2020, 7:25:49 PM] info: {}
+[12/11/2020, 7:26:08 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 7:26:16 PM] info: {}
+[12/11/2020, 7:27:10 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 7:27:10 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 7:27:11 PM] info: {}
+[12/11/2020, 7:28:26 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 7:28:27 PM] info: {}
+[12/11/2020, 7:28:41 PM] info: GET 200 /api/blogs {} body {} size 2198 - 13828.249 ms
+
+[12/11/2020, 7:34:39 PM] info: {}
+[12/11/2020, 7:34:39 PM] info: GET 304 /api/blogs {} body {} size - - 168.643 ms
+
+[12/11/2020, 7:34:56 PM] info: {}
+[12/11/2020, 7:34:56 PM] info: GET 304 /api/blogs {} body {} size - - 193.480 ms
+
+[12/11/2020, 7:35:05 PM] info: {}
+[12/11/2020, 7:35:06 PM] info: GET - /api/blogs {} body {} size - - - ms
+
+[12/11/2020, 7:35:07 PM] info: {}
+[12/11/2020, 7:35:07 PM] info: GET 200 /api/blogs {} body {} size 2198 - 160.204 ms
+
+[12/11/2020, 7:35:48 PM] info: {}
+[12/11/2020, 7:35:48 PM] info: GET 200 /api/blogs {} body {} size 2198 - 162.864 ms
+
+[12/11/2020, 7:37:52 PM] info: {}
+[12/11/2020, 7:37:53 PM] info: GET 200 /api/blogs {} body {} size 2198 - 224.745 ms
+
+[12/11/2020, 7:38:28 PM] info: {}
+[12/11/2020, 7:38:28 PM] info: GET 200 /api/blogs {} body {} size 2198 - 177.124 ms
+
+[12/11/2020, 7:38:41 PM] info: {}
+[12/11/2020, 7:38:41 PM] info: GET 200 /api/blogs {} body {} size 2198 - 275.308 ms
+
+[12/11/2020, 8:11:22 PM] info: {}
+[12/11/2020, 8:11:23 PM] info: GET 200 /api/blogs {} body {} size 2520 - 1040.007 ms
+
+[12/11/2020, 8:11:41 PM] info: {}
+[12/11/2020, 8:11:41 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":1} size 110 - 650.183 ms
+
+[12/11/2020, 8:11:58 PM] info: {}
+[12/11/2020, 8:11:58 PM] info: PUT 200 /api/blogs/5fbbee50099cd1345236e1af {} body {"title":"qeerttyy","author":"rtyhujik","url":"sdfgghhj","likes":1,"comments":1} size 113 - 180.961 ms
+
+[12/11/2020, 8:12:27 PM] info: {}
+[12/11/2020, 8:12:27 PM] info: PUT 200 /api/blogs/5fbcd43243962726f26e671c {} body {"title":"12345","author":"12345","url":"12345","likes":1,"comments":1} size 104 - 214.725 ms
+
+[12/11/2020, 8:12:40 PM] info: {}
+[12/11/2020, 8:12:40 PM] info: PUT 200 /api/blogs/5fbcd62ea901fb2a6a839017 {} body {"title":"www66","author":"666666","url":"66666","likes":1,"comments":1} size 105 - 159.693 ms
+
+[12/11/2020, 8:13:12 PM] info: {}
+[12/11/2020, 8:13:12 PM] info: GET 404 /api/patients {} body {} size 28 - 2.244 ms
+
+[12/11/2020, 8:13:21 PM] info: {}
+[12/11/2020, 8:13:21 PM] info: GET 200 /api/blogs {} body {} size 2520 - 172.425 ms
+
+[12/11/2020, 8:15:28 PM] info: {}
+[12/11/2020, 8:15:29 PM] info: GET 304 /api/blogs {} body {} size - - 173.458 ms
+
+[12/11/2020, 8:15:31 PM] info: {}
+[12/11/2020, 8:15:31 PM] info: GET 304 /api/blogs {} body {} size - - 188.587 ms
+
+[12/11/2020, 8:15:46 PM] info: {}
+[12/11/2020, 8:15:46 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":1} size 110 - 172.557 ms
+
+[12/11/2020, 8:17:58 PM] info: {}
+[12/11/2020, 8:17:58 PM] info: GET 304 /api/blogs {} body {} size - - 196.777 ms
+
+[12/11/2020, 8:17:59 PM] info: {}
+[12/11/2020, 8:17:59 PM] info: GET 200 /api/blogs {} body {} size 2520 - 180.276 ms
+
+[12/11/2020, 8:18:11 PM] info: {}
+[12/11/2020, 8:18:12 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["idunets@yahoo.com"]} size 110 - 797.700 ms
+
+[12/11/2020, 8:19:36 PM] info: {}
+[12/11/2020, 8:19:36 PM] info: {}
+[12/11/2020, 8:19:36 PM] info: GET 304 /api/blogs {} body {} size - - 166.934 ms
+
+[12/11/2020, 8:19:36 PM] info: GET 200 /api/blogs {} body {} size 2520 - 268.174 ms
+
+[12/11/2020, 8:19:49 PM] info: {}
+[12/11/2020, 8:19:49 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["idunets@yahoo.com"]} size 110 - 146.936 ms
+
+[12/11/2020, 8:20:44 PM] info: {}
+[12/11/2020, 8:20:44 PM] info: GET 304 /api/blogs {} body {} size - - 165.069 ms
+
+[12/11/2020, 8:20:44 PM] info: {}
+[12/11/2020, 8:20:44 PM] info: GET 200 /api/blogs {} body {} size 2520 - 159.043 ms
+
+[12/11/2020, 8:20:53 PM] info: {}
+[12/11/2020, 8:20:53 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":[";;;;"]} size 110 - 139.993 ms
+
+[12/11/2020, 8:21:33 PM] info: {}
+[12/11/2020, 8:21:33 PM] info: {}
+[12/11/2020, 8:21:33 PM] info: GET 304 /api/blogs {} body {} size - - 174.135 ms
+
+[12/11/2020, 8:21:33 PM] info: GET 200 /api/blogs {} body {} size 2520 - 155.386 ms
+
+[12/11/2020, 8:21:44 PM] info: {}
+[12/11/2020, 8:21:44 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["]]]]"]} size 110 - 148.946 ms
+
+[12/11/2020, 8:21:59 PM] info: {}
+[12/11/2020, 8:22:00 PM] info: GET 304 /api/blogs {} body {} size - - 1232.923 ms
+
+[12/11/2020, 8:23:47 PM] info: {}
+[12/11/2020, 8:23:47 PM] info: {}
+[12/11/2020, 8:23:47 PM] info: GET 304 /api/blogs {} body {} size - - 155.723 ms
+
+[12/11/2020, 8:23:47 PM] info: GET 200 /api/blogs {} body {} size 2520 - 153.896 ms
+
+[12/11/2020, 8:23:52 PM] info: {}
+[12/11/2020, 8:23:52 PM] info: GET 304 /api/blogs {} body {} size - - 152.516 ms
+
+[12/11/2020, 8:24:01 PM] info: {}
+[12/11/2020, 8:24:02 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["nnn"]} size 110 - 604.753 ms
+
+[12/11/2020, 8:25:50 PM] info: {}
+[12/11/2020, 8:25:50 PM] info: GET 200 /api/blogs {} body {} size 2520 - 173.381 ms
+
+[12/11/2020, 8:25:50 PM] info: {}
+[12/11/2020, 8:25:50 PM] info: GET 200 /api/blogs {} body {} size 2520 - 168.282 ms
+
+[12/11/2020, 8:26:01 PM] info: {}
+[12/11/2020, 8:26:01 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["jjj"]} size 110 - 156.128 ms
+
+[12/11/2020, 8:27:32 PM] info: {}
+[12/11/2020, 8:27:33 PM] info: {}
+[12/11/2020, 8:27:33 PM] info: GET 200 /api/blogs {} body {} size 2520 - 208.757 ms
+
+[12/11/2020, 8:27:33 PM] info: GET 200 /api/blogs {} body {} size 2520 - 166.222 ms
+
+[12/11/2020, 8:27:43 PM] info: {}
+[12/11/2020, 8:27:43 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["uiiiio"]} size 110 - 184.564 ms
+
+[12/11/2020, 8:30:15 PM] info: {}
+[12/11/2020, 8:30:15 PM] info: GET 200 /api/blogs {} body {} size 2520 - 234.047 ms
+
+[12/11/2020, 8:30:30 PM] info: {}
+[12/11/2020, 8:30:30 PM] info: PUT 500 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["yyy"]} size 2838 - 17.707 ms
+
+[12/11/2020, 8:32:38 PM] info: {}
+[12/11/2020, 8:32:38 PM] info: GET 304 /api/blogs {} body {} size - - 226.563 ms
+
+[12/11/2020, 8:32:53 PM] info: {}
+[12/11/2020, 8:32:53 PM] info: PUT 500 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["333"]} size 2838 - 17.335 ms
+
+[12/11/2020, 8:32:55 PM] info: {}
+[12/11/2020, 8:32:55 PM] info: PUT 500 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["333"]} size 2838 - 5.924 ms
+
+[12/11/2020, 8:32:56 PM] info: {}
+[12/11/2020, 8:32:56 PM] info: PUT 500 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["333"]} size 2838 - 4.927 ms
+
+[12/11/2020, 8:32:57 PM] info: {}
+[12/11/2020, 8:32:57 PM] info: PUT 500 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["333"]} size 2838 - 5.518 ms
+
+[12/11/2020, 8:33:09 PM] info: {}
+[12/11/2020, 8:33:09 PM] info: GET 304 /api/blogs {} body {} size - - 176.238 ms
+
+[12/11/2020, 8:34:43 PM] info: {}
+[12/11/2020, 8:34:43 PM] info: GET 200 /api/blogs {} body {} size 2520 - 157.557 ms
+
+[12/11/2020, 8:34:53 PM] info: {}
+[12/11/2020, 8:34:53 PM] info: PUT 500 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["dd"]} size 2838 - 5.303 ms
+
+[12/11/2020, 8:36:18 PM] info: {}
+[12/11/2020, 8:36:23 PM] info: GET 200 /api/blogs {} body {} size 2520 - 5059.168 ms
+
+[12/11/2020, 8:36:34 PM] info: {}
+[12/11/2020, 8:36:34 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg"]} size 115 - 173.240 ms
+
+[12/11/2020, 8:38:23 PM] info: {}
+[12/11/2020, 8:38:23 PM] info: {}
+[12/11/2020, 8:38:23 PM] info: GET 200 /api/blogs {} body {} size 2525 - 179.229 ms
+
+[12/11/2020, 8:38:23 PM] info: GET 200 /api/blogs {} body {} size 2525 - 307.787 ms
+
+[12/11/2020, 8:38:35 PM] info: {}
+[12/11/2020, 8:38:36 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000"]} size 136 - 969.831 ms
+
+[12/11/2020, 8:40:02 PM] info: {}
+[12/11/2020, 8:40:02 PM] info: {}
+[12/11/2020, 8:40:02 PM] info: GET 200 /api/blogs {} body {} size 2546 - 175.088 ms
+
+[12/11/2020, 8:40:02 PM] info: GET 200 /api/blogs {} body {} size 2546 - 156.392 ms
+
+[12/11/2020, 8:40:15 PM] info: {}
+[12/11/2020, 8:40:15 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000"]} size 149 - 270.959 ms
+
+[12/11/2020, 8:42:21 PM] info: {}
+[12/11/2020, 8:42:21 PM] info: {}
+[12/11/2020, 8:42:21 PM] info: GET 200 /api/blogs {} body {} size 2559 - 179.542 ms
+
+[12/11/2020, 8:42:21 PM] info: GET 200 /api/blogs {} body {} size 2559 - 179.292 ms
+
+[12/11/2020, 8:42:35 PM] info: {}
+[12/11/2020, 8:42:35 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000"]} size 158 - 200.572 ms
+
+[12/11/2020, 8:43:08 PM] info: {}
+[12/11/2020, 8:43:08 PM] info: GET 200 /api/blogs {} body {} size 2568 - 180.091 ms
+
+[12/11/2020, 8:43:08 PM] info: {}
+[12/11/2020, 8:43:08 PM] info: GET 200 /api/blogs {} body {} size 2568 - 172.066 ms
+
+[12/11/2020, 8:43:20 PM] info: {}
+[12/11/2020, 8:43:21 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000","gggggg"]} size 167 - 622.143 ms
+
+[12/11/2020, 8:43:37 PM] info: {}
+[12/11/2020, 8:43:38 PM] info: PUT 200 /api/blogs/5fbcd43243962726f26e671c {} body {"title":"12345","author":"12345","url":"12345","likes":1,"comments":["11111111111111111111111"]} size 129 - 883.840 ms
+
+[12/11/2020, 8:43:53 PM] info: {}
+[12/11/2020, 8:43:53 PM] info: PUT 200 /api/blogs/5fbcd43243962726f26e671c {} body {"title":"12345","author":"12345","url":"12345","likes":1,"comments":["11111111111111111111111","111111111111111111111111111111111"]} size 165 - 169.219 ms
+
+[12/11/2020, 8:44:43 PM] info: {}
+[12/11/2020, 8:44:43 PM] info: {}
+[12/11/2020, 8:44:43 PM] info: GET 200 /api/blogs {} body {} size 2638 - 168.339 ms
+
+[12/11/2020, 8:44:43 PM] info: GET 200 /api/blogs {} body {} size 2638 - 153.306 ms
+
+[12/11/2020, 8:46:11 PM] info: {}
+[12/11/2020, 8:46:11 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000","gggggg","000000000000000000000000000"]} size 197 - 173.017 ms
+
+[12/11/2020, 8:47:32 PM] info: {}
+[12/11/2020, 8:47:32 PM] info: GET 200 /api/blogs {} body {} size 2668 - 177.900 ms
+
+[12/11/2020, 8:48:48 PM] info: {}
+[12/11/2020, 8:48:48 PM] info: GET 304 /api/blogs {} body {} size - - 162.862 ms
+
+[12/11/2020, 8:48:48 PM] info: {}
+[12/11/2020, 8:48:48 PM] info: GET 200 /api/blogs {} body {} size 2668 - 165.383 ms
+
+[12/11/2020, 8:48:55 PM] info: {}
+[12/11/2020, 8:48:55 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000","gggggg","000000000000000000000000000","idunets@yahoo.com"]} size 217 - 430.018 ms
+
+[12/11/2020, 8:50:46 PM] info: {}
+[12/11/2020, 8:50:46 PM] info: GET 404 /babel/parser/lib/index.js {} body {} size 28 - 3.443 ms
+
+[12/11/2020, 8:51:32 PM] info: {}
+[12/11/2020, 8:51:32 PM] info: GET 404 /babel/parser/lib/index.js {} body {} size 28 - 2.033 ms
+
+[12/11/2020, 8:52:12 PM] info: {}
+[12/11/2020, 8:52:12 PM] info: GET 200 /api/blogs {} body {} size 2688 - 174.894 ms
+
+[12/11/2020, 8:52:12 PM] info: {}
+[12/11/2020, 8:52:12 PM] info: GET 200 /api/blogs {} body {} size 2688 - 180.134 ms
+
+[12/11/2020, 8:52:12 PM] info: {}
+[12/11/2020, 8:52:12 PM] info: GET 200 /api/blogs {} body {} size 2688 - 168.458 ms
+
+[12/11/2020, 8:57:20 PM] info: {}
+[12/11/2020, 8:57:20 PM] info: {}
+[12/11/2020, 8:57:20 PM] info: GET 304 /api/blogs {} body {} size - - 180.626 ms
+
+[12/11/2020, 8:57:20 PM] info: {}
+[12/11/2020, 8:57:21 PM] info: GET 200 /api/blogs {} body {} size 2688 - 180.511 ms
+
+[12/11/2020, 8:57:21 PM] info: GET 200 /api/blogs {} body {} size 2688 - 179.217 ms
+
+[12/11/2020, 8:57:25 PM] info: {}
+[12/11/2020, 8:57:26 PM] info: GET 200 /api/blogs {} body {} size 2688 - 1112.153 ms
+
+[12/11/2020, 8:58:09 PM] info: {}
+[12/11/2020, 8:58:09 PM] info: GET 304 /api/blogs {} body {} size - - 165.639 ms
+
+[12/11/2020, 8:58:09 PM] info: {}
+[12/11/2020, 8:58:09 PM] info: GET 200 /api/blogs {} body {} size 2688 - 163.146 ms
+
+[12/11/2020, 8:58:09 PM] info: {}
+[12/11/2020, 8:58:09 PM] info: {}
+[12/11/2020, 8:58:09 PM] info: GET 200 /api/blogs {} body {} size 2688 - 163.647 ms
+
+[12/11/2020, 8:58:09 PM] info: GET 200 /api/blogs {} body {} size 2688 - 171.788 ms
+
+[12/11/2020, 9:34:21 PM] info: {}
+[12/11/2020, 9:34:21 PM] info: GET 304 /api/blogs {} body {} size - - 166.046 ms
+
+[12/11/2020, 9:34:53 PM] info: {}
+[12/11/2020, 9:34:54 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000","gggggg","000000000000000000000000000","idunets@yahoo.com","vvv"]} size 223 - 437.863 ms
+
+[12/11/2020, 9:36:07 PM] info: {}
+[12/11/2020, 9:36:08 PM] info: GET 200 /api/blogs {} body {} size 2694 - 177.946 ms
+
+[12/11/2020, 9:40:54 PM] info: {}
+[12/11/2020, 9:40:54 PM] info: GET 304 /api/blogs {} body {} size - - 428.894 ms
+
+[12/11/2020, 9:43:17 PM] info: {}
+[12/11/2020, 9:43:17 PM] info: GET 304 /api/blogs {} body {} size - - 167.497 ms
+
+[12/11/2020, 9:45:39 PM] info: {}
+[12/11/2020, 9:45:39 PM] info: GET 304 /api/blogs {} body {} size - - 227.779 ms
+
+[12/11/2020, 9:45:57 PM] info: {}
+[12/11/2020, 9:45:57 PM] info: GET 304 /api/blogs {} body {} size - - 148.570 ms
+
+[12/11/2020, 9:46:22 PM] info: {}
+[12/11/2020, 9:46:23 PM] info: GET 304 /api/blogs {} body {} size - - 225.146 ms
+
+[12/11/2020, 9:47:15 PM] info: {}
+[12/11/2020, 9:47:15 PM] info: GET 304 /api/blogs {} body {} size - - 153.137 ms
+
+[12/11/2020, 9:47:25 PM] info: {}
+[12/11/2020, 9:47:25 PM] info: GET 304 /api/blogs {} body {} size - - 160.028 ms
+
+[12/11/2020, 9:47:49 PM] info: {}
+[12/11/2020, 9:47:50 PM] info: GET 200 /api/blogs {} body {} size 2694 - 179.353 ms
+
+[12/11/2020, 9:48:23 PM] info: {}
+[12/11/2020, 9:48:23 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000","gggggg","000000000000000000000000000","idunets@yahoo.com","vvv","ffff"]} size 230 - 148.653 ms
+
+[12/11/2020, 9:49:29 PM] info: {}
+[12/11/2020, 9:49:29 PM] info: POST 201 /api/blogs {} body {"title":"Олексій","author":"s","url":"g"} size 105 - 163.086 ms
+
+[12/11/2020, 9:49:48 PM] info: {}
+[12/11/2020, 9:49:48 PM] info: POST 201 /api/blogs {} body {"title":"Practice exam","author":"www","url":"sss"} size 108 - 145.336 ms
+
+[12/11/2020, 9:50:03 PM] info: {}
+[12/11/2020, 9:50:03 PM] info: GET 200 /api/blogs {} body {} size 2916 - 186.722 ms
+
+[12/11/2020, 9:57:28 PM] info: {}
+[12/11/2020, 9:57:29 PM] info: GET 304 /api/blogs {} body {} size - - 693.442 ms
+
+[12/11/2020, 9:57:29 PM] info: {}
+[12/11/2020, 9:57:29 PM] info: GET 304 /api/blogs {} body {} size - - 148.318 ms
+
+[12/11/2020, 10:18:24 PM] info: {}
+[12/11/2020, 10:18:25 PM] info: GET 304 /api/blogs {} body {} size - - 1408.628 ms
+
+[12/11/2020, 10:18:51 PM] info: {}
+[12/11/2020, 10:18:51 PM] info: GET 304 /api/blogs {} body {} size - - 175.069 ms
+
+[12/11/2020, 10:20:59 PM] info: {}
+[12/11/2020, 10:20:59 PM] info: GET 304 /api/blogs {} body {} size - - 188.955 ms
+
+[12/11/2020, 10:23:44 PM] info: {}
+[12/11/2020, 10:23:44 PM] info: GET 304 /api/blogs {} body {} size - - 193.843 ms
+
+[12/11/2020, 10:25:07 PM] info: {}
+[12/11/2020, 10:25:08 PM] info: GET 304 /api/blogs {} body {} size - - 168.037 ms
+
+[12/11/2020, 10:25:25 PM] info: {}
+[12/11/2020, 10:25:25 PM] info: PUT 200 /api/blogs/5fbbe44f099cd1345236e1a8 {} body {"title":"Welcome","author":"tttlana","url":"http/..","likes":5,"comments":["ggg","000000000000000000","0000000000","000000","gggggg","000000000000000000000000000","idunets@yahoo.com","vvv","ffff","idunets@yahoo.com"]} size 250 - 146.562 ms
+
+[12/11/2020, 10:53:52 PM] info: {}
+[12/11/2020, 10:53:52 PM] info: GET 200 /api/blogs {} body {} size 2936 - 216.892 ms
+
+[12/11/2020, 10:56:29 PM] info: {}
+[12/11/2020, 10:56:29 PM] info: GET 304 /api/blogs {} body {} size - - 200.453 ms
+
+[12/11/2020, 10:57:17 PM] info: {}
+[12/11/2020, 10:57:17 PM] info: GET 200 /api/blogs {} body {} size 2936 - 254.253 ms
+
+[12/11/2020, 10:57:38 PM] info: {}
+[12/11/2020, 10:57:39 PM] info: GET 200 /api/blogs {} body {} size 2936 - 161.010 ms
+
+[12/11/2020, 11:05:43 PM] info: {}
+[12/11/2020, 11:05:44 PM] info: GET 200 /api/blogs {} body {} size 2936 - 203.036 ms
+
+[12/11/2020, 11:17:32 PM] info: {}
+[12/11/2020, 11:17:32 PM] info: GET 304 /api/blogs {} body {} size - - 216.389 ms
+
+[12/11/2020, 11:17:39 PM] info: {}
+[12/11/2020, 11:17:39 PM] info: GET 304 /api/blogs {} body {} size - - 161.121 ms
+
+[12/11/2020, 11:17:53 PM] info: {}
+[12/11/2020, 11:17:53 PM] info: GET 304 /api/blogs {} body {} size - - 216.185 ms
+
+[12/11/2020, 11:20:26 PM] info: {}
+[12/11/2020, 11:20:26 PM] info: GET 200 /api/blogs {} body {} size 2936 - 158.416 ms
+
+[12/11/2020, 11:20:58 PM] info: {}
+[12/11/2020, 11:20:59 PM] info: GET 200 /api/blogs {} body {} size 2936 - 168.496 ms
+
+[12/11/2020, 11:21:43 PM] info: {}
+[12/11/2020, 11:21:43 PM] info: GET 404 /api/patients {} body {} size 28 - 3.347 ms
+
+[12/11/2020, 11:21:49 PM] info: {}
+[12/11/2020, 11:21:49 PM] info: GET 200 /api/blogs {} body {} size 2936 - 194.695 ms
+
+[12/11/2020, 11:21:56 PM] info: {}
+[12/11/2020, 11:21:56 PM] info: GET 404 /api/users {} body {} size 28 - 2.531 ms
+
+[12/11/2020, 11:23:37 PM] info: {}
+[12/11/2020, 11:23:37 PM] info: GET 304 /api/blogs {} body {} size - - 316.400 ms
+
