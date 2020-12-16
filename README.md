@@ -132,7 +132,6 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 7.9.-7.21. Exercises: extending the bloglist
 - https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#exercises-7-9-7-21
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part7/part7/Exercises7.9.-7.21.
-![7 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347)
 # Part 8 GraphQL
 - Exercises 8.1.-8.7.
 - https://fullstackopen.com/en/part8/graph_ql_server#exercises-8-1-8-7
