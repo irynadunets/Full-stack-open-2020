@@ -133,3 +133,20 @@ Other topics include debugging applications, configuration, managing runtime env
 - https://fullstackopen.com/en/part7/exercises_extending_the_bloglist#exercises-7-9-7-21
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part7/part7/Exercises7.9.-7.21.
 ![7 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347)
+# Part 8 GraphQL
+- Exercises 8.1.-8.7.
+- https://fullstackopen.com/en/part8/graph_ql_server#exercises-8-1-8-7
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises-%208.1.-8.12.
+- Exercises 8.8.-8.12.
+- https://fullstackopen.com/en/part8/react_and_graph_ql#exercises-8-8-8-12
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises-%208.1.-8.12.
+- Exercises 8.13.-8.16.
+- https://fullstackopen.com/en/part8/database_and_user_administration#exercises-8-13-8-16
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises8.13.-8.25.
+- Exercises 8.17.-8.22.
+- https://fullstackopen.com/en/part8/login_and_updating_the_cache#exercises-8-17-8-22
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises8.13.-8.25.
+- Exercises 8.23.-8.26.
+- https://fullstackopen.com/en/part8/fragments_and_subscriptions#exercises-8-23-8-26
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises8.13.-8.25.
+![8 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347)
