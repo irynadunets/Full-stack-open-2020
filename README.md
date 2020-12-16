@@ -149,4 +149,4 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 8.23.-8.26.
 - https://fullstackopen.com/en/part8/fragments_and_subscriptions#exercises-8-23-8-26
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises8.13.-8.25.
-![8 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347).
+![8 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347)
