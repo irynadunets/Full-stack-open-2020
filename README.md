@@ -146,4 +146,38 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 8.23.-8.26.
 - https://fullstackopen.com/en/part8/fragments_and_subscriptions#exercises-8-23-8-26
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part8/part8/Exercises8.13.-8.25.
+# Part 9 Typescript
+- Exercises 9.1.-9.3.
+- https://fullstackopen.com/en/part9/first_steps_with_typescript#exercises-9-1-9-3
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.1.-9.7.
+- Exercises 9.4.-9.5.
+- https://fullstackopen.com/en/part9/first_steps_with_typescript#exercises-9-4-9-5
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.1.-9.7.
+- Exercises 9.6.-9.7.
+- https://fullstackopen.com/en/part9/first_steps_with_typescript#exercises-9-6-9-7
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.1.-9.7.
+- Exercises 9.8.-9.9.
+- https://fullstackopen.com/en/part9/typing_the_express_app#exercises-9-8-9-9
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
+- Exercises 9.10.-9.11.
+- https://fullstackopen.com/en/part9/typing_the_express_app#exercises-9-10-9-11
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
+- Exercises 9.12.-9.13.
+- https://fullstackopen.com/en/part9/typing_the_express_app#exercises-9-12-9-13
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
+- Exercise 9.14.
+- https://fullstackopen.com/en/part9/react_with_types#exercise-9-14
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.14.-9.15./course-info-ts
+- Exercise 9.15.
+- https://fullstackopen.com/en/part9/react_with_types#exercise-9-15
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.14.-9.15./course-info-ts
+- Exercises 9.16.-9.18.
+- https://fullstackopen.com/en/part9/react_with_types#exercises-9-16-9-18
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
+- https://fullstackopen.com/en/part9/react_with_types#exercises-9-19-9-22
+- Exercises 9.19.-9.22.
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
+- Exercises 9.23.-9.27.
+- https://fullstackopen.com/en/part9/react_with_types#exercises-9-23-9-27
+- solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
 ![9 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347).
