@@ -180,4 +180,4 @@ Other topics include debugging applications, configuration, managing runtime env
 - Exercises 9.23.-9.27.
 - https://fullstackopen.com/en/part9/react_with_types#exercises-9-23-9-27
 - solution: https://github.com/irynadunets/Full-stack-open-2020/tree/part9/part9/Exercises9.8.-9.13-9.16-9.27
-![9 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347).
+![9 ECTS CERT](https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/7b8fd9cb9b6ba223d5ecf8584d45a347)
